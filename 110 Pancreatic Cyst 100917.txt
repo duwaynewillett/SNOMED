@@ -1,0 +1,11 @@
+Term                                       	Code     	Retired
+Congenital pancreatic cyst                 	204808002	No     
+Cyst and pseudocyst of pancreas            	197464001	No     
+Cyst of pancreas                           	31258000 	No     
+Cystadenocarcinoma of pancreas             	235966007	No     
+Dermoid cyst of pancreas                   	235963004	No     
+Malignant cystic tumor of exocrine pancreas	235965006	No     
+Neoplastic cyst of exocrine pancreas       	254610005	No     
+Neoplastic cyst of pancreas                	235964005	No     
+Polycystic disease of pancreas             	235961002	No     
+Retention pancreatic cyst                  	235962009	No     

@@ -1,0 +1,28 @@
+Term                                                                            	Code           	Retired
+Degenerative cervical spinal stenosis                                           	202761002      	No     
+Degenerative lumbar spinal stenosis                                             	202788007      	No     
+Degenerative thoracic spinal stenosis                                           	202783003      	No     
+Iatrogenic cervical spinal stenosis                                             	202762009      	No     
+Iatrogenic lumbar spinal stenosis                                               	202789004      	No     
+Iatrogenic thoracic spinal stenosis                                             	202785005      	No     
+Idiopathic cervical spinal stenosis                                             	202760001      	No     
+Idiopathic lumbar spinal stenosis                                               	202787002      	No     
+Idiopathic thoracic spinal stenosis                                             	202782008      	No     
+Lumbosacral stenosis                                                            	370471003      	No     
+Myelopathy co-occurrent and due to spinal stenosis of thoracic region           	100511000119108	No     
+Myelopathy due to spinal stenosis of lumbar region                              	100491000119103	No     
+Neurogenic claudication co-occurrent and due to spinal stenosis of lumbar region	141481000119102	No     
+Spinal claudication                                                             	240219003      	No     
+Spinal stenosis                                                                 	76107001       	No     
+Spinal stenosis in cervical region                                              	83561009       	No     
+Spinal stenosis in cervical region with myelopathy                              	9971000119105  	No     
+Spinal stenosis of lumbar region                                                	18347007       	No     
+Spinal stenosis of thoracic region                                              	41341006       	No     
+Spinal stenosis other than cervical                                             	73422005       	No     
+Spinal stenosis, excluding cervical region                                      	267980005      	No     
+Stenosis of lateral recess of lumbar spine                                      	427923007      	No     
+Stenosis of spinal canal at craniovertebral junction                            	445100000      	No     
+Stenosis of spinal canal due to bone                                            	203711003      	No     
+Stenosis of spinal canal due to connective tissue                               	203712005      	No     
+Stenosis of spinal canal due to intervertebral disc                             	203713000      	No     
+Stenosis of spinal canal due to subluxation                                     	203710002      	No     

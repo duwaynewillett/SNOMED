@@ -1,0 +1,74 @@
+Term                                                                 	Code             	Retired
+Acute fulminating type A viral hepatitis                             	18917003         	No     
+Acute fulminating type B viral hepatitis                             	13265006         	No     
+Acute fulminating viral hepatitis                                    	45042004         	No     
+Acute hepatic failure caused by hepatitis virus                      	722864002        	No     
+Acute hepatitis B with delta agent (coinfection) with hepatic coma   	186624004        	No     
+Acute hepatitis B with delta-agent (coinfection) without hepatic coma	186626002        	No     
+Acute hepatitis B with hepatitis D                                   	235864009        	No     
+Acute hepatitis C                                                    	235866006        	No     
+Acute hepatitis E                                                    	235867002        	No     
+Acute non-A non-B hepatitis                                          	235868007        	No     
+Acute non-A, non-B, non-C hepatitis                                  	406585009        	No     
+Acute type A viral hepatitis                                         	25102003         	No     
+Acute type B viral hepatitis                                         	76795007         	No     
+Acute viral hepatitis                                                	57412004         	No     
+Anicteric type A viral hepatitis                                     	79031007         	No     
+Anicteric type B viral hepatitis                                     	53425008         	No     
+Anicteric viral hepatitis                                            	4846001          	No     
+Chronic active hepatitis C                                           	708198006        	No     
+Chronic active type B viral hepatitis                                	50167007         	No     
+Chronic active viral hepatitis                                       	66870002         	No     
+Chronic aggressive type B viral hepatitis                            	1116000          	No     
+Chronic aggressive viral hepatitis                                   	89789003         	No     
+Chronic hepatitis C                                                  	128302006        	No     
+Chronic hepatitis C with stage 2 fibrosis                            	703866000        	No     
+Chronic hepatitis C with stage 3 fibrosis                            	347891000119103  	No     
+Chronic hepatitis E                                                  	450880008        	No     
+Chronic non-A non-B hepatitis                                        	235870003        	No     
+Chronic persistent type B viral hepatitis                            	38662009         	No     
+Chronic persistent viral hepatitis                                   	60037002         	No     
+Chronic type B viral hepatitis                                       	61977001         	No     
+Chronic viral hepatitis                                              	10295004         	No     
+Chronic viral hepatitis B with hepatitis D                           	235869004        	No     
+Chronic viral hepatitis B without delta-agent                        	186639003        	No     
+Chronic viral hepatitis C with hepatic coma                          	435101000124104  	No     
+Cirrhosis of liver due to chronic hepatitis C                        	831000119103     	No     
+Cytomegalovirus hepatitis                                            	186698009        	No     
+Epstein-Barr virus hepatitis                                         	302919001        	No     
+Hepatitis B and hepatitis C                                          	442374005        	No     
+Hepatitis B associated with Human immunodeficiency virus infection   	442134007        	No     
+Hepatitis caused by adenovirus                                       	197344005        	No     
+Hepatitis caused by sexually transmissible virus                     	721588008        	No     
+Hepatitis D superinfection of hepatitis B carrier                    	235865005        	No     
+Hepatitis in coxsackie viral disease                                 	36155008         	No     
+Hepatitis in yellow fever                                            	197342009        	No     
+Hepatitis non-A non-B                                                	186634008        	No     
+Herpes simplex hepatitis                                             	1087101000119109 	No     
+History of hepatitis B                                               	429721005        	No     
+History of hepatitis B conferring immunity                           	59851000119103   	No     
+History of hepatitis C                                               	93871000119101   	No     
+Mumps hepatitis                                                      	89231008         	No     
+Non-A, non-B, non-C hepatitis                                        	406584008        	No     
+Occult chronic type B viral hepatitis                                	713966008        	No     
+Posttransfusion viral hepatitis                                      	28766006         	No     
+Reactivation of hepatitis B viral hepatitis                          	446698005        	No     
+Reactivation of hepatitis C viral hepatitis                          	702969000        	No     
+Relapsing type A viral hepatitis                                     	43634002         	No     
+Relapsing viral hepatitis                                            	58282009         	No     
+Subacute hepatic failure caused by hepatitis virus                   	722865001        	No     
+Type B viral hepatitis                                               	66071002         	No     
+Viral hepatitis                                                      	3738000          	No     
+Viral hepatitis A without hepatic coma                               	111879004        	No     
+Viral hepatitis A without hepatic coma, without hepatitis delta      	424758008        	No     
+Viral hepatitis B without hepatic coma                               	111891008        	No     
+Viral hepatitis C                                                    	50711007         	No     
+Viral hepatitis C with coma                                          	186628001        	No     
+Viral hepatitis complicating pregnancy, childbirth and the puerperium	199203001        	No     
+Viral hepatitis D                                                    	707341005        	No     
+Viral hepatitis E                                                    	7111000119109    	No     
+Viral hepatitis in mother complicating childbirth                    	10759111000119102	No     
+Viral hepatitis in mother complicating pregnancy                     	10759151000119101	No     
+Viral hepatitis without hepatic coma                                 	111896003        	No     
+Viral hepatitis, type A                                              	40468003         	No     
+Viral hepatitis, type G                                              	397575003        	No     

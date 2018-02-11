@@ -1,0 +1,53 @@
+Term                                                                    	Code           	Retired
+Adult-onset dystonia parkinsonism                                       	720466001      	No     
+Atypical juvenile parkinsonism                                          	725146001      	No     
+Atypical Parkinsonism                                                   	722964001      	No     
+Autosomal dominant late onset Parkinson disease                         	716662004      	No     
+Autosomal dominant striatal neurodegeneration                           	725392005      	No     
+Carbon monoxide-induced parkinsonism                                    	230293003      	No     
+Cerebral degeneration due to Parkinson's disease                        	438513002      	No     
+Dementia associated with Parkinson's Disease                            	425390006      	No     
+Dementia due to Parkinson's disease                                     	101421000119107	No     
+Dopamine transporter deficiency syndrome                                	722763000      	No     
+Early onset parkinsonism and intellectual disability syndrome           	716107009      	No     
+Functional parkinsonism                                                 	724823008      	No     
+Infantile striatonigral degeneration                                    	718174008      	No     
+Infection causing parkinsonism                                          	724546003      	No     
+Juvenile Parkinson's disease                                            	230291001      	No     
+Kufor Rakeb syndrome                                                    	723992000      	No     
+Manganese-induced parkinsonism                                          	230294009      	No     
+MPTP-induced parkinsonism                                               	15782007       	No     
+Neuroleptic-induced Parkinsonism                                        	72820004       	No     
+On - off phenomenon                                                     	427488005      	No     
+Orthostatic hypotension co-occurrent and due to Parkinson's disease     	718685006      	No     
+Parkinson-dementia complex of Guam                                      	62239001       	No     
+Parkinsonian ataxia                                                     	250053004      	No     
+Parkinsonian facies                                                     	248208000      	No     
+Parkinsonian features                                                   	304535004      	No     
+Parkinsonian flexion posture                                            	271704002      	No     
+Parkinsonian syndrome associated with idiopathic orthostatic hypotension	72585000       	No     
+Parkinsonism                                                            	32798002       	No     
+Parkinsonism co-occurrent and due to acute infection                    	722556003      	No     
+Parkinsonism due to and following injury of head                        	724762006      	No     
+Parkinsonism due to drug                                                	4223005        	No     
+Parkinsonism due to hereditary spastic paraplegia                       	722599008      	No     
+Parkinsonism due to heredodegenerative disorder                         	722965000      	No     
+Parkinsonism due to human immunodeficiency virus infection              	722557007      	No     
+Parkinsonism due to mass lesion of brain                                	724763001      	No     
+Parkinsonism following infection                                        	722558002      	No     
+Parkinsonism with calcification of basal ganglia                        	230295005      	No     
+Parkinsonism with dementia of Guadeloupe                                	715737004      	No     
+Parkinson's disease                                                     	49049000       	No     
+Parkinson's facies                                                      	26823002       	No     
+Perry syndrome                                                          	699184009      	No     
+Postencephalitic parkinsonism                                           	19972008       	No     
+Psychosis co-occurrent and due to Parkinson's disease                   	719717006      	No     
+Rapid onset dystonia parkinsonism                                       	702323008      	No     
+Secondary parkinsonism                                                  	230292008      	No     
+Sporadic Parkinson disease                                              	724761004      	No     
+Striatonigral degeneration                                              	29618004       	No     
+Symptomatic parkinsonism                                                	265377002      	No     
+Syphilitic parkinsonism                                                 	38523005       	No     
+Vascular parkinsonism                                                   	230296006      	No     
+X-linked dystonia parkinsonism                                          	698279003      	No     
+Young onset Parkinson disease                                           	715345007      	No     

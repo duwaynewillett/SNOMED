@@ -1,0 +1,54 @@
+Term                                                                                  	Code           	Retired
+Adult idiopathic generalized osteoporosis                                             	240155001      	No     
+Collapse of cervical vertebra due to osteoporosis                                     	311806008      	No     
+Disappearing bone disease                                                             	240161003      	No     
+Disuse osteoporosis                                                                   	53174001       	No     
+Drug-induced osteoporosis                                                             	14651005       	No     
+Eiken syndrome                                                                        	720863002      	No     
+Global developmental delay, osteopenia, ectodermal defect syndrome                    	717813005      	No     
+Gorham's disease                                                                      	1515008        	No     
+Idiopathic generalized osteoporosis                                                   	203429007      	No     
+Idiopathic osteoporosis                                                               	3345002        	No     
+Idiopathic osteoporosis in pregnancy                                                  	240154002      	No     
+Juvenile idiopathic generalized osteoporosis                                          	240156000      	No     
+Localized disuse osteoporosis                                                         	268028001      	No     
+Localized osteoporosis - Lequesne                                                     	203435007      	No     
+Menopausal osteoporosis                                                               	32369003       	No     
+Neonatal osteopenia                                                                   	717949007      	No     
+Osteopenia                                                                            	312894000      	No     
+Osteopenia of prematurity                                                             	276703007      	No     
+Osteopenia with high fracture risk                                                    	139291000119101	No     
+Osteopenia, intellectual disability, sparse hair syndrome                             	732954002      	No     
+Osteopenia, myopia, hearing loss, intellectual disability, facial dysmorphism syndrome	722111004      	No     
+Osteoporosis                                                                          	64859006       	No     
+Osteoporosis due to corticosteroid                                                    	390833005      	No     
+Osteoporosis due to cystic fibrosis                                                   	707419009      	No     
+Osteoporosis in endocrine disorders                                                   	203437004      	No     
+Osteoporosis in multiple myelomatosis                                                 	203436008      	No     
+Osteoporosis localized to spine                                                       	309745002      	No     
+Osteoporosis of disuse with pathological fracture                                     	203445009      	No     
+Osteoporosis with pathological fracture of cervical vertebrae                         	203452006      	No     
+Osteoporosis with pathological fracture of lumbar vertebrae                           	203450003      	No     
+Osteoporosis with pathological fracture of thoracic vertebrae                         	203451004      	No     
+Osteoporotic bone marrow defect                                                       	109346000      	No     
+Osteoporotic vertebral collapse                                                       	240198002      	No     
+Post-irradiation osteoporosis                                                         	240164006      	No     
+Postmenopausal osteoporosis                                                           	102447009      	No     
+Postoophorectomy osteoporosis                                                         	203433000      	No     
+Postoophorectomy osteoporosis with pathological fracture                              	203444008      	No     
+Post-surgical malabsorption osteoporosis                                              	203434006      	No     
+Post-surgical malabsorption osteoporosis with pathological fracture                   	203446005      	No     
+Posttraumatic osteoporosis                                                            	15743005       	No     
+Primary osteoporosis                                                                  	276661002      	No     
+Regional migrating osteoporosis                                                       	240158004      	No     
+Regional osteoporosis                                                                 	281387004      	No     
+Secondary generalized osteoporosis                                                    	240157009      	No     
+Secondary localized osteoporosis                                                      	240162005      	No     
+Secondary osteoporosis                                                                	703264005      	No     
+Senile osteopenia                                                                     	37605006       	No     
+Senile osteoporosis                                                                   	18040001       	No     
+Steroid-induced osteopenia                                                            	40308000       	No     
+Transient osteoporosis                                                                	699528002      	No     
+Transient osteoporosis of hip                                                         	240159007      	No     
+Transient osteoporosis of hip in pregnancy                                            	240160002      	No     
+Vertebral osteoporosis                                                                	203438009      	No     

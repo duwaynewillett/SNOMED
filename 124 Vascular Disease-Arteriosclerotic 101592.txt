@@ -1,0 +1,195 @@
+Term                                                                                                      	Code             	Retired
+Abdominal aortic aneurysm                                                                                 	233985008        	No     
+Abdominal aortic aneurysm 3.0 to 5.0 centimeters in female                                                	450771000124104  	No     
+Abdominal aortic aneurysm 3.0 to 5.5 centimeters in male                                                  	450781000124101  	No     
+Abdominal aortic aneurysm greater than 5.0 centimeters in female                                          	450791000124103  	No     
+Abdominal aortic aneurysm greater than 5.5 centimeters in male                                            	450801000124102  	No     
+Abdominal aortic aneurysm without rupture                                                                 	75878002         	No     
+Abdominal aortic atherosclerosis                                                                          	233955003        	No     
+Accelerated coronary artery disease in transplanted heart                                                 	233844002        	No     
+Aneurysm of descending aorta                                                                              	426948001        	No     
+Aneurysm of descending thoracic aorta                                                                     	2831000119107    	No     
+Aneurysm of infrarenal abdominal aorta                                                                    	444569004        	No     
+Aneurysm of supraceliac aorta                                                                             	427490006        	No     
+Aneurysm of suprarenal aorta                                                                              	426270006        	No     
+Angina co-occurrent and due to coronary arteriosclerosis                                                  	15960141000119102	No     
+Aortic aneurysm repair                                                                                    	233370007        	No     
+Aortoiliac atherosclerosis                                                                                	233956002        	No     
+Aorto-iliac bifurcation graft for repair of aneurysm                                                      	405529005        	No     
+Aorto-profunda bifurcation bypass with prosthesis                                                         	405486002        	No     
+Aorto-profunda bifurcation graft for repair of aneurysm                                                   	405521008        	No     
+Arteriolar nephritis                                                                                      	16147005         	No     
+Arteriosclerosis obliterans                                                                               	361133006        	No     
+Arteriosclerosis of abdominal aorta                                                                       	431401000124108  	No     
+Arteriosclerosis of aorta                                                                                 	431391000124106  	No     
+Arteriosclerosis of artery of extremity                                                                   	443971004        	No     
+Arteriosclerosis of carotid artery                                                                        	431421000124103  	No     
+Arteriosclerosis of renal artery                                                                          	431431000124100  	No     
+Arteriosclerosis of thoracic aorta                                                                        	431411000124106  	No     
+Arteriosclerotic gangrene                                                                                 	49176002         	No     
+Arteriosclerotic retinopathy                                                                              	95691008         	No     
+Arteriosclerotic vascular disease                                                                         	72092001         	No     
+Asymptomatic coronary heart disease                                                                       	315348000        	No     
+Atheroma of artery                                                                                        	50808002         	No     
+Atheroma of cerebral arteries                                                                             	111299004        	No     
+Atherosclerosis of aorta                                                                                  	81817003         	No     
+Atherosclerosis of aortoiliac bypass graft                                                                	8001000119106    	No     
+Atherosclerosis of arteries of left lower limb                                                            	12237031000119103	No     
+Atherosclerosis of arteries of right lower limb                                                           	12237151000119108	No     
+Atherosclerosis of arteries of the extremities                                                            	51274000         	No     
+Atherosclerosis of artery                                                                                 	441574008        	No     
+Atherosclerosis of artery of bilateral upper limbs                                                        	15648641000119100	No     
+Atherosclerosis of artery of lower limb                                                                   	724440007        	No     
+Atherosclerosis of autologous bypass graft of bilateral lower limbs                                       	15710561000119102	No     
+Atherosclerosis of autologous bypass graft of left lower limb                                             	15710521000119107	No     
+Atherosclerosis of autologous bypass graft of lower limb                                                  	709587006        	No     
+Atherosclerosis of autologous bypass graft of right lower limb                                            	15710281000119108	No     
+Atherosclerosis of autologous vein bypass graft of limb                                                   	442693003        	No     
+Atherosclerosis of bilateral iliac arteries                                                               	16018831000119106	No     
+Atherosclerosis of bilateral renal arteries                                                               	15648771000119103	No     
+Atherosclerosis of bypass graft of bilateral lower limbs                                                  	15710601000119102	No     
+Atherosclerosis of bypass graft of left lower limb                                                        	15710441000119102	No     
+Atherosclerosis of bypass graft of limb                                                                   	442439008        	No     
+Atherosclerosis of bypass graft of lower limb                                                             	709584004        	No     
+Atherosclerosis of bypass graft of right lower limb                                                       	15710401000119104	No     
+Atherosclerosis of coronary artery without angina pectoris                                                	451041000124103  	No     
+Atherosclerosis of left carotid artery                                                                    	284871000119105  	No     
+Atherosclerosis of native arteries of the extremities                                                     	145891000119104  	No     
+Atherosclerosis of nonautologous biological bypass graft of left lower limb                               	15710361000119108	No     
+Atherosclerosis of nonautologous biological bypass graft of limb                                          	442701004        	No     
+Atherosclerosis of nonautologous biological bypass graft of lower limb                                    	709585003        	No     
+Atherosclerosis of nonautologous biological bypass graft of right lower limb                              	15710481000119107	No     
+Atherosclerosis of nonautologous bypass graft of limb                                                     	442735001        	No     
+Atherosclerosis of renal artery                                                                           	45281005         	No     
+Atherosclerosis of right carotid artery                                                                   	284881000119108  	No     
+Atherosclerosis of right iliac artery                                                                     	16019511000119108	No     
+Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome                                       	720519003        	No     
+Atherosclerotic occlusive disease                                                                         	129573006        	No     
+Atherosclerotic plaque disruption with thrombosis of artery                                               	449873008        	No     
+Atherosclerotic renal artery stenosis                                                                     	302910002        	No     
+Atherosclerotic stenosis of brachiocephalic artery                                                        	428507003        	No     
+Bilateral atherosclerosis of arteries of lower limbs                                                      	12236911000119107	No     
+Bilateral atherosclerosis of carotid arteries                                                             	284861000119104  	No     
+Calcific coronary arteriosclerosis                                                                        	92517006         	No     
+Carotid atherosclerosis                                                                                   	300920004        	No     
+Cerebral arteriosclerosis                                                                                 	65312002         	No     
+Cerebral atherosclerosis                                                                                  	55382008         	No     
+Congenital coronary artery sclerosis                                                                      	42866003         	No     
+Coronary arteriosclerosis                                                                                 	53741008         	No     
+Coronary arteriosclerosis after percutaneous coronary angioplasty                                         	11018701000119109	No     
+Coronary arteriosclerosis due to radiation                                                                	427919004        	No     
+Coronary arteriosclerosis following coronary artery bypass graft                                          	139011000119104  	No     
+Coronary arteriosclerosis in native artery                                                                	1641000119107    	No     
+Coronary artery atheroma                                                                                  	67682002         	No     
+Coronary atherosclerosis                                                                                  	443502000        	No     
+Double coronary vessel disease                                                                            	194843003        	No     
+Elective repair of infrarenal abdominal aortic aneurysm                                                   	698995008        	No     
+Elective repair of suprarenal abdominal aortic aneurysm                                                   	698996009        	No     
+Emergency repair of ruptured infrarenal abdominal aortic aneurysm                                         	698992006        	No     
+Emergency repair of ruptured suprarenal abdominal aortic aneurysm                                         	698994007        	No     
+Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery        	175283003        	No     
+Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery          	265492000        	No     
+Endovascular repair of abdominal aortic aneurysm                                                          	444588006        	No     
+Endovascular repair of abdominal aortic aneurysm using fluoroscopic guidance                              	699114003        	No     
+Endovascular repair of abdominal aortic aneurysm with insertion of visceral extension prosthesis          	438361005        	No     
+Endovascular repair of aneurysm with transcatheter placement of wireless physiologic sensor               	439773003        	No     
+Endovascular repair of thoracic aortic aneurysm using fluoroscopic guidance                               	699115002        	No     
+Enlarging abdominal aortic aneurysm                                                                       	425771001        	No     
+Extremity artery atheroma                                                                                 	195254008        	No     
+Familial abdominal aortic aneurysm                                                                        	715364001        	No     
+Fluoroscopy guided aortic aneurysm repair                                                                 	709857008        	No     
+Gangrene due to atherosclerosis of native artery of limb                                                  	5111000119102    	No     
+Gangrene of left lower limb co-occurrent and due to atherosclerosis of bypass graft                       	16064811000119108	No     
+Gangrene of right lower limb co-occurrent and due to atherosclerosis of bypass graft                      	16065251000119109	No     
+Generalized atherosclerosis                                                                               	39823006         	No     
+H/O: aortic aneurysm                                                                                      	161514008        	No     
+Hand-assisted laparoscopic repair of aneurysm of abdominal aorta                                          	700418003        	No     
+History of aneurysm of iliac artery                                                                       	433845004        	No     
+History of aortofemoral bypass surgery                                                                    	429117009        	No     
+History of aortoiliac atherosclerosis                                                                     	440700005        	No     
+History of arterial bypass of lower limb artery                                                           	429367008        	No     
+History of branch retinal vein occlusion                                                                  	427902001        	No     
+History of cardioembolic stroke                                                                           	429235008        	No     
+History of carotid endarterectomy                                                                         	428534000        	No     
+History of cerebral artery occlusive disease without infarction                                           	59751000119108   	No     
+History of chronic dissection of thoracic aorta                                                           	713031009        	No     
+History of coronary artery bypass grafting                                                                	399261000        	No     
+History of diabetic peripheral angiopathy                                                                 	433874008        	No     
+History of dissection of carotid artery                                                                   	690481000119102  	No     
+History of dissection of external carotid artery                                                          	720810005        	No     
+History of dissection of internal carotid artery                                                          	720729008        	No     
+History of embolic stroke without residual deficits                                                       	432051000124108  	No     
+History of endovascular stent graft for repair of abdominal aortic aneurysm                               	139941000119104  	No     
+History of nontraumatic ruptured cerebral aneurysm                                                        	690071000119109  	No     
+History of occlusion of central retinal artery                                                            	432160005        	No     
+History of occlusion of central retinal vein                                                              	432006000        	No     
+History of occlusion of cerebral artery                                                                   	431310008        	No     
+History of occlusion of cerebral artery without cerebral infarction                                       	433807000        	No     
+History of occlusive disease of artery of lower extremity                                                 	430301009        	No     
+History of occlusive disease of artery of upper extremity                                                 	430305000        	No     
+History of peripheral arterial occlusive disease                                                          	431545001        	No     
+History of peripheral vascular disease                                                                    	473109007        	No     
+History of placement of stent in coronary artery bypass graft                                             	130541000119100  	No     
+History of repair of aneurysm of abdominal aorta                                                          	429205001        	No     
+History of repair of aneurysm of abdominal aorta using endovascular stent graft                           	431691000124103  	No     
+History of stable aneurysm of abdominal aorta                                                             	430168009        	No     
+History of thoracoabdominal aortic aneurysm                                                               	59721000119100   	No     
+History of thrombosis of internal jugular vein                                                            	15670001000004109	No     
+History of thrombotic stroke without residual deficits                                                    	118951000119103  	No     
+Iatrogenic complication of vascular surgery                                                               	429724002        	No     
+Idiopathic pulmonary arteriosclerosis                                                                     	49778009         	No     
+Inflammatory abdominal aortic aneurysm                                                                    	314186008        	No     
+Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis                	12236951000119108	No     
+Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis of bypass graft	16014071000119107	No     
+Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis                      	12237071000119100	No     
+Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis of bypass graft      	16014031000119109	No     
+Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis                     	12237191000119103	No     
+Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis of bypass graft     	16013711000119104	No     
+Juxtarenal aortic aneurysm                                                                                	314185007        	No     
+Leaking abdominal aortic aneurysm                                                                         	195268001        	No     
+Left main coronary artery disease                                                                         	371804009        	No     
+Lipid-rich atherosclerosis of coronary artery                                                             	451361000124102  	No     
+Monckeberg's medial sclerosis                                                                             	69742007         	No     
+Multi vessel coronary artery disease                                                                      	371803003        	No     
+Non-obstructive atherosclerosis of coronary artery                                                        	719678003        	No     
+Obliterative coronary artery disease                                                                      	420006002        	No     
+Occlusive disease of artery of lower extremity                                                            	432083006        	No     
+Occlusive disease of artery of upper extremity                                                            	431466007        	No     
+Open repair of thoracoabdominal aortic aneurysm                                                           	608873006        	No     
+Pain at rest of left lower limb co-occurrent and due to atherosclerosis                                   	12237111000119107	No     
+Pain at rest of right lower limb co-occurrent and due to atherosclerosis                                  	12237231000119107	No     
+Pain at rest of right lower limb co-occurrent and due to atherosclerosis of bypass graft                  	16066731000119102	No     
+Recurrent abdominal aortic aneurysm                                                                       	315295003        	No     
+Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty                  	429245005        	No     
+Repair of abdominal aortic aneurysm with insertion of endovascular stent graft                            	699667004        	No     
+Repair of aneurysm of abdominal aorta                                                                     	405525004        	No     
+Repair of aneurysm of abdominal aorta involving iliac vessels with graft                                  	50075004         	No     
+Repair of aneurysm of abdominal aorta involving visceral vessels with graft                               	56834002         	No     
+Repair of aneurysm of abdominal aorta with graft                                                          	21574003         	No     
+Repair of aneurysm of abdominal aorta with insertion of endovascular stent                                	699102006        	No     
+Repair of aneurysm of bifurcation of aorta with insertion of endovascular stent graft                     	705015009        	No     
+Repair of aneurysm of sinus of Valsalva                                                                   	386815009        	No     
+Repair of aneurysm of suprarenal abdominal aorta with insertion of endovascular stent                     	442125002        	No     
+Repair of aneurysm of thoracic aorta with insertion of endovascular stent                                 	442457009        	No     
+Repair of aortic aneurysm using bifurcation graft                                                         	175282008        	No     
+Repair of aortic aneurysm using straight graft                                                            	233376001        	No     
+Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent                       	441612006        	No     
+Repair of ruptured aneurysm of abdominal aorta involving iliac vessels with graft                         	28856006         	No     
+Repair of ruptured aneurysm of abdominal aorta with graft                                                 	23617000         	No     
+Repair of suprarenal aortic aneurysm with insertion of endovascular stent graft                           	429706004        	No     
+Repair of thoracic aortic aneurysm                                                                        	19262003         	No     
+Repair of thoracoabdominal aortic aneurysm                                                                	315362007        	No     
+Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery                  	175284009        	No     
+Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery                    	265493005        	No     
+Ruptured abdominal aortic aneurysm                                                                        	14336007         	No     
+Ruptured suprarenal aortic aneurysm                                                                       	314184006        	No     
+Senile arteriosclerosis                                                                                   	361132001        	No     
+Significant coronary bypass graft disease                                                                 	371805005        	No     
+Single coronary vessel disease                                                                            	194842008        	No     
+Thoracoabdominal aortic aneurysm                                                                          	233984007        	No     
+Thoracoabdominal aortic aneurysm, ruptured                                                                	195265003        	No     
+Triple vessel disease of the heart                                                                        	233817007        	No     
+Tube graft abdominal aortic aneurysm - emergency                                                          	233377005        	No     
+Unstable angina co-occurrent and due to coronary arteriosclerosis                                         	15960061000119102	No     
+Y graft abdominal Aortic aneurysm                                                                         	275037003        	No     
+Y graft of abdominal aortic aneurysm - emergency                                                          	233374003        	No     

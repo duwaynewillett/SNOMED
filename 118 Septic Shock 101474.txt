@@ -1,0 +1,40 @@
+Term                                                                                                       	Code             	Retired
+Dengue shock syndrome                                                                                      	409671005        	No     
+Endotoxic shock                                                                                            	371769008        	No     
+Failed attempted termination of pregnancy with septic shock                                                	12983003         	No     
+Gram-positive septic shock                                                                                 	361206004        	No     
+Hyperdynamic septic shock                                                                                  	234173007        	No     
+Hypodynamic septic shock                                                                                   	234174001        	No     
+Illegal termination of pregnancy with septic shock                                                         	82338001         	No     
+Induced termination of pregnancy complicated by septic shock                                               	609487007        	No     
+Legal termination of pregnancy with septic shock                                                           	25691001         	No     
+Miscarriage with septic shock                                                                              	18613002         	No     
+Postoperative endotoxic shock                                                                              	213255003        	No     
+Postoperative septic shock                                                                                 	213256002        	No     
+Postprocedural septic shock                                                                                	12266551000119108	No     
+Pyrogenic shock                                                                                            	70993000         	No     
+Septic shock                                                                                               	76571007         	No     
+Septic shock co-occurrent with acute organ dysfunction due to anaerobic bacteria                           	127141000119107  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Chromobacterium                              	1092471000119105 	No     
+Septic shock co-occurrent with acute organ dysfunction due to coagulase-negative Staphylococcus            	1092481000119108 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Enterococcus                                 	1092491000119106 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Gonococcus                                   	1092501000119104 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Gram-positive coccus                         	1092511000119101 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Group A streptococcus                        	1092531000119106 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Group B streptococcus                        	1092541000119102 	No     
+Septic shock co-occurrent with acute organ dysfunction due to Haemophilus influenzae                       	127171000119100  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Meningococcus                                	127181000119102  	No     
+Septic shock co-occurrent with acute organ dysfunction due to methicillin resistant Staphylococcus aureus  	128381000119104  	No     
+Septic shock co-occurrent with acute organ dysfunction due to methicillin susceptible Staphylococcus aureus	127191000119104  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Pneumococcus                                 	127261000119100  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Pseudomonas                                  	127201000119101  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Serratia                                     	127231000119108  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Staphylococcus                               	127241000119104  	No     
+Septic shock co-occurrent with acute organ dysfunction due to Streptococcus                                	127251000119102  	No     
+Septic shock due to transfusion                                                                            	15765005         	No     
+Septic shock following molar AND/OR ectopic pregnancy                                                      	24051007         	No     
+Staphylococcal toxic shock syndrome                                                                        	240450004        	No     
+Streptococcal toxic shock syndrome                                                                         	240451000        	No     
+Toxic shock syndrome                                                                                       	18504008         	No     
+Toxic shock syndrome due to methicillin resistant Staphylococcus aureus infection                          	127421000119109  	No     
+Toxic shock syndrome due to methicillin susceptible Staphylococcus aureus                                  	127411000119102  	No     

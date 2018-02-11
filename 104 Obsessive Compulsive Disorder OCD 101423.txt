@@ -1,0 +1,12 @@
+Term                                                          	Code     	Retired
+Compulsive neurosis                                           	191737008	No     
+Compulsive personality disorder                               	473456000	No     
+Obsessional neurosis                                          	191738003	No     
+Obsessional personality disorder                              	473457009	No     
+Obsessive compulsive disorder caused by cocaine               	724693000	No     
+Obsessive compulsive disorder caused by psychoactive substance	724730008	No     
+Obsessive compulsive personality disorder                     	1376001  	No     
+Obsessive-compulsive disorder                                 	191736004	No     
+Obsessive-compulsive personality trait                        	112091009	No     
+Olfactory reference disorder                                  	723913009	No     
+Psychogenic rumination                                        	192014006	No     

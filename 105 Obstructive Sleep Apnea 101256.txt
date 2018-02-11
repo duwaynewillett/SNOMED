@@ -1,0 +1,7 @@
+Term                                                                	Code             	Retired
+Acute hypercapnic respiratory failure due to obstructive sleep apnea	101301000119106  	No     
+Mixed sleep apnea                                                   	230493001        	No     
+Obstructive sleep apnea of adult                                    	1101000119103    	No     
+Obstructive sleep apnea of child                                    	1091000119108    	No     
+Obstructive sleep apnea syndrome                                    	78275009         	No     
+Severe pediatric obstructive sleep apnea                            	16275741000119100	No     

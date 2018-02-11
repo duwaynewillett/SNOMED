@@ -1,0 +1,1001 @@
+Term                                                                                                 	Code           	Retired
+A/N - shared care                                                                                    	169616000      	No     
+A/N amniocentesis - awaited                                                                          	169651008      	No     
+A/N amniocentesis - offered                                                                          	169648001      	No     
+A/N amniocentesis wanted                                                                             	169650009      	No     
+A/N care from consultant                                                                             	169615001      	No     
+A/N care midwifery led                                                                               	310248000      	No     
+A/N U/S scan awaited                                                                                 	169662008      	No     
+A/N U/S scan for slow growth                                                                         	169667002      	No     
+A/N U/S scan offered                                                                                 	169659005      	No     
+A/N U/S scan wanted                                                                                  	169661001      	No     
+Abdominal pregnancy                                                                                  	82661006       	No     
+Abnormal amnion                                                                                      	26741000       	No     
+Abnormal amniotic fluid                                                                              	42170009       	No     
+Abnormal chorion                                                                                     	109562007      	No     
+Abnormal fetal duplication                                                                           	72014004       	No     
+Abnormal findings on antenatal screening of mother                                                   	199732004      	No     
+Abnormal immature chorion                                                                            	302644007      	No     
+Abnormal immature chorionic villi                                                                    	302078000      	No     
+Abnormal mature chorion                                                                              	123667006      	No     
+Abnormal placenta affecting management of mother                                                     	56313000       	No     
+Abnormal placental secretion of chorionic gonadotropin                                               	102882004      	No     
+Abnormal products of conception                                                                      	39804004       	No     
+Abnormal umbilical cord                                                                              	90009001       	No     
+Abnormal weight gain in pregnancy                                                                    	237288003      	No     
+Abnormal yolk sac                                                                                    	17588005       	No     
+Abnormality of forces of labor                                                                       	35882009       	No     
+Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy                              	1639007        	No     
+ABO isoimmunization affecting pregnancy                                                              	3885002        	No     
+Absence of placental secretion of chorionic gonadotropin                                             	102885002      	No     
+Absent blood vessel in umbilical cord                                                                	302945005      	No     
+Accidental antepartum hemorrhage                                                                     	405736009      	No     
+Acquired stenosis of vagina affecting pregnancy                                                      	43651009       	No     
+Acute cystitis in pregnancy, antepartum                                                              	521000119104   	No     
+Adherent placenta                                                                                    	28911003       	No     
+Afibrinogenemia - postpartum                                                                         	237337003      	No     
+AFP - blood sent                                                                                     	169688006      	No     
+AFP blood test offered                                                                               	169684008      	No     
+AFP blood test wanted                                                                                	169686005      	No     
+Alcohol consumption during pregnancy                                                                 	427013000      	No     
+Alopecia of pregnancy                                                                                	201134009      	No     
+Alpha-fetoprotein blood test status                                                                  	243828009      	No     
+Amnion nodosum                                                                                       	71473008       	No     
+Amniotic cavity infection - delivered                                                                	199677008      	No     
+Amniotic cavity infection with antenatal problem                                                     	199678003      	No     
+Amniotic cyst                                                                                        	20391007       	No     
+Amniotic fluid leaking                                                                               	371380006      	No     
+Anemia during pregnancy - baby delivered                                                             	199244000      	No     
+Anemia during pregnancy - baby not yet delivered                                                     	199246003      	No     
+Angiectasis pregnancy                                                                                	41991004       	No     
+Angular pregnancy                                                                                    	198627000      	No     
+Anhydramnios                                                                                         	313017000      	No     
+Annular placenta                                                                                     	67881007       	No     
+Anomaly of placenta                                                                                  	33552005       	No     
+Antenatal amniocentesis                                                                              	169646002      	No     
+Antenatal Anti-D prophylaxis offered                                                                 	408784001      	No     
+Antenatal Anti-D prophylaxis status                                                                  	408783007      	No     
+Antenatal hepatitis B blood screening test refused                                                   	408826007      	No     
+Antenatal HIV blood screening test status                                                            	408827003      	No     
+Antenatal RhD screening offered                                                                      	169675008      	No     
+Antenatal thalassemia blood screening test offered                                                   	408844004      	No     
+Antepartum fetal asphyxia                                                                            	276642001      	No     
+Antepartum hemorrhage                                                                                	34842007       	No     
+Antepartum hemorrhage associated with coagulation defect                                             	267199000      	No     
+Antepartum hemorrhage due to cervical erosion                                                        	698713005      	No     
+Antepartum hemorrhage due to cervical polyp                                                          	698712000      	No     
+Antepartum hemorrhage due to placenta previa type I                                                  	698708006      	No     
+Antepartum hemorrhage due to placenta previa type II                                                 	698709003      	No     
+Antepartum hemorrhage due to placenta previa type III                                                	698710008      	No     
+Antepartum hemorrhage due to placenta previa type IV                                                 	698711007      	No     
+Antepartum hemorrhage with afibrinogenemia                                                           	237272003      	No     
+Antepartum hemorrhage with coagulation defect - delivered                                            	198917009      	No     
+Antepartum hemorrhage with coagulation defect - not delivered                                        	198918004      	No     
+Antepartum hemorrhage with hyperfibrinolysis                                                         	237271005      	No     
+Antepartum hemorrhage with hypofibrinogenemia                                                        	237270006      	No     
+Antepartum hemorrhage with trauma                                                                    	198920001      	No     
+Antepartum hemorrhage with trauma - delivered                                                        	198922009      	No     
+Antepartum hemorrhage with trauma - not delivered                                                    	198923004      	No     
+Antepartum hemorrhage with uterine leiomyoma                                                         	198925006      	No     
+Antepartum hemorrhage with uterine leiomyoma - delivered                                             	198927003      	No     
+Antepartum hemorrhage with uterine leiomyoma - not delivered                                         	198928008      	No     
+Antepartum hemorrhage, abruptio placentae and placenta previa                                        	267197003      	No     
+Anti-D isoimmunization affecting pregnancy                                                           	699950009      	No     
+Arrested active phase of labor                                                                       	24699006       	No     
+Asymptomatic bacteriuria in pregnancy                                                                	31563000       	No     
+Asymptomatic bacteriuria in pregnancy - delivered                                                    	199099004      	No     
+Asymptomatic bacteriuria in pregnancy - delivered with postnatal complication                        	199100007      	No     
+Asymptomatic bacteriuria in pregnancy - not delivered                                                	199101006      	No     
+Asymptomatic bacteriuria in pregnancy with postnatal complication                                    	199102004      	No     
+Atonic postpartum hemorrhage                                                                         	27214003       	No     
+Atony of uterus                                                                                      	9293002        	No     
+Atypical isoimmunization of newborn                                                                  	276580005      	No     
+Auscultatory sign                                                                                    	49794002       	No     
+Back pain complicating pregnancy                                                                     	91957002       	No     
+Ballottement of fetal head abdominally                                                               	289350009      	No     
+Ballottement of fetal head at fundus                                                                 	289351008      	No     
+Bearing down reflex                                                                                  	46022004       	No     
+Benign essential hypertension complicating AND/OR reason for care during pregnancy                   	23717007       	No     
+Benign neoplasm of placenta                                                                          	92297008       	No     
+Biochemical pregnancy                                                                                	237243004      	No     
+Blighted ovum                                                                                        	35999006       	No     
+Blighted ovum and/or carneous mole                                                                   	286996009      	No     
+Bluish discoloration of cervix                                                                       	31159001       	No     
+Born after multiple pregnancy                                                                        	288259000      	No     
+Braun von Fernwald's sign                                                                            	10423003       	No     
+Braxton Hicks contractions                                                                           	32644009       	No     
+Breech malpresentation successfully converted to cephalic presentation                               	17532001       	No     
+Calkin's sign                                                                                        	70651004       	No     
+Carcinoma in situ of placenta                                                                        	92684002       	No     
+Cardiac disease in pregnancy                                                                         	274121004      	No     
+Carneous mole                                                                                        	44979007       	No     
+Central nervous system malformation in fetus affecting obstetrical care                              	1538006        	No     
+Cephalic version                                                                                     	84235001       	No     
+Cephalopelvic disproportion                                                                          	199397009      	No     
+Cervical cerclage suture present                                                                     	69802008       	No     
+Cervical incompetence                                                                                	17382005       	No     
+Cervical incompetence - delivered                                                                    	199482005      	No     
+Cervical incompetence - delivered with postnatal complication                                        	199483000      	No     
+Cervical incompetence with antenatal problem                                                         	199484006      	No     
+Cervical incompetence with postnatal complication                                                    	199485007      	No     
+Cervical pregnancy                                                                                   	79290002       	No     
+Chaussier's sign                                                                                     	14049007       	No     
+Cholestasis of pregnancy                                                                             	235888006      	No     
+Chorea gravidarum                                                                                    	25113000       	No     
+Chorioallantoic placenta                                                                             	75428007       	No     
+Chorioangioma                                                                                        	237268002      	No     
+Choriovitelline placenta                                                                             	28608002       	No     
+Chromosomal abnormality in fetus affecting obstetrical care                                          	42686001       	No     
+Cicatrix of cervix affecting pregnancy                                                               	9720009        	No     
+Clinical sign related to pregnancy                                                                   	106111002      	No     
+Clostridial intra-amniotic fetal infection                                                           	206365006      	No     
+Combined intrauterine and ovarian pregnancy                                                          	699240001      	No     
+Combined pregnancy                                                                                   	31601007       	No     
+Combined tubal and intrauterine pregnancy                                                            	442478007      	No     
+Complete hydatidiform mole                                                                           	237249000      	No     
+Complication occurring during pregnancy                                                              	609496007      	No     
+Complications specific to multiple gestation                                                         	199305006      	No     
+Concealed accidental hemorrhage                                                                      	237274002      	No     
+Concealed pregnancy                                                                                  	237233002      	No     
+Condyloma acuminata of vulva in pregnancy                                                            	428017002      	No     
+Congenital abnormality of uterus, affecting pregnancy                                                	41215002       	No     
+Congenital cardiovascular disorder during pregnancy - baby delivered                                 	199266007      	No     
+Congenital contracted pelvis                                                                         	71901000       	No     
+Congenital OR acquired abnormality of cervix affecting pregnancy                                     	111443000      	No     
+Congenital OR acquired abnormality of vagina affecting pregnancy                                     	111444006      	No     
+Congenital OR acquired abnormality of vulva affecting pregnancy                                      	111445007      	No     
+Congenital stenosis of vagina affecting pregnancy                                                    	43970002       	No     
+Conjoined twins causing disproportion                                                                	111440002      	No     
+Constriction band abnormality of placental amnion                                                    	439107005      	No     
+Continuing pregnancy after abortion of one fetus or more                                             	199306007      	No     
+Continuing pregnancy after abortion of sibling fetus                                                 	237247003      	No     
+Continuing pregnancy after intrauterine death of one or more fetuses                                 	199307003      	No     
+Continuing pregnancy after intrauterine death of one twin with intrauterine retention of dead twin   	472321009      	No     
+Continuing pregnancy after intrauterine death of twin fetus                                          	429187001      	No     
+Contracted pelvis                                                                                    	871005         	No     
+Contraction ring dystocia                                                                            	62129004       	No     
+Cornual pregnancy                                                                                    	87605005       	No     
+Couvelaire uterus                                                                                    	62131008       	No     
+Cylindrical embryo                                                                                   	7907005        	No     
+Cystitis of pregnancy                                                                                	275412000      	No     
+Cystocele affecting pregnancy                                                                        	443006         	No     
+Date of positive pregnancy test                                                                      	440020003      	No     
+Decreased placental secretion of chorionic gonadotropin                                              	102884003      	No     
+Deep transverse arrest                                                                               	1343000        	No     
+Deep transverse arrest - delivered                                                                   	199774009      	No     
+Deep transverse arrest with antenatal problem                                                        	199775005      	No     
+Deep transverse arrest with persistent occipitoposterior position                                    	698702007      	No     
+Deficiency of placental function                                                                     	68635007       	No     
+Delayed AND/OR secondary postpartum hemorrhage                                                       	23171006       	No     
+Delayed delivery after artificial rupture of membranes                                               	35347003       	No     
+Delayed delivery of second of multiple births                                                        	21987001       	No     
+Delayed delivery of second twin                                                                      	275429002      	No     
+Delayed delivery of second twin, triplet etc                                                         	199860006      	No     
+Delayed delivery of triplet                                                                          	237321009      	No     
+Delayed delivery second twin - delivered                                                             	199862003      	No     
+Delayed delivery second twin with antenatal problem                                                  	199863008      	No     
+Delivery AND/OR maternal condition affecting management                                              	106008001      	No     
+Delivery of viable fetus in abdominal pregnancy                                                      	198617006      	No     
+Desultory labor                                                                                      	79179003       	No     
+Detached chorionic villi                                                                             	109892006      	No     
+Detached products of conception                                                                      	109891004      	No     
+Detached trophoblast                                                                                 	109893001      	No     
+Diabetes mellitus during pregnancy - baby delivered                                                  	199225007      	No     
+Diabetes mellitus during pregnancy - baby not yet delivered                                          	199227004      	No     
+Dichorionic diamniotic twin pregnancy                                                                	459166009      	No     
+Disorder of amniotic cavity AND/OR membrane                                                          	72860003       	No     
+Disorder of amniotic fluid production                                                                	130960004      	No     
+Disorder of amniotic fluid turnover                                                                  	130959009      	No     
+Disorder of chorion                                                                                  	388605009      	No     
+Disorder of pelvic size and disproportion                                                            	237256006      	No     
+Disorder of placenta                                                                                 	125586008      	No     
+Disorder of placental barrier function                                                               	42553009       	No     
+Disorder of placental circulatory function                                                           	130958001      	No     
+Disorder of placental endocrine function                                                             	70137000       	No     
+Disorder of pregnancy                                                                                	173300003      	No     
+Disorder of product of conception                                                                    	128604004      	No     
+Disproportion between fetal head and pelvis                                                          	25749005       	No     
+Distress from pain in labor                                                                          	249196008      	No     
+Dorsoanterior shoulder presentation                                                                  	249104003      	No     
+Dorsoposterior shoulder presentation                                                                 	249105002      	No     
+Double knee presentation                                                                             	249100007      	No     
+Double uterus affecting pregnancy                                                                    	21346009       	No     
+Drug dependence during pregnancy - baby delivered                                                    	199252002      	No     
+Drug dependence during pregnancy - baby not yet delivered                                            	199254001      	No     
+Drug dependence in mother complicating pregnancy, childbirth AND/OR puerperium                       	34150001       	No     
+Duffy isoimmunization in pregnancy                                                                   	237303006      	No     
+Duffy isoimmunization of the newborn                                                                 	307337003      	No     
+Dyscoordinate labor                                                                                  	18606002       	No     
+Early stage of pregnancy                                                                             	314204000      	No     
+Eclampsia in pregnancy                                                                               	198992004      	No     
+Ectopic fetus                                                                                        	49964003       	No     
+Ectopic placenta                                                                                     	26358008       	No     
+Ectopic pregnancy                                                                                    	34801009       	No     
+Effective uterine contractions                                                                       	289727001      	No     
+Eight previous induced terminations of pregnancy                                                     	83712005       	No     
+Elderly primigravida with antenatal problem                                                          	199719009      	No     
+Epithelioid trophoblastic tumor                                                                      	609515005      	No     
+Erythema multiforme of pregnancy                                                                     	238820002      	No     
+Essential hypertension complicating AND/OR reason for care during pregnancy                          	78808002       	No     
+Estimated date of delivery                                                                           	161714006      	No     
+Estimated date of delivery - finding                                                                 	366322004      	No     
+Estimated date of delivery from last period                                                          	289206005      	No     
+Excessive fetal growth affecting management of mother                                                	22173004       	No     
+Exhaustion during labor                                                                              	200164009      	No     
+Expulsive uterine contractions                                                                       	289729003      	No     
+Face OR brow presentation of fetus                                                                   	37762002       	No     
+Failed attempted medical termination of pregnancy                                                    	271954000      	No     
+Failed attempted termination of pregnancy                                                            	49416000       	No     
+Failed attempted termination of pregnancy complicated by damage to pelvic organ and/or tissues       	7822001        	No     
+Failed attempted termination of pregnancy complicated by delayed and/or excessive hemorrhage         	26623000       	No     
+Failed attempted termination of pregnancy complicated by embolism                                    	13943000       	No     
+Failed attempted termination of pregnancy complicated by genital-pelvic infection                    	26224003       	No     
+Failed attempted termination of pregnancy complicated by metabolic disorder                          	5939002        	No     
+Failed attempted termination of pregnancy complicated by renal failure                               	29421008       	No     
+Failed attempted termination of pregnancy complicated by shock                                       	67042008       	No     
+Failed attempted termination of pregnancy with acute necrosis of liver                               	3873005        	No     
+Failed attempted termination of pregnancy with acute renal failure                                   	17380002       	No     
+Failed attempted termination of pregnancy with afibrinogenemia                                       	27068000       	No     
+Failed attempted termination of pregnancy with air embolism                                          	36664002       	No     
+Failed attempted termination of pregnancy with amniotic fluid embolism                               	11454006       	No     
+Failed attempted termination of pregnancy with blood-clot embolism                                   	19363005       	No     
+Failed attempted termination of pregnancy with cardiac arrest and/or failure                         	73837001       	No     
+Failed attempted termination of pregnancy with cerebral anoxia                                       	76889003       	No     
+Failed attempted termination of pregnancy with complication                                          	59919008       	No     
+Failed attempted termination of pregnancy with damage to pelvic organ or tissues                     	198808008      	No     
+Failed attempted termination of pregnancy with defibrination syndrome                                	34478009       	No     
+Failed attempted termination of pregnancy with delayed or excessive hemorrhage                       	198807003      	No     
+Failed attempted termination of pregnancy with electrolyte imbalance                                 	34530006       	No     
+Failed attempted termination of pregnancy with embolism                                              	198812002      	No     
+Failed attempted termination of pregnancy with endometritis                                          	38099005       	No     
+Failed attempted termination of pregnancy with fat embolism                                          	33490001       	No     
+Failed attempted termination of pregnancy with genital tract or pelvic infection                     	198806007      	No     
+Failed attempted termination of pregnancy with intravascular hemolysis                               	44992005       	No     
+Failed attempted termination of pregnancy with laceration of bladder                                 	19099008       	No     
+Failed attempted termination of pregnancy with laceration of bowel                                   	38951007       	No     
+Failed attempted termination of pregnancy with laceration of broad ligament                          	63637002       	No     
+Failed attempted termination of pregnancy with laceration of cervix                                  	25032009       	No     
+Failed attempted termination of pregnancy with laceration of periurethral tissue                     	61951009       	No     
+Failed attempted termination of pregnancy with laceration of uterus                                  	61452007       	No     
+Failed attempted termination of pregnancy with laceration of vagina                                  	55639004       	No     
+Failed attempted termination of pregnancy with metabolic disorder                                    	198810005      	No     
+Failed attempted termination of pregnancy with oliguria                                              	21334005       	No     
+Failed attempted termination of pregnancy with parametritis                                          	44640004       	No     
+Failed attempted termination of pregnancy with pelvic peritonitis                                    	50844007       	No     
+Failed attempted termination of pregnancy with perforation of bladder                                	19228003       	No     
+Failed attempted termination of pregnancy with perforation of bowel                                  	34367002       	No     
+Failed attempted termination of pregnancy with perforation of broad ligament                         	56451001       	No     
+Failed attempted termination of pregnancy with perforation of cervix                                 	47161002       	No     
+Failed attempted termination of pregnancy with perforation of periurethral tissue                    	46365005       	No     
+Failed attempted termination of pregnancy with perforation of uterus                                 	50726009       	No     
+Failed attempted termination of pregnancy with perforation of vagina                                 	64181003       	No     
+Failed attempted termination of pregnancy with postoperative shock                                   	53111003       	No     
+Failed attempted termination of pregnancy with pulmonary embolism                                    	58123006       	No     
+Failed attempted termination of pregnancy with renal failure                                         	198809000      	No     
+Failed attempted termination of pregnancy with renal tubular necrosis                                	77186001       	No     
+Failed attempted termination of pregnancy with salpingitis                                           	81521003       	No     
+Failed attempted termination of pregnancy with salpingo-oophoritis                                   	39120007       	No     
+Failed attempted termination of pregnancy with sepsis                                                	24444009       	No     
+Failed attempted termination of pregnancy with septic embolism                                       	43293004       	No     
+Failed attempted termination of pregnancy with septic shock                                          	12983003       	No     
+Failed attempted termination of pregnancy with shock                                                 	198811009      	No     
+Failed attempted termination of pregnancy with soap embolism                                         	56462001       	No     
+Failed attempted termination of pregnancy with uremia                                                	1592005        	No     
+Failed attempted termination of pregnancy with urinary tract infection                               	66892003       	No     
+Failed attempted termination of pregnancy without complication                                       	90645002       	No     
+Failed induction of labor                                                                            	42571002       	No     
+Failed mechanical induction                                                                          	90188009       	No     
+Failed mechanical induction - delivered                                                              	199694005      	No     
+Failed mechanical induction with antenatal problem                                                   	199695006      	No     
+Failed medical induction of labor                                                                    	77854008       	No     
+Failed medical termination of pregnancy, complicated by delayed or excessive hemorrhage              	198875007      	No     
+Failed medical termination of pregnancy, complicated by embolism                                     	198876008      	No     
+Failed medical termination of pregnancy, complicated by genital tract or pelvic infection            	198874006      	No     
+Failed medical termination of pregnancy, without complication                                        	198878009      	No     
+Failure of induction of labor by oxytocic drugs                                                      	91484005       	No     
+Fair uterine contractions                                                                            	289717007      	No     
+False knot of umbilical cord                                                                         	36697001       	No     
+Fatigue during pregnancy                                                                             	88895004       	No     
+Fatigue during pregnancy - delivered                                                                 	199121007      	No     
+Fatigue during pregnancy - delivered with postnatal complication                                     	199122000      	No     
+Fatigue during pregnancy - not delivered                                                             	199123005      	No     
+Fatigue during pregnancy with postnatal complication                                                 	199124004      	No     
+Fetal acidemia affecting management of mother                                                        	13866000       	No     
+Fetal AND/OR placental disorder affecting management of mother                                       	22753004       	No     
+Fetal ascites causing disproportion                                                                  	8884000        	No     
+Fetal bradycardia affecting management of mother                                                     	17594002       	No     
+Fetal condition affecting obstetrical care of mother                                                 	106009009      	No     
+Fetal death, affecting management of mother                                                          	14022007       	No     
+Fetal disproportion                                                                                  	31805001       	No     
+Fetal disproportion due to fetal myelomeningocele                                                    	52327008       	No     
+Fetal distress affecting management of mother                                                        	12867002       	No     
+Fetal dystocia                                                                                       	7245003        	No     
+Fetal ear presenting                                                                                 	249090000      	No     
+Fetal hydrops causing disproportion                                                                  	39208009       	No     
+Fetal mouth presenting                                                                               	249089009      	No     
+Fetal nose presenting                                                                                	249091001      	No     
+Fetal OR intrauterine asphyxia, not clear if noted before OR after onset of labor in liveborn infant 	66231000       	No     
+Fetal or neonatal effect of diethylstilbestrol (DES) transmitted via breast milk                     	698583002      	No     
+Fetal or neonatal effect of diethylstilbestrol (DES) transmitted via placenta and/or breast milk     	413340008      	No     
+Fetal or neonatal effect of diethylstilbestrol transmitted via placenta                              	698582007      	No     
+Fetal tachycardia affecting management of mother                                                     	4006006        	No     
+Fetal-maternal hemorrhage                                                                            	71028008       	No     
+Fetal-maternal hemorrhage - delivered                                                                	199577000      	No     
+Fetal-maternal hemorrhage with antenatal problem                                                     	199578005      	No     
+Fetoplacental problems                                                                               	267335003      	No     
+Fibrinolysis - postpartum                                                                            	237336007      	No     
+Fibrosis of perineum affecting pregnancy                                                             	62612003       	No     
+Finding of arrangement of gravid uterus                                                              	289689006      	No     
+Finding of ballottement of fetal parts                                                               	20259008       	No     
+Finding of color of placenta                                                                         	289276006      	No     
+Finding of consistency of placenta                                                                   	249172003      	No     
+Finding of duration of uterine contraction                                                           	289723002      	No     
+Finding of form of placenta                                                                          	289266008      	No     
+Finding of height of gravid uterus                                                                   	289682002      	No     
+Finding of length of gestation                                                                       	366323009      	No     
+Finding of measures of placenta                                                                      	289278007      	No     
+Finding of measures of pregnancy                                                                     	289205009      	No     
+Finding of pain of uterine contraction                                                               	289730008      	No     
+Finding of pattern of pregnancy                                                                      	289203002      	No     
+Finding of placental function                                                                        	118178000      	No     
+Finding of quantity of uterine contraction                                                           	289709004      	No     
+Finding of regularity of uterine contraction                                                         	289707002      	No     
+Finding of shape of pregnant abdomen                                                                 	249014005      	No     
+Finding of size of gravid uterus                                                                     	289679007      	No     
+Finding of viability of pregnancy                                                                    	289208006      	No     
+First trimester pregnancy                                                                            	57630001       	No     
+Fixed suture overlap                                                                                 	249075004      	No     
+Forced uterine inversion                                                                             	54449002       	No     
+Four vessels in umbilical cord                                                                       	417426005      	No     
+Fundal dominance of uterine contraction                                                              	81328008       	No     
+Fundal height equal to dates                                                                         	289684001      	No     
+Fundal height low for dates                                                                          	289685000      	No     
+Funicular hernia of umbilical cord                                                                   	23960006       	No     
+Generally contracted pelvis - delivered                                                              	199405005      	No     
+Generally contracted pelvis with antenatal problem                                                   	199406006      	No     
+Genital varices in pregnancy                                                                         	234058009      	No     
+Gestation 9- 13 weeks                                                                                	428930004      	No     
+Gestation greater than 24 weeks                                                                      	313180007      	No     
+Gestation less than 24 weeks                                                                         	313178001      	No     
+Gestation period greater than or equal to 37 weeks                                                   	433601000124106	No     
+Gestation period, 1 week                                                                             	87178007       	No     
+Gestation period, 10 weeks                                                                           	38039008       	No     
+Gestation period, 11 weeks                                                                           	50367001       	No     
+Gestation period, 15 weeks                                                                           	6678005        	No     
+Gestation period, 23 weeks                                                                           	86883006       	No     
+Gestation period, 25 weeks                                                                           	72544005       	No     
+Gestation period, 26 weeks                                                                           	48688005       	No     
+Gestation period, 27 weeks                                                                           	46906003       	No     
+Gestation period, 3 weeks                                                                            	74952004       	No     
+Gestation period, 31 weeks                                                                           	64920003       	No     
+Gestation period, 34 weeks                                                                           	13763000       	No     
+Gestation period, 37 weeks                                                                           	43697006       	No     
+Gestation period, 38 weeks                                                                           	13798002       	No     
+Gestation period, 39 weeks                                                                           	80487005       	No     
+Gestation period, 42 weeks                                                                           	36428009       	No     
+Gestation period, 7 weeks                                                                            	63110000       	No     
+Gestation period, 8 weeks                                                                            	26690008       	No     
+Gestational choriocarcinoma                                                                          	417570003      	No     
+Gestational diabetes mellitus                                                                        	11687002       	No     
+Gestational diabetes mellitus, class A>1<                                                            	75022004       	No     
+Gestational diabetes mellitus, class A>2<                                                            	46894009       	No     
+Gestational edema                                                                                    	237285000      	No     
+Gestational edema with proteinuria                                                                   	199141002      	No     
+Gestational edema without hypertension                                                               	77376005       	No     
+Gestational trophoblastic disease                                                                    	416402001      	No     
+Gestational trophoblastic neoplasia                                                                  	609519004      	No     
+Good uterine contractions                                                                            	289718002      	No     
+Grand multiparity with antenatal problem                                                             	199715003      	No     
+Gravid uterus absent                                                                                 	289677009      	No     
+Gravid uterus central                                                                                	289690002      	No     
+Gravid uterus large-for-dates                                                                        	289680005      	No     
+Gravid uterus not observed                                                                           	289678004      	No     
+Gravid uterus present                                                                                	289676000      	No     
+Gravid uterus small-for-dates                                                                        	289681009      	No     
+Gravida                                                                                              	161732006      	No     
+Gravida - finding                                                                                    	366321006      	No     
+Gravida 0                                                                                            	53881005       	No     
+Gravida 2                                                                                            	127365008      	No     
+Gravida 3                                                                                            	127366009      	No     
+Gravida 7                                                                                            	127370001      	No     
+Gravida 8                                                                                            	127371002      	No     
+Had short umbilical cord                                                                             	268865003      	No     
+Halban's sign                                                                                        	84032005       	No     
+Head entrapment during breech delivery                                                               	237325000      	No     
+Head not engaged                                                                                     	62098001       	No     
+Healed pelvic floor repair affecting pregnancy                                                       	50557007       	No     
+Hemorrhage in early pregnancy                                                                        	25825004       	No     
+Hemorrhage in early pregnancy, antepartum                                                            	30850008       	No     
+Hemorrhage in early pregnancy, delivered                                                             	81448000       	No     
+Herpes gestationis                                                                                   	86081009       	No     
+Herpes gestationis - delivered                                                                       	199127006      	No     
+Herpes gestationis - delivered with postnatal complication                                           	199128001      	No     
+Herpes gestationis - not delivered                                                                   	199129009      	No     
+Herpes gestationis with postnatal complication                                                       	199130004      	No     
+High head at term                                                                                    	199373000      	No     
+High head at term - delivered                                                                        	199375007      	No     
+High head at term with antenatal problem                                                             	199376008      	No     
+High risk pregnancy                                                                                  	47200007       	No     
+High risk pregnancy due to history of preterm labor                                                  	444661007      	No     
+Hydatidiform mole, benign                                                                            	417044008      	No     
+Hydrocephalic disproportion                                                                          	199425009      	No     
+Hydrocephalic disproportion - delivered                                                              	199427001      	No     
+Hydrocephalic disproportion with antenatal problem                                                   	199428006      	No     
+Hydropic degeneration                                                                                	276879000      	No     
+Hydrops fetalis                                                                                      	276508000      	No     
+Hydrops fetalis due to isoimmunization                                                               	15539009       	No     
+Hydrops of allantois                                                                                 	372043009      	No     
+Hydrops of placenta                                                                                  	75094005       	No     
+Hydrorrhea gravidarum                                                                                	56160003       	No     
+Hyperemesis gravidarum                                                                               	14094001       	No     
+Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion                   	27152008       	No     
+Hyperemesis gravidarum before end of 22 week gestation with dehydration                              	87621000       	No     
+Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance                    	33370009       	No     
+Hyperemesis gravidarum with metabolic disturbance                                                    	199025001      	No     
+Hyperemesis gravidarum with metabolic disturbance - delivered                                        	199027009      	No     
+Hyperemesis gravidarum with metabolic disturbance - not delivered                                    	199028004      	No     
+Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy            	22966008       	No     
+Hypertensive heart disease complicating AND/OR reason for care during pregnancy                      	20753005       	No     
+Hypertonic uterine dysfunction                                                                       	34981006       	No     
+Hypertonic uterine inertia                                                                           	267265005      	No     
+Hypertonic uterine inertia - delivered                                                               	199838008      	No     
+Hypertonic uterine inertia with antenatal problem                                                    	199839000      	No     
+Hypotonic uterine inertia                                                                            	387692004      	No     
+Icterus gravis of pregnancy                                                                          	69897008       	No     
+Idiopathic hydrops fetalis                                                                           	206538000      	No     
+Idiopathic maternal thrombocytopenia                                                                 	371106008      	No     
+Immature abnormal placenta                                                                           	19236007       	No     
+Impetigo herpetiformis                                                                               	65539006       	No     
+Inappropriate uterine contraction                                                                    	289736002      	No     
+Incarcerated gravid uterus                                                                           	57296000       	No     
+Incomplete amnion                                                                                    	79986005       	No     
+Incomplete placenta at delivery                                                                      	268479002      	No     
+Indeterminate antepartum hemorrhage                                                                  	237276000      	No     
+Indication for care AND/OR intervention in labor AND/OR delivery                                     	67480003       	No     
+Infection of amniotic cavity                                                                         	10573002       	No     
+Infections of kidney in pregnancy                                                                    	199110003      	No     
+Infections of the genital tract in pregnancy                                                         	199112006      	No     
+Inlet contraction of pelvis                                                                          	36854009       	No     
+Inlet pelvic contraction - delivered                                                                 	199409004      	No     
+Inlet pelvic contraction with antenatal problem                                                      	199410009      	No     
+Insufficient prenatal care                                                                           	1031000119109  	No     
+Insufficient weight gain of pregnancy                                                                	53024001       	No     
+Intends to continue pregnancy                                                                        	439311009      	No     
+Intervillous hemorrhage of placenta                                                                  	84693004       	No     
+Intervillous thrombosis                                                                              	80256005       	No     
+Intraligamentous pregnancy                                                                           	35656003       	No     
+Intrapartum hemorrhage                                                                               	38010008       	No     
+Intrapartum hemorrhage with coagulation defect                                                       	200173001      	No     
+Intraperitoneal pregnancy                                                                            	17285009       	No     
+Intraplacental hematoma                                                                              	15196006       	No     
+Intrauterine asphyxia                                                                                	276641008      	No     
+Invasive hydatidiform mole                                                                           	416669000      	No     
+Inversion of uterus during delivery                                                                  	23885003       	No     
+Irregular uterine contractions                                                                       	54212005       	No     
+Isoimmunization from non-ABO, non-Rh blood-group incompatibility affecting pregnancy                 	66958002       	No     
+Kanter's sign                                                                                        	69338007       	No     
+Kell isoimmunization in pregnancy                                                                    	237302001      	No     
+Kell isoimmunization of the newborn                                                                  	234380002      	No     
+Kidd isoimmunization of the newborn                                                                  	307338008      	No     
+Knee presentation                                                                                    	249098007      	No     
+Known OR suspected fetal anencephaly affecting obstetrical care                                      	57480000       	No     
+Known OR suspected fetal hydrocephalus affecting obstetrical care                                    	80190007       	No     
+Known OR suspected fetal spina bifida with myelomeningocele affecting obstetrical care               	37382001       	No     
+Ladin's sign                                                                                         	35537000       	No     
+Large fetus causing disproportion - delivered                                                        	199422007      	No     
+Large fetus causing disproportion with antenatal problem                                             	199423002      	No     
+Large placenta                                                                                       	289263000      	No     
+Late entry into prenatal care                                                                        	426403007      	No     
+Late fetal death affecting management of mother                                                      	399363000      	No     
+Late pregnancy vomiting - delivered                                                                  	199032005      	No     
+Late pregnancy vomiting - not delivered                                                              	199033000      	No     
+Late vomiting of pregnancy                                                                           	38331001       	No     
+Lewis isoimmunization in pregnancy                                                                   	237304000      	No     
+Lightening of fetus                                                                                  	80228000       	No     
+Linea nigra                                                                                          	90751002       	No     
+Liver disorder in pregnancy                                                                          	15230009       	No     
+Liver disorder in pregnancy - delivered                                                              	199117000      	No     
+Liver disorder in pregnancy - not delivered                                                          	199118005      	No     
+Long umbilical cord                                                                                  	237261008      	No     
+Low lying placenta                                                                                   	445122007      	No     
+Low risk pregnancy                                                                                   	237239003      	No     
+Major abnormality of bony pelvis                                                                     	40096002       	No     
+Malnutrition in pregnancy                                                                            	199741009      	No     
+Malposition and malpresentation of fetus                                                             	270498000      	No     
+Malpresentation of fetus                                                                             	80002007       	No     
+Malpresentation other than breech, successfully converted to cephalic presentation                   	67802002       	No     
+Marginal insertion of umbilical cord                                                                 	51519001       	No     
+Marginal placenta previa with intrapartum hemorrhage                                                 	87814002       	No     
+Marginal placental hemorrhage                                                                        	237277009      	No     
+Maternal AND/OR fetal condition affecting labor AND/OR delivery                                      	106007006      	No     
+Maternal care for (suspected) damage to fetus from alcohol                                           	199551008      	No     
+Maternal care for central nervous system malformation in fetus                                       	312653006      	No     
+Maternal care for chromosomal abnormality in fetus                                                   	312656003      	No     
+Maternal care for compound presentation                                                              	200469007      	No     
+Maternal care for damage to fetus from maternal rubella                                              	312657007      	No     
+Maternal care for diminished fetal movements                                                         	200473005      	No     
+Maternal care for fetal acidosis during pregnancy                                                    	312990005      	No     
+Maternal care for fetal bradycardia during pregnancy                                                 	312977003      	No     
+Maternal care for fetal decelerations during pregnancy                                               	312988009      	No     
+Maternal care for fetal hypoxia                                                                      	199598000      	No     
+Maternal care for fetal tachycardia during pregnancy                                                 	312989001      	No     
+Maternal care for fetus                                                                              	200468004      	No     
+Maternal care for hydrops fetalis                                                                    	200471007      	No     
+Maternal care for poor fetal growth                                                                  	200474004      	No     
+Maternal care for suspected central nervous system malformation in fetus                             	312652001      	No     
+Maternal care for suspected chromosomal abnormality in fetus                                         	312654000      	No     
+Maternal care for viable fetus in abdominal pregnancy                                                	200472000      	No     
+Maternal condition during puerperium                                                                 	249197004      	No     
+Maternal distress                                                                                    	87383005       	No     
+Maternal distress - delivered                                                                        	200099005      	No     
+Maternal distress - delivered with postnatal problem                                                 	200100002      	No     
+Maternal distress with antenatal problem                                                             	200101003      	No     
+Maternal distress with postnatal problem                                                             	200102005      	No     
+Maternal drug exposure                                                                               	95606005       	No     
+Maternal drug use                                                                                    	95607001       	No     
+Maternal dystocia                                                                                    	79748007       	No     
+Maternal hypotension syndrome                                                                        	88887003       	No     
+Maternal hypotension syndrome - delivered                                                            	200111005      	No     
+Maternal hypotension syndrome - delivered with postnatal problem                                     	200112003      	No     
+Maternal hypotension syndrome with antenatal problem                                                 	200113008      	No     
+Maternal hypotension syndrome with postnatal problem                                                 	200114002      	No     
+Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum                   	171000119107   	No     
+Maternal obesity syndrome                                                                            	44772007       	No     
+Maternal pyrexia during labor                                                                        	37141005       	No     
+Maternal pyrexia in labor                                                                            	267340006      	No     
+Maternal rubella during pregnancy - baby delivered                                                   	199192005      	No     
+Maternal rubella during pregnancy - baby not yet delivered                                           	199194006      	No     
+Maternofetal transfusion                                                                             	237298009      	No     
+Mature abnormal placenta                                                                             	78789000       	No     
+McClintock's sign                                                                                    	36144008       	No     
+Meconium in amniotic fluid affecting management of mother                                            	20845005       	No     
+Melasma gravidarum                                                                                   	111208003      	No     
+Membrane rupture with delivery delay                                                                 	288207006      	No     
+Membranous pregnancy                                                                                 	198624007      	No     
+Mentum presentation of fetus                                                                         	79255005       	No     
+Mesenteric pregnancy                                                                                 	198626009      	No     
+Mesometric pregnancy                                                                                 	60000008       	No     
+Midpelvic contraction                                                                                	237257002      	No     
+Mild hyperemesis gravidarum                                                                          	19569008       	No     
+Mild hyperemesis-delivered                                                                           	199022003      	No     
+Mild hyperemesis-not delivered                                                                       	199023008      	No     
+Mild uterine contractions                                                                            	289715004      	No     
+Mixed accidental hemorrhage                                                                          	237275001      	No     
+Mixed feto-pelvic disproportion                                                                      	199416003      	No     
+Mixed feto-pelvic disproportion - delivered                                                          	199418002      	No     
+Mixed feto-pelvic disproportion with antenatal problem                                               	199419005      	No     
+Moderate hyperemesis gravidarum                                                                      	129597002      	No     
+Moderate uterine contractions                                                                        	289716003      	No     
+Molar pregnancy                                                                                      	44782008       	No     
+Monochorionic diamniotic twin pregnancy                                                              	459168005      	No     
+Monochorionic diamniotic twin pregnancy with dissimilar amniotic fluid volumes                       	459170001      	No     
+Monochorionic diamniotic twin pregnancy with similar amniotic fluid volumes                          	459169002      	No     
+Monochorionic monoamniotic twin pregnancy                                                            	459171002      	No     
+Monochorionic twin pregnancy                                                                         	459167000      	No     
+Morbidly adherent placenta                                                                           	237296008      	No     
+Morning sickness                                                                                     	51885006       	No     
+Multigravida                                                                                         	102876002      	No     
+Multigravida of advanced maternal age                                                                	443460007      	No     
+Multiparous                                                                                          	28079008       	No     
+Multiple gestation with one OR more fetal malpresentations                                           	80224003       	No     
+Multiple pregnancy                                                                                   	16356006       	No     
+Multiple pregnancy with malpresentation                                                              	199378009      	No     
+Multiple pregnancy with malpresentation - delivered                                                  	199380003      	No     
+Multiple pregnancy with malpresentation with antenatal problem                                       	199381004      	No     
+Multiple pregnancy with one fetal loss                                                               	428511009      	No     
+Mural pregnancy                                                                                      	69532007       	No     
+Necrosis of liver of pregnancy                                                                       	91162000       	No     
+Necrosis of placenta                                                                                 	95608006       	No     
+Niggling uterine contractions                                                                        	289712001      	No     
+Nine previous induced terminations of pregnancy                                                      	57197002       	No     
+No previous induced termination of pregnancy                                                         	44638009       	No     
+Non-immune hydrops fetalis                                                                           	276509008      	No     
+Non-tender scar of gravid uterus                                                                     	289698009      	No     
+Non-viable pregnancy                                                                                 	237242009      	No     
+Normal delivery but ante- or post- natal conditions present                                          	199314001      	No     
+Normal placental secretion of chorionic gonadotropin                                                 	102881006      	No     
+Normal position of gravid uterus                                                                     	289693000      	No     
+Normal pregnancy                                                                                     	72892002       	No     
+Normal retraction of upper segment                                                                   	289746000      	No     
+Normal uterine contraction wave                                                                      	18122002       	No     
+Nulliparous                                                                                          	102877006      	No     
+Number of births at term                                                                             	440425000      	No     
+Number of ectopic pregnancies                                                                        	440537001      	No     
+Number of fetal deaths                                                                               	246210006      	No     
+Number of live deliveries                                                                            	248991006      	No     
+Number of miscarriages                                                                               	248989003      	No     
+Number of miscarriages or induced terminations of pregnancy                                          	252113007      	No     
+Number of preterm births                                                                             	440013005      	No     
+Number of previous pregnancies                                                                       	246211005      	No     
+Number of stillbirths                                                                                	252112002      	No     
+O/E - fundal size = dates                                                                            	163510007      	No     
+O/E - fundus = term size                                                                             	163509002      	No     
+O/E - fundus 12-16 week size                                                                         	163499007      	No     
+O/E - fundus 28-32 week size                                                                         	163504007      	No     
+O/E - fundus 34-36 week size                                                                         	163506009      	No     
+O/E - oblique lie                                                                                    	163515002      	No     
+O/E - transverse lie                                                                                 	163516001      	No     
+Oblique lie                                                                                          	63750008       	No     
+Oblique lie - delivered                                                                              	199358001      	No     
+Oblique lie breech in left iliac fossa                                                               	289358002      	No     
+Oblique lie breech in right iliac fossa                                                              	289357007      	No     
+Oblique lie head in left iliac fossa                                                                 	289356003      	No     
+Oblique lie head in right iliac fossa                                                                	289355004      	No     
+Oblique lie with antenatal problem                                                                   	199359009      	No     
+Oblique lie, breech in iliac fossa                                                                   	249065002      	No     
+Oblique lie, head in iliac fossa                                                                     	249064003      	No     
+Obstetric air pulmonary embolism                                                                     	200286003      	No     
+Obstetric air pulmonary embolism - delivered                                                         	200288002      	No     
+Obstetric air pulmonary embolism - delivered with postnatal complication                             	200289005      	No     
+Obstetric air pulmonary embolism with antenatal complication                                         	200290001      	No     
+Obstetric air pulmonary embolism with postnatal complication                                         	200291002      	No     
+Obstetric disorder of uterus                                                                         	280732008      	No     
+Obstetric inversion of uterus - delivered with postnatal problem                                     	199969006      	No     
+Obstetric inversion of uterus with postnatal problem                                                 	199970007      	No     
+Obstetric problem affecting fetus                                                                    	273982004      	No     
+Obstetric shock - delivered                                                                          	200105007      	No     
+Obstetric shock - delivered with postnatal problem                                                   	200106008      	No     
+Obstetric shock with antenatal problem                                                               	200107004      	No     
+Obstetric shock with postnatal problem                                                               	200108009      	No     
+Obstetrical air embolism                                                                             	15400003       	No     
+Obstetrical pyemic AND/OR septic embolism                                                            	52700006       	No     
+Obstruction by abnormal pelvic soft tissues                                                          	66294006       	No     
+Obstruction by bony pelvis                                                                           	77563000       	No     
+Obstruction caused by position of fetus at onset of labor                                            	20625004       	No     
+Oligohydramnios                                                                                      	59566000       	No     
+Oligohydramnios - delivered                                                                          	199653002      	No     
+Oligohydramnios sequence                                                                             	41962002       	No     
+Oligohydramnios with antenatal problem                                                               	199654008      	No     
+Oligohydramnios without rupture of membranes                                                         	54213000       	No     
+One previous induced termination of pregnancy                                                        	38835003       	No     
+Osiander's sign                                                                                      	61881000       	No     
+Outlet contraction of pelvis                                                                         	69217004       	No     
+Outlet pelvic contraction - delivered                                                                	199413006      	No     
+Outlet pelvic contraction with antenatal problem                                                     	199414000      	No     
+Ovarian pregnancy                                                                                    	9899009        	No     
+Painful uterine contractions                                                                         	289732000      	No     
+Painless uterine contractions                                                                        	289731007      	No     
+Para 5                                                                                               	13868004       	No     
+Para 6                                                                                               	26886008       	No     
+Para 7                                                                                               	26611006       	No     
+Parent craft classes                                                                                 	169632002      	No     
+Parent craft classes offered                                                                         	169633007      	No     
+Parent craft -individual class                                                                       	169637008      	No     
+Parity                                                                                               	364325004      	No     
+Parity finding                                                                                       	118212000      	No     
+Parity nine                                                                                          	81514003       	No     
+Partial hydatidiform mole                                                                            	237250000      	No     
+Partial placenta previa with intrapartum hemorrhage                                                  	27388005       	No     
+Parturient hemorrhage associated with hyperfibrinolysis                                              	34327003       	No     
+Parturient hemorrhage associated with hypofibrinogenemia                                             	76771005       	No     
+Pelvic disproportion                                                                                 	275426009      	No     
+Pelvic dystocia AND/OR uterine disorder                                                              	106010004      	No     
+Perinatal period                                                                                     	373663005      	No     
+Peripheral neuritis in pregnancy                                                                     	17787002       	No     
+Peripheral neuritis in pregnancy - delivered                                                         	199093003      	No     
+Peripheral neuritis in pregnancy - not delivered                                                     	199095005      	No     
+Peripheral neuritis in pregnancy with postnatal complication                                         	199096006      	No     
+Persistent hymen affecting pregnancy                                                                 	60755004       	No     
+Persistent occipitoposterior position                                                                	70068004       	No     
+Piskacek's sign                                                                                      	70425008       	No     
+Placenta accreta                                                                                     	70129008       	No     
+Placenta accreta without hemorrhage                                                                  	33058001       	No     
+Placenta adherent to previous uterine scar                                                           	237297004      	No     
+Placenta circumvallata                                                                               	2437000        	No     
+Placenta cirsoides                                                                                   	35258005       	No     
+Placenta edematous                                                                                   	56425003       	No     
+Placenta extrachorales                                                                               	19258009       	No     
+Placenta fatty deposits                                                                              	289273003      	No     
+Placenta fenestrata                                                                                  	85076009       	No     
+Placenta gritty                                                                                      	249173008      	No     
+Placenta incomplete                                                                                  	169958000      	No     
+Placenta increta                                                                                     	11763009       	No     
+Placenta infarcted                                                                                   	271403007      	No     
+Placenta infected                                                                                    	289272008      	No     
+Placenta marginalis                                                                                  	91153002       	No     
+Placenta membranacea                                                                                 	76380008       	No     
+Placenta multipartita                                                                                	9864005        	No     
+Placenta normal O/E                                                                                  	169954003      	No     
+Placenta normal size                                                                                 	289265007      	No     
+Placenta of multiple birth higher than twin                                                          	65483000       	No     
+Placenta pale                                                                                        	289277002      	No     
+Placenta percreta                                                                                    	25585008       	No     
+Placenta previa                                                                                      	36813001       	No     
+Placenta previa centralis                                                                            	15663008       	No     
+Placenta previa found before labor AND delivery by cesarean section without hemorrhage               	48888007       	No     
+Placenta previa marginalis                                                                           	62531004       	No     
+Placenta previa partialis                                                                            	24095001       	No     
+Placenta previa with hemorrhage                                                                      	198903000      	No     
+Placenta previa with hemorrhage - delivered                                                          	198905007      	No     
+Placenta previa with hemorrhage - not delivered                                                      	198906008      	No     
+Placenta previa without hemorrhage                                                                   	7792000        	No     
+Placenta previa without hemorrhage - delivered                                                       	198899007      	No     
+Placenta previa without hemorrhage - not delivered                                                   	198900002      	No     
+Placenta reflexa                                                                                     	19117007       	No     
+Placenta spuria                                                                                      	83741001       	No     
+Placenta succenturiata                                                                               	82664003       	No     
+Placenta tripartita                                                                                  	4174008        	No     
+Placenta unhealthy                                                                                   	289280001      	No     
+Placental abruption                                                                                  	415105001      	No     
+Placental abruption - delivered                                                                      	198910006      	No     
+Placental abruption - not delivered                                                                  	198911005      	No     
+Placental aromatase deficiency                                                                       	425708006      	No     
+Placental condition affecting management of mother                                                   	111447004      	No     
+Placental finding                                                                                    	169952004      	No     
+Placental hemangioma syndrome                                                                        	129600001      	No     
+Placental infarct                                                                                    	268585006      	No     
+Placental infarct affecting management of mother                                                     	77285007       	No     
+Placental insufficiency                                                                              	237292005      	No     
+Placental polyp                                                                                      	51195001       	No     
+Placental polyp - delivered with postnatal complication                                              	200351002      	No     
+Placental polyp with postnatal complication                                                          	200352009      	No     
+Placental site trophoblastic tumor                                                                   	237252008      	No     
+Placental sulfatase deficiency                                                                       	3944006        	No     
+Placental transfusion syndromes                                                                      	199625002      	No     
+Placentitis                                                                                          	39249009       	No     
+Polyhydramnios                                                                                       	86203003       	No     
+Polyhydramnios - delivered                                                                           	199646006      	No     
+Polyhydramnios with antenatal problem                                                                	199647002      	No     
+Polyp of cervix affecting pregnancy                                                                  	58881007       	No     
+Poor fetal growth affecting management                                                               	397949005      	No     
+Poor retraction of upper segment                                                                     	289744002      	No     
+Postmature abnormal placenta                                                                         	8076000        	No     
+Postnatal data                                                                                       	169786001      	No     
+Postpartum afibrinogenemia with hemorrhage                                                           	111452009      	No     
+Postpartum coagulation defect with hemorrhage                                                        	49177006       	No     
+Postpartum coagulation defects                                                                       	267272006      	No     
+Postpartum coagulation defects - delivered with postnatal problem                                    	200030007      	No     
+Postpartum coagulation defects with postnatal problem                                                	200031006      	No     
+Postpartum fibrinolysis with hemorrhage                                                              	62410004       	No     
+Postpartum health behavior                                                                           	423991001      	No     
+Postpartum hemorrhage                                                                                	47821001       	No     
+Post-term pregnancy                                                                                  	90968009       	No     
+Post-term pregnancy - delivered                                                                      	199063009      	No     
+Post-term pregnancy - not delivered                                                                  	199064003      	No     
+Precocious pregnancy                                                                                 	14418008       	No     
+Pregnancy and infectious disease                                                                     	274117006      	No     
+Pregnancy eruption                                                                                   	239101008      	No     
+Pregnancy induced edema                                                                              	698632006      	No     
+Pregnancy observable                                                                                 	364320009      	No     
+Pregnancy on intrauterine device                                                                     	102873005      	No     
+Pregnancy on oral contraceptive                                                                      	102872000      	No     
+Pregnancy prolonged - 41 weeks                                                                       	310592002      	No     
+Pregnancy prolonged - 42 weeks                                                                       	310594001      	No     
+Pregnancy with isoimmunization                                                                       	237300009      	No     
+Pregnancy-induced edema and proteinuria without hypertension                                         	199139003      	No     
+Pregnancy-related exacerbation of dermatosis                                                         	403528000      	No     
+Pregnant - blood test confirms                                                                       	169561007      	No     
+Pregnant - on abdominal palpation                                                                    	169564004      	No     
+Pregnant - on history                                                                                	169563005      	No     
+Pregnant - planned                                                                                   	169565003      	No     
+Pregnant - urine test confirms                                                                       	169560008      	No     
+Pregnant - V.E. confirms                                                                             	169562000      	No     
+Pregnant uterus displaced laterally                                                                  	249017003      	No     
+Prem rupture of membranes onset of labor after 24 hours                                              	199662000      	No     
+Prem rupture of membranes onset of labor within 24 hours                                             	199660008      	No     
+Premature abnormal placenta                                                                          	4910006        	No     
+Premature rupture of membranes                                                                       	44223004       	No     
+Premature rupture of membranes - delivered                                                           	199658006      	No     
+Premature rupture of membranes with antenatal problem                                                	199659003      	No     
+Premature rupture of membranes, labor delayed by therapy                                             	199661007      	No     
+Premature separation of placenta with coagulation defect                                             	198912003      	No     
+Premature uterine contraction                                                                        	289733005      	No     
+Prenatal health behavior                                                                             	405084006      	No     
+Presentation of pregnancy                                                                            	248985009      	No     
+Presentation of prolapsed arm of fetus                                                               	9780006        	No     
+Presenting part ballottable                                                                          	289349009      	No     
+Presenting part not ballottable                                                                      	289354000      	No     
+Preterm premature rupture of membranes                                                               	312974005      	No     
+Preterm rupture of membranes                                                                         	237266003      	No     
+Previous operation to cervix affecting pregnancy                                                     	19866007       	No     
+Previous pregnancies 9                                                                               	17618008       	No     
+Previous pregnancies more than 10                                                                    	6867004        	No     
+Previous surgery to perineum AND/OR vulva affecting pregnancy                                        	80818002       	No     
+Previous surgery to vagina affecting pregnancy                                                       	76871004       	No     
+Primary hypotonic uterine dysfunction                                                                	387696001      	No     
+Primary uterine inertia                                                                              	387699008      	No     
+Primary uterine inertia - delivered                                                                  	199819004      	No     
+Primary uterine inertia with antenatal problem                                                       	199821009      	No     
+Prolapse of anterior lip of cervix obstructing labor                                                 	19729005       	No     
+Prolapse of gravid uterus                                                                            	54844002       	No     
+Prolapsed arm - delivered                                                                            	199384007      	No     
+Prolapsed arm with antenatal problem                                                                 	199385008      	No     
+Prolonged artificial rupture of membranes                                                            	199670005      	No     
+Prolonged artificial rupture of membranes - delivered                                                	199672002      	No     
+Prolonged artificial rupture of membranes with antenatal problem                                     	199673007      	No     
+Prolonged first stage - delivered                                                                    	199847000      	No     
+Prolonged first stage of labor                                                                       	33627001       	No     
+Prolonged first stage with antenatal problem                                                         	199848005      	No     
+Prolonged labor                                                                                      	53443007       	No     
+Prolonged latent phase of labor                                                                      	387700009      	No     
+Prolonged premature rupture of membranes                                                             	237267007      	No     
+Prolonged rupture of membranes                                                                       	12729009       	No     
+Prolonged second stage - delivered                                                                   	199857004      	No     
+Prolonged second stage of labor                                                                      	77259008       	No     
+Prolonged second stage with antenatal problem                                                        	199858009      	No     
+Prolonged spontaneous rupture of membranes                                                           	267262008      	No     
+Prurigo of pregnancy                                                                                 	239103006      	No     
+Pruritic folliculitis of pregnancy                                                                   	239104000      	No     
+Pruritic urticarial papules and plaques of pregnancy                                                 	88697005       	No     
+Pruritus of pregnancy                                                                                	239102001      	No     
+Quadruplet pregnancy                                                                                 	60810003       	No     
+Quadruplet pregnancy with antenatal problem                                                          	199326006      	No     
+Quantity of pregnancy                                                                                	364323006      	No     
+Quickening of fetus                                                                                  	11337002       	No     
+Quintuplet pregnancy                                                                                 	80997009       	No     
+Ragged placenta                                                                                      	310650002      	No     
+Reason for termination of pregnancy                                                                  	310506006      	No     
+Rectocele affecting obstetric care                                                                   	237205002      	No     
+Rectocele affecting pregnancy                                                                        	26828006       	No     
+Rectocele complicating antenatal care - baby not yet delivered                                       	237201006      	No     
+Rectocele in pregnancy, childbirth and the puerperium                                                	237208000      	No     
+Reduced uterine contraction                                                                          	289711008      	No     
+Regular uterine contractions                                                                         	289708007      	No     
+Residual trophoblastic disease                                                                       	445149007      	No     
+Retained fetal tissue                                                                                	21737000       	No     
+Retained membrane                                                                                    	276479009      	No     
+Retained membrane without hemorrhage                                                                 	275427000      	No     
+Retained placenta                                                                                    	109894007      	No     
+Retained placenta and membranes                                                                      	237294006      	No     
+Retained placenta due to morbidly adherent placenta                                                  	699949009      	No     
+Retained placenta or membranes with no hemorrhage                                                    	267273001      	No     
+Retained placenta with no hemorrhage with postnatal problem                                          	200038000      	No     
+Retained placenta, without hemorrhage                                                                	111453004      	No     
+Retained placental fragment                                                                          	109895008      	No     
+Retained portion of placenta or membranes with no hemorrhage                                         	200040005      	No     
+Retained portions of placenta AND/OR membranes without hemorrhage                                    	111454005      	No     
+Retained products after miscarriage                                                                  	275425008      	No     
+Retained products of conception                                                                      	371374003      	No     
+Retained products of conception following induced termination of pregnancy                           	609443003      	No     
+Retained products of conception not following miscarriage or termination of pregnancy                	111424000      	No     
+Retained products of conception, following delivery with hemorrhage                                  	44216000       	No     
+Retained products with no hemorrhage with postnatal problem                                          	200043007      	No     
+Retained secundines                                                                                  	371375002      	No     
+Retraction ring dystocia                                                                             	79414005       	No     
+Retroverted gravid uterus                                                                            	57576007       	No     
+Retroverted incarcerated gravid uterus                                                               	199466009      	No     
+Retroverted incarcerated gravid uterus - delivered                                                   	199468005      	No     
+Retroverted incarcerated gravid uterus - delivered with postnatal complication                       	199469002      	No     
+Retroverted incarcerated gravid uterus with antenatal problem                                        	199470001      	No     
+Retroverted incarcerated gravid uterus with postnatal complication                                   	199471002      	No     
+Revealed accidental hemorrhage                                                                       	237273008      	No     
+Rhesus isoimmunization - delivered                                                                   	199582007      	No     
+Rhesus isoimmunization affecting pregnancy                                                           	44795003       	No     
+Rhesus isoimmunization with antenatal problem                                                        	199583002      	No     
+Rigid cervix uteri affecting pregnancy                                                               	76037007       	No     
+Rigid pelvic floor affecting pregnancy                                                               	83243004       	No     
+Rigid perineum affecting pregnancy                                                                   	45759004       	No     
+Rounded pregnant abdomen                                                                             	289687008      	No     
+Rubella in pregnancy                                                                                 	274119009      	No     
+Rubella screening offered                                                                            	169692004      	No     
+Rubella screening status                                                                             	243829001      	No     
+Rubella screening wanted                                                                             	169694003      	No     
+Rubella status not known                                                                             	169696001      	No     
+Rupture of gravid uterus                                                                             	15504009       	No     
+Rupture of uterus before labor - delivered                                                           	199960005      	No     
+Rupture of uterus before labor with antenatal problem                                                	199961009      	No     
+Rupture of uterus before onset of labor                                                              	49561003       	No     
+Rupture of uterus during and after labor - delivered                                                 	199964001      	No     
+Rupture of uterus during and after labor - delivered with postnatal problem                          	199965000      	No     
+Rupture of uterus during AND/OR after labor                                                          	69270005       	No     
+Ruptured ectopic pregnancy                                                                           	17433009       	No     
+Ruptured membranes                                                                                   	41957003       	No     
+Ruptured tubal pregnancy                                                                             	198620003      	No     
+Ruptured uterus before labor                                                                         	199958008      	No     
+Second trimester bleeding                                                                            	430881000      	No     
+Secondary abdominal pregnancy                                                                        	276881003      	No     
+Secondary postpartum hemorrhage - delivered with postnatal problem                                   	200025008      	No     
+Secondary uterine inertia                                                                            	43715006       	No     
+Secondary uterine inertia - delivered                                                                	199824001      	No     
+Secondary uterine inertia with antenatal problem                                                     	199825000      	No     
+Septate vagina affecting pregnancy                                                                   	36297009       	No     
+Septuplet pregnancy                                                                                  	38720006       	No     
+Severe hyperemesis gravidarum                                                                        	129598007      	No     
+Sextuplet pregnancy                                                                                  	43990006       	No     
+Shock during AND/OR following labor AND/OR delivery                                                  	84007008       	No     
+Short cervical length in pregnancy                                                                   	609133009      	No     
+Short cord                                                                                           	59795007       	No     
+Short cord - delivered                                                                               	199889008      	No     
+Short cord with antenatal problem                                                                    	199890004      	No     
+Shoulder dystocia - delivered                                                                        	199783004      	No     
+Shoulder dystocia with antenatal problem                                                             	199784005      	No     
+Shoulder girdle dystocia                                                                             	89700002       	No     
+Single knee presentation                                                                             	249099004      	No     
+Single umbilical artery                                                                              	204470001      	No     
+Single vessel of umbilical cord                                                                      	40193008       	No     
+Six previous induced terminations of pregnancy                                                       	62331000       	No     
+Size of placenta - finding                                                                           	366330003      	No     
+Slow slope active phase of labor                                                                     	49279000       	No     
+Spider telangiectasis in association with pregnancy                                                  	402836009      	No     
+Spontaneous uterine inversion                                                                        	67229002       	No     
+Spotting per vagina in pregnancy                                                                     	284075002      	No     
+Stenosis AND/OR stricture of cervix affecting pregnancy                                              	23001005       	No     
+Stone mole                                                                                           	64890008       	No     
+Stricture of vagina affecting pregnancy                                                              	49342001       	No     
+Subchorionic hematoma                                                                                	609204004      	No     
+Symptomatic disorders in pregnancy                                                                   	237284001      	No     
+Tarnier's sign                                                                                       	55187005       	No     
+Tender scar of gravid uterus                                                                         	289695007      	No     
+Tender scar of upper uterine segment                                                                 	289696008      	No     
+Tenney changes of placenta                                                                           	43195002       	No     
+Tetanic contractions of uterus                                                                       	8393005        	No     
+Third stage hemorrhage                                                                               	47236005       	No     
+Third trimester bleeding                                                                             	427139004      	No     
+Thrombophilia associated with pregnancy                                                              	441697004      	No     
+Total placenta previa with intrapartum hemorrhage                                                    	7266006        	No     
+Transient osteoporosis of hip in pregnancy                                                           	240160002      	No     
+Transmission of uterine contraction wave                                                             	249150000      	No     
+Transplacental herpes gestationis                                                                    	239105004      	No     
+Transverse lie                                                                                       	73161006       	No     
+Transverse lie - delivered                                                                           	199362007      	No     
+Transverse lie with antenatal problem                                                                	199363002      	No     
+Transverse OR oblique presentation of fetus                                                          	11914001       	No     
+Transversely contracted pelvis                                                                       	248996001      	No     
+Transversely enlarged pregnant abdomen                                                               	289688003      	No     
+Trapped placenta                                                                                     	29171003       	No     
+Traumatic injury during pregnancy                                                                    	426997005      	No     
+Trichomonal vaginitis in pregnancy                                                                   	428230005      	No     
+Triplet pregnancy                                                                                    	64254006       	No     
+Triplet pregnancy with antenatal problem                                                             	199322008      	No     
+True knot of umbilical cord                                                                          	27696007       	No     
+Tubal pregnancy                                                                                      	79586000       	No     
+Tubal-cornual placenta                                                                               	80847009       	No     
+Tuberculosis in pregnancy                                                                            	267317007      	No     
+Tumor of body of uterus affecting pregnancy                                                          	223003         	No     
+Tumor of cervix affecting pregnancy                                                                  	22288000       	No     
+Tumor of vagina affecting pregnancy                                                                  	31383003       	No     
+Tumor of vulva affecting pregnancy                                                                   	8445003        	No     
+Twelve previous induced terminations of pregnancy                                                    	31227001       	No     
+Twin dichorionic diamniotic placenta                                                                 	75798003       	No     
+Twin monochorionic diamniotic placenta                                                               	83787007       	No     
+Twin monochorionic monoamniotic placenta                                                             	84357006       	No     
+Twin placenta                                                                                        	60574005       	No     
+Twin pregnancy                                                                                       	65147003       	No     
+Twin pregnancy with antenatal problem                                                                	199318003      	No     
+Twin reversal arterial perfusion syndrome                                                            	417006004      	No     
+Twin-to-twin blood transfer                                                                          	13404009       	No     
+Two previous induced terminations of pregnancy                                                       	28493005       	No     
+Undiagnosed breech                                                                                   	237235009      	No     
+Undiagnosed multiple pregnancy                                                                       	237236005      	No     
+Undiagnosed twin                                                                                     	237237001      	No     
+Unruptured tubal pregnancy                                                                           	237254009      	No     
+Unstable lie                                                                                         	86356004       	No     
+Unstable lie - delivered                                                                             	199344003      	No     
+Unstable lie with antenatal problem                                                                  	199345002      	No     
+Unwanted pregnancy                                                                                   	58532003       	No     
+Uremia in pregnancy without hypertension                                                             	237230004      	No     
+Urinary tract infection in pregnancy                                                                 	307534009      	No     
+Uterine contractions ceased                                                                          	289702008      	No     
+Uterine contractions normal                                                                          	289738001      	No     
+Uterine fibroids affecting pregnancy                                                                 	35746009       	No     
+Uterine incoordination, first degree                                                                 	23508005       	No     
+Uterine incoordination, second degree                                                                	6891008        	No     
+Uterine inertia                                                                                      	26158002       	No     
+Uterine inversion                                                                                    	27215002       	No     
+Uterine scar from previous surgery affecting pregnancy                                               	31821006       	No     
+Uterine scar from previous surgery in pregnancy, childbirth and the puerperium                       	199461004      	No     
+Uterine scar from previous surgery in pregnancy, childbirth and the puerperium - delivered           	199463001      	No     
+Uterine scar from previous surgery in pregnancy, childbirth and the puerperium with antenatal problem	199464007      	No     
+Uterine size for dates discrepancy                                                                   	430933008      	No     
+Uterus bicornis affecting pregnancy                                                                  	9297001        	No     
+Uterus contracted                                                                                    	289741005      	No     
+Uterus relaxed                                                                                       	289742003      	No     
+Vaginitis in pregnancy                                                                               	428252001      	No     
+Variation of placental position                                                                      	237259004      	No     
+Variation of umbilical cord                                                                          	237260009      	No     
+Varices of umbilical cord                                                                            	415810004      	No     
+Vasa previa                                                                                          	79668009       	No     
+Vasa previa - delivered                                                                              	199895009      	No     
+Vasa previa with antenatal problem                                                                   	199896005      	No     
+Vascular anomaly of umbilical cord                                                                   	31481000       	No     
+Velamentous insertion of umbilical cord                                                              	77278008       	No     
+Venereal disease in pregnancy                                                                        	274118001      	No     
+Very strong uterine contractions                                                                     	289720004      	No     
+Viable fetus in abdominal pregnancy                                                                  	237253003      	No     
+Viable pregnancy                                                                                     	237241002      	No     
+Villitis                                                                                             	388604008      	No     
+Villitis of unknown etiology                                                                         	388602007      	No     
+Vulval varices in pregnancy                                                                          	237286004      	No     
+Wanted pregnancy                                                                                     	276367008      	No     
+Was malpresentation pre-labor                                                                        	288261009      	No     
+Wharton's jelly excessive                                                                            	249189006      	No     

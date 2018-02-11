@@ -1,0 +1,5 @@
+Term                                                                   	Code     	Retired
+Chronic nonalcoholic liver disease                                     	79720007 	No     
+Non-alcoholic fatty liver                                              	197315008	No     
+Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis	722866000	No     
+Nonalcoholic steatohepatitis                                           	442685003	No     

@@ -1,0 +1,36 @@
+Term                                                  	Code           	Retired
+Chain smoker                                          	230065006      	No     
+Chews fine cut tobacco                                	228517005      	No     
+Chews loose leaf tobacco                              	228516001      	No     
+Chews plug tobacco                                    	228514003      	No     
+Chews products containing tobacco                     	228518000      	No     
+Chews tobacco                                         	81703003       	No     
+Chews twist tobacco                                   	228515002      	No     
+Cigar smoker                                          	59978006       	No     
+Cigarette smoker                                      	65568007       	No     
+Cigarette smoker (1-4 cigarettes/day)                 	450821000124107	No     
+Cigarette smoker (5-9 cigarettes/day)                 	450811000124104	No     
+Heavy cigarette smoker                                	230063004      	No     
+Heavy cigarette smoker (20-39 cigs/day)               	160605003      	No     
+Heavy smoker (over 20 per day)                        	56771006       	No     
+Heavy tobacco smoker                                  	428071000124103	No     
+Light cigarette smoker                                	230060001      	No     
+Light cigarette smoker (1-9 cigs/day)                 	160603005      	No     
+Light tobacco smoker                                  	428061000124105	No     
+Moderate cigarette smoker                             	230062009      	No     
+Moderate cigarette smoker (10-19 cigs/day)            	160604004      	No     
+Moderate smoker (20 or less per day)                  	56578002       	No     
+Occasional cigarette smoker                           	230059006      	No     
+Occasional tobacco smoker                             	428041000124106	No     
+Pipe smoker                                           	82302008       	No     
+Rolls own cigarettes                                  	160619003      	No     
+Smoker                                                	77176002       	No     
+Smoking restarted                                     	308438006      	No     
+Smoking started                                       	266929003      	No     
+Snuff user                                            	228494002      	No     
+Tobacco user                                          	110483000      	No     
+Trivial cigarette smoker (less than one cigarette/day)	266920004      	No     
+User of moist powdered tobacco                        	228504007      	No     
+User of smokeless tobacco                             	713914004      	No     
+Very heavy cigarette smoker                           	230064005      	No     
+Very heavy cigarette smoker (40+ cigs/day)            	160606002      	No     

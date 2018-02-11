@@ -1,0 +1,7 @@
+Term                                         	Code         	Retired
+Necrotizing fasciitis                        	52486002     	No     
+Necrotizing fasciitis caused by microorganism	4141000119104	No     
+Necrotizing fasciitis of scrotum and perineum	238399000    	No     
+Neonatal necrotizing fasciitis               	402926000    	No     
+Polymicrobial necrotizing fasciitis          	722893002    	No     
+Streptococcal necrotizing fasciitis          	449900006    	No     

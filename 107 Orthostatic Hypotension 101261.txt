@@ -1,0 +1,13 @@
+Term                                                                    	Code     	Retired
+Chronic orthostatic hypotension                                         	75181005 	No     
+Hyperadrenergic postural hypotension                                    	61933008 	No     
+Hypoadrenergic postural hypotension                                     	70247006 	No     
+Orthostatic hypotension                                                 	28651003 	No     
+Orthostatic hypotension co-occurrent and due to Parkinson's disease     	718685006	No     
+Orthostatic tremor                                                      	430690005	No     
+Parkinsonian syndrome associated with idiopathic orthostatic hypotension	72585000 	No     
+Postural orthostatic tachycardia syndrome                               	371073003	No     
+Primary orthostatic tremor                                              	715902009	No     
+Pure autonomic failure                                                  	84438001 	No     
+Sympathotonic orthostatic hypotension                                   	230664009	No     
+Syncope due to orthostatic hypotension                                  	432524006	No     

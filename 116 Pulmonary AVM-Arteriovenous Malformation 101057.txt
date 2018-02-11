@@ -1,0 +1,6 @@
+Term                                                	Code     	Retired
+Embolization of pulmonary arteriovenous malformation	233220007	No     
+Ligation of pulmonary arteriovenous malformation    	233221006	No     
+Operation for pulmonary arteriovenous malformation  	233219001	No     
+Pulmonary arteriovenous aneurysm                    	270512000	No     
+Pulmonary arteriovenous malformation                	303070000	No     

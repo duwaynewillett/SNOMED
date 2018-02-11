@@ -1,0 +1,20 @@
+Term                                             	Code           	Retired
+Bilateral tinnitus                               	4831000119102  	No     
+Clicking tinnitus                                	95822008       	No     
+Leudet's tinnitus                                	95823003       	No     
+Nervous tinnitus                                 	95824009       	No     
+Noise-induced tinnitus                           	232318001      	No     
+Non-vibratory tinnitus                           	95825005       	No     
+Objective pulsatile tinnitus                     	117411000119106	No     
+Objective tinnitus                               	28715001       	No     
+Subjective pulsatile tinnitus                    	117421000119104	No     
+Subjective tinnitus                              	62452009       	No     
+Tinnitus                                         	60862001       	No     
+Tinnitus arising from tensor palatini            	232321004      	No     
+Tinnitus arising from tensor tympani             	232320003      	No     
+Tinnitus due to spontaneous oto-acoustic emission	232323001      	No     
+Tinnitus of left ear                             	4841000119106  	No     
+Tinnitus of muscular origin                      	232319009      	No     
+Tinnitus of right ear                            	4851000119108  	No     
+Tinnitus of vascular origin                      	232322006      	No     
+Vibratory tinnitus                               	95826006       	No     

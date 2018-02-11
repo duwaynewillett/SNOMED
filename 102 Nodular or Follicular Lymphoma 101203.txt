@@ -1,0 +1,34 @@
+Term                                                                                 	Code     	Retired
+Follicular non-Hodgkin's lymphoma                                                    	308121000	No     
+Follicular non-Hodgkin's lymphoma diffuse follicle center cell sub-type grade 2      	702977001	No     
+Follicular non-Hodgkin's lymphoma diffuse follicle center sub-type grade 1           	702786004	No     
+Follicular non-Hodgkin's lymphoma of bone                                            	448666006	No     
+Follicular non-Hodgkin's lymphoma of central nervous system                          	448995000	No     
+Follicular non-Hodgkin's lymphoma of extranodal site                                 	448561007	No     
+Follicular non-Hodgkin's lymphoma of intestine                                       	449419008	No     
+Follicular non-Hodgkin's lymphoma of lung                                            	448672006	No     
+Follicular non-Hodgkin's lymphoma of nasopharynx                                     	449219006	No     
+Follicular non-Hodgkin's lymphoma of nose                                            	448231003	No     
+Follicular non-Hodgkin's lymphoma of oral cavity                                     	449063007	No     
+Follicular non-Hodgkin's lymphoma of ovary                                           	449307001	No     
+Follicular non-Hodgkin's lymphoma of prostate                                        	448217003	No     
+Follicular non-Hodgkin's lymphoma of skin                                            	448865007	No     
+Follicular non-Hodgkin's lymphoma of soft tissue                                     	448317000	No     
+Follicular non-Hodgkin's lymphoma of stomach                                         	449222008	No     
+Follicular non-Hodgkin's lymphoma of testis                                          	449418000	No     
+Follicular non-Hodgkin's lymphoma of tonsil                                          	449058008	No     
+Follicular non-Hodgkin's lymphoma of uterine cervix                                  	449059000	No     
+Follicular non-Hodgkin's lymphoma, large cell (clinical)                             	109972003	No     
+Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell (clinical)	109971005	No     
+Follicular non-Hodgkin's lymphoma, small cleaved cell (clinical)                     	109970006	No     
+Nodular lymphoma                                                                     	269476000	No     
+Nodular lymphoma of extranodal AND/OR solid organ site                               	95194004 	No     
+Nodular lymphoma of intra-abdominal lymph nodes                                      	95186006 	No     
+Nodular lymphoma of intrapelvic lymph nodes                                          	95187002 	No     
+Nodular lymphoma of intrathoracic lymph nodes                                        	95188007 	No     
+Nodular lymphoma of lymph nodes of axilla and upper limb                             	188612002	No     
+Nodular lymphoma of lymph nodes of head, face and neck                               	188609000	No     
+Nodular lymphoma of lymph nodes of inguinal region and lower limb                    	188613007	No     
+Nodular lymphoma of lymph nodes of multiple sites                                    	95192000 	No     
+Nodular lymphoma of spleen                                                           	95193005 	No     
+Nodular lymphoma of unspecified site                                                 	188608008	Yes    

@@ -1,0 +1,368 @@
+Term                                                                                                 	Code     	Retired
+Acute atrophic spinal paralysis                                                                      	171822009	No     
+Acute complete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra    	698743007	No     
+Acute complete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra     	698741009	No     
+Acute paralysis due to lesion of spinal cord                                                         	698755001	No     
+Anterior cervical spinal cord injury, without injury to spinal bone, C1-4                            	405755009	No     
+Anterior cervical spinal cord injury, without spinal bone injury, C5-7                               	405756005	No     
+Anterior cord syndrome                                                                               	282785008	No     
+Anterior cord syndrome of cervical spinal cord                                                       	721380000	No     
+Anterior cord syndrome of cervical spinal cord at C1 level                                           	721381001	No     
+Anterior cord syndrome of cervical spinal cord at C2 level                                           	721382008	No     
+Anterior cord syndrome of cervical spinal cord at C3 level                                           	721383003	No     
+Anterior cord syndrome of cervical spinal cord at C4 level                                           	721384009	No     
+Anterior cord syndrome of cervical spinal cord at C5 level                                           	721385005	No     
+Anterior cord syndrome of cervical spinal cord at C6 level                                           	721386006	No     
+Anterior cord syndrome of cervical spinal cord at C7 level                                           	721387002	No     
+Anterior cord syndrome of cervical spinal cord at C8 level                                           	721388007	No     
+Anterior cord syndrome of lumbar spinal cord                                                         	721511007	No     
+Anterior cord syndrome of lumbar spinal cord at L1 level                                             	721512000	No     
+Anterior cord syndrome of lumbar spinal cord at L2 level                                             	721513005	No     
+Anterior cord syndrome of lumbar spinal cord at L3 level                                             	721514004	No     
+Anterior cord syndrome of lumbar spinal cord at L4 level                                             	721515003	No     
+Anterior cord syndrome of lumbar spinal cord at L5 level                                             	721516002	No     
+Anterior cord syndrome of thoracic spinal cord                                                       	721455004	No     
+Anterior cord syndrome of thoracic spinal cord at T1 level                                           	721456003	No     
+Anterior cord syndrome of thoracic spinal cord at T10 level                                          	721465005	No     
+Anterior cord syndrome of thoracic spinal cord at T11 level                                          	721466006	No     
+Anterior cord syndrome of thoracic spinal cord at T12 level                                          	721467002	No     
+Anterior cord syndrome of thoracic spinal cord at T2 level                                           	721457007	No     
+Anterior cord syndrome of thoracic spinal cord at T3 level                                           	721458002	No     
+Anterior cord syndrome of thoracic spinal cord at T4 level                                           	721459005	No     
+Anterior cord syndrome of thoracic spinal cord at T5 level                                           	721460000	No     
+Anterior cord syndrome of thoracic spinal cord at T6 level                                           	721461001	No     
+Anterior cord syndrome of thoracic spinal cord at T7 level                                           	721462008	No     
+Anterior cord syndrome of thoracic spinal cord at T8 level                                           	721463003	No     
+Anterior cord syndrome of thoracic spinal cord at T9 level                                           	721464009	No     
+Anterior lumbar cord injury without bony injury                                                      	212186005	No     
+Anterior thoracic cord injury, without bony injury, T1-6                                             	212172006	No     
+Anterior thoracic cord injury, without bony injury, T7-12                                            	212178005	No     
+Brown-Séquard syndrome                                                                               	27982003 	No     
+Brown-Sequard syndrome at C1 level                                                                   	721399009	No     
+Brown-Sequard syndrome at C2 level                                                                   	721400002	No     
+Brown-Sequard syndrome at C3 level                                                                   	721401003	No     
+Brown-Sequard syndrome at C4 level                                                                   	721402005	No     
+Brown-Sequard syndrome at C5 level                                                                   	721403000	No     
+Brown-Sequard syndrome at C6 level                                                                   	721404006	No     
+Brown-Sequard syndrome at C7 level                                                                   	721405007	No     
+Brown-Sequard syndrome at C8 level                                                                   	721406008	No     
+Brown-Séquard syndrome at L1 level                                                                   	721524007	No     
+Brown-Séquard syndrome at L2 level                                                                   	721525008	No     
+Brown-Séquard syndrome at L3 level                                                                   	721526009	No     
+Brown-Séquard syndrome at L4 level                                                                   	721527000	No     
+Brown-Séquard syndrome at L5 level                                                                   	721528005	No     
+Brown-Séquard syndrome at T1 level                                                                   	721482007	No     
+Brown-Séquard syndrome at T10 level                                                                  	721491006	No     
+Brown-Séquard syndrome at T11 level                                                                  	721492004	No     
+Brown-Séquard syndrome at T12 level                                                                  	721493009	No     
+Brown-Séquard syndrome at T2 level                                                                   	721483002	No     
+Brown-Séquard syndrome at T3 level                                                                   	721484008	No     
+Brown-Séquard syndrome at T4 level                                                                   	721485009	No     
+Brown-Séquard syndrome at T5 level                                                                   	721486005	No     
+Brown-Séquard syndrome at T6 level                                                                   	721487001	No     
+Brown-Séquard syndrome at T7 level                                                                   	721488006	No     
+Brown-Séquard syndrome at T8 level                                                                   	721489003	No     
+Brown-Séquard syndrome at T9 level                                                                   	721490007	No     
+Brown-Sequard syndrome of cervical spinal cord                                                       	721398001	No     
+Brown-Séquard syndrome of lumbar spinal cord                                                         	721523001	No     
+Brown-Séquard syndrome of thoracic spinal cord                                                       	721481000	No     
+Central cervical cord injury, without spinal bony injury, C1-4                                       	405757001	No     
+Central cervical cord injury, without spinal bony injury, C5-7                                       	405758006	No     
+Central cord syndrome                                                                                	282787000	No     
+Central cord syndrome of cervical spinal cord                                                        	721371000	No     
+Central cord syndrome of cervical spinal cord at C1 level                                            	721372007	No     
+Central cord syndrome of cervical spinal cord at C2 level                                            	721373002	No     
+Central cord syndrome of cervical spinal cord at C3 level                                            	721374008	No     
+Central cord syndrome of cervical spinal cord at C4 level                                            	721375009	No     
+Central cord syndrome of cervical spinal cord at C5 level                                            	721376005	No     
+Central cord syndrome of cervical spinal cord at C6 level                                            	721377001	No     
+Central cord syndrome of cervical spinal cord at C7 level                                            	721378006	No     
+Central cord syndrome of cervical spinal cord at C8 level                                            	721379003	No     
+Central cord syndrome of lumbar spinal cord                                                          	721505009	No     
+Central cord syndrome of lumbar spinal cord at L1 level                                              	721506005	No     
+Central cord syndrome of lumbar spinal cord at L2 level                                              	721507001	No     
+Central cord syndrome of lumbar spinal cord at L3 level                                              	721508006	No     
+Central cord syndrome of lumbar spinal cord at L4 level                                              	721509003	No     
+Central cord syndrome of lumbar spinal cord at L5 level                                              	721510008	No     
+Central cord syndrome of thoracic spinal cord                                                        	721442000	No     
+Central cord syndrome of thoracic spinal cord at T1 level                                            	721443005	No     
+Central cord syndrome of thoracic spinal cord at T10 level                                           	721452001	No     
+Central cord syndrome of thoracic spinal cord at T11 level                                           	721453006	No     
+Central cord syndrome of thoracic spinal cord at T12 level                                           	721454000	No     
+Central cord syndrome of thoracic spinal cord at T2 level                                            	721444004	No     
+Central cord syndrome of thoracic spinal cord at T3 level                                            	721445003	No     
+Central cord syndrome of thoracic spinal cord at T4 level                                            	721446002	No     
+Central cord syndrome of thoracic spinal cord at T5 level                                            	721447006	No     
+Central cord syndrome of thoracic spinal cord at T6 level                                            	721448001	No     
+Central cord syndrome of thoracic spinal cord at T7 level                                            	721449009	No     
+Central cord syndrome of thoracic spinal cord at T8 level                                            	721450009	No     
+Central cord syndrome of thoracic spinal cord at T9 level                                            	721451008	No     
+Central lumbar cord injury without bony injury                                                       	212187001	No     
+Central thoracic cord injury, without bony injury, T1-6                                              	212173001	No     
+Central thoracic cord injury, without bony injury, T7-12                                             	212179002	No     
+Cervical spinal cord injury                                                                          	405754008	No     
+Cervical spinal cord injury without spinal bone injury                                               	405759003	No     
+Chronic incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra	698744001	No     
+Chronic incomplete quadriplegia due to spinal cord lesion between first and fourth cervical vertebra 	698742002	No     
+Chronic paralysis due to lesion of spinal cord                                                       	698754002	No     
+Closed fracture of C1-C4 level with anterior cord syndrome                                           	53868003 	No     
+Closed fracture of C1-C4 level with central cord syndrome                                            	50888000 	No     
+Closed fracture of C1-C4 level with incomplete cord lesion                                           	8459005  	No     
+Closed fracture of C1-C4 level with posterior cord syndrome                                          	51514006 	No     
+Closed fracture of C1-C4 level with spinal cord injury                                               	8840000  	No     
+Closed fracture of C5-C7 level with anterior cord syndrome                                           	31235003 	No     
+Closed fracture of C5-C7 level with central cord syndrome                                            	78157002 	No     
+Closed fracture of C5-C7 level with incomplete spinal cord lesion                                    	66158003 	No     
+Closed fracture of C5-C7 level with posterior cord syndrome                                          	35403005 	No     
+Closed fracture of C5-C7 level with spinal cord injury                                               	46995009 	No     
+Closed fracture of cervical region with spinal cord injury                                           	81442004 	No     
+Closed fracture of cervical spine with cord lesion                                                   	207998001	No     
+Closed fracture of coccyx with spinal cord lesion                                                    	208082008	No     
+Closed fracture of lumbar spine with spinal cord lesion                                              	208054001	No     
+Closed fracture of lumbar vertebra with spinal cord injury                                           	49747005 	No     
+Closed fracture of sacrum AND/OR coccyx with spinal cord injury                                      	14584002 	No     
+Closed fracture of sacrum with spinal cord lesion                                                    	208069000	No     
+Closed fracture of T1-T6 level with anterior cord syndrome                                           	14493003 	No     
+Closed fracture of T1-T6 level with central cord syndrome                                            	52289006 	No     
+Closed fracture of T1-T6 level with incomplete spinal cord lesion                                    	13456001 	No     
+Closed fracture of T1-T6 level with posterior cord syndrome                                          	31033002 	No     
+Closed fracture of T1-T6 level with spinal cord injury                                               	31882001 	No     
+Closed fracture of T7-T12 level with anterior cord syndrome                                          	13194006 	No     
+Closed fracture of T7-T12 level with central cord syndrome                                           	8183009  	No     
+Closed fracture of T7-T12 level with incomplete spinal cord lesion                                   	18960007 	No     
+Closed fracture of T7-T12 level with posterior cord syndrome                                         	41133002 	No     
+Closed fracture of T7-T12 level with spinal cord injury                                              	72513001 	No     
+Closed fracture of thoracic region with spinal cord injury                                           	44434003 	No     
+Closed fracture of thoracic spine with spinal cord lesion                                            	208026008	No     
+Closed fracture of vertebral column with spinal cord injury                                          	22973003 	No     
+Closed spinal fracture with anterior cervical cord lesion, C1-4                                      	208001004	No     
+Closed spinal fracture with anterior cervical cord lesion, C5-7                                      	208007000	No     
+Closed spinal fracture with anterior lumbar cord lesion                                              	208057008	No     
+Closed spinal fracture with anterior thoracic cord lesion, T1-6                                      	208029001	No     
+Closed spinal fracture with anterior thoracic cord lesion,T7-12                                      	208035001	No     
+Closed spinal fracture with central cervical cord lesion, C1-4                                       	208002006	No     
+Closed spinal fracture with central cervical cord lesion, C5-7                                       	208008005	No     
+Closed spinal fracture with central lumbar cord lesion                                               	208058003	No     
+Closed spinal fracture with central thoracic cord lesion, T1-6                                       	208030006	No     
+Closed spinal fracture with central thoracic cord lesion, T7-12                                      	208036000	No     
+Closed spinal fracture with complete cervical cord lesion, C1-4                                      	208000003	No     
+Closed spinal fracture with complete cervical cord lesion, C5-7                                      	208006009	No     
+Closed spinal fracture with complete lumbar cord lesion                                              	208056004	No     
+Closed spinal fracture with complete thoracic cord lesion, T1-6                                      	208028009	No     
+Closed spinal fracture with complete thoracic cord lesion,T7-12                                      	208034002	No     
+Closed spinal fracture with posterior cervical cord lesion, C1-4                                     	208003001	No     
+Closed spinal fracture with posterior cervical cord lesion, C5-7                                     	208009002	No     
+Closed spinal fracture with posterior lumbar cord lesion                                             	208059006	No     
+Closed spinal fracture with posterior thoracic cord lesion, T1-6                                     	208031005	No     
+Closed spinal fracture with posterior thoracic cord lesion, T7-12                                    	208037009	No     
+Closed spinal subluxation with posterior lumbar cord lesion                                          	209181007	No     
+Complete cervical cord injury, without spinal bone injury, C1-4                                      	405760008	No     
+Complete cervical cord injury, without spinal bone injury, C5-7                                      	405761007	No     
+Complete injury of sacral spinal cord                                                                	721529002	No     
+Complete lesion of cervical spinal cord                                                              	721362009	No     
+Complete lesion of cervical spinal cord at C1 level                                                  	721363004	No     
+Complete lesion of cervical spinal cord at C2 level                                                  	721364005	No     
+Complete lesion of cervical spinal cord at C3 level                                                  	721365006	No     
+Complete lesion of cervical spinal cord at C4 level                                                  	721366007	No     
+Complete lesion of cervical spinal cord at C5 level                                                  	721367003	No     
+Complete lesion of cervical spinal cord at C6 level                                                  	721368008	No     
+Complete lesion of cervical spinal cord at C7 level                                                  	721369000	No     
+Complete lesion of cervical spinal cord at C8 level                                                  	721370004	No     
+Complete lesion of lumbar spinal cord                                                                	721499008	No     
+Complete lesion of lumbar spinal cord at L1 level                                                    	721500004	No     
+Complete lesion of lumbar spinal cord at L2 level                                                    	721501000	No     
+Complete lesion of lumbar spinal cord at L3 level                                                    	721502007	No     
+Complete lesion of lumbar spinal cord at L4 level                                                    	721503002	No     
+Complete lesion of lumbar spinal cord at L5 level                                                    	721504008	No     
+Complete lesion of thoracic spinal cord                                                              	721429000	No     
+Complete lesion of thoracic spinal cord at T1 level                                                  	721430005	No     
+Complete lesion of thoracic spinal cord at T10 level                                                 	721439006	No     
+Complete lesion of thoracic spinal cord at T11 level                                                 	721440008	No     
+Complete lesion of thoracic spinal cord at T12 level                                                 	721441007	No     
+Complete lesion of thoracic spinal cord at T2 level                                                  	721431009	No     
+Complete lesion of thoracic spinal cord at T3 level                                                  	721432002	No     
+Complete lesion of thoracic spinal cord at T4 level                                                  	721433007	No     
+Complete lesion of thoracic spinal cord at T5 level                                                  	721434001	No     
+Complete lesion of thoracic spinal cord at T6 level                                                  	721435000	No     
+Complete lesion of thoracic spinal cord at T7 level                                                  	721436004	No     
+Complete lesion of thoracic spinal cord at T8 level                                                  	721437008	No     
+Complete lesion of thoracic spinal cord at T9 level                                                  	721438003	No     
+Complete lumbar cord injury without bony injury                                                      	212185009	No     
+Complete spinal cord injury at T1-T6 level                                                           	447575003	No     
+Complete spinal cord injury at T7-T12 level                                                          	447464004	No     
+Complete tetraplegia due to lesion at C1-C4 level                                                    	441705005	No     
+Complete tetraplegia due to lesion at C5-C7 level                                                    	441980007	No     
+Complete thoracic cord injury, without bony injury, T1-6                                             	212171004	No     
+Complete thoracic cord injury, without bony injury, T7-12                                            	212177000	No     
+Concussion of sacral spinal cord                                                                     	722995008	No     
+Contusion of cervical cord                                                                           	262697008	No     
+Contusion of lumbar cord                                                                             	262699006	No     
+Contusion of sacral cord                                                                             	262700007	No     
+Contusion of spinal cord                                                                             	262696004	No     
+Contusion of thoracic cord                                                                           	262698003	No     
+Epidural ascending spinal paralysis                                                                  	78306007 	No     
+Fracture of cervical spine with cord lesion                                                          	274156000	No     
+Fracture of lumbar spine with cord lesion                                                            	274158004	No     
+Fracture of spine with spinal cord lesion                                                            	269078005	No     
+Fracture of thoracic spine with cord lesion                                                          	274157009	No     
+Fracture of transverse process of spine with spinal cord lesion                                      	263179007	No     
+Fracture of vertebral column with spinal cord injury                                                 	1734006  	No     
+Fracture sacrum/coccyx with cord lesion                                                              	288281005	No     
+Incomplete cervical spinal cord injury, unspecified, without spinal bone injury, C1-4                	405762000	No     
+Incomplete cervical spinal cord injury, unspecified, without spinal bone injury, C5-7                	405763005	No     
+Incomplete cord syndrome of cervical spinal cord                                                     	725012004	No     
+Incomplete cord syndrome of lumbar spinal cord                                                       	724793007	No     
+Incomplete cord syndrome of thoracic spinal cord                                                     	724792002	No     
+Incomplete injury of sacral spinal cord                                                              	722654008	No     
+Incomplete spinal cord lesion at C1-C4 level without bone injury                                     	8939001  	No     
+Incomplete spinal cord lesion at C5-C7 level without bone injury                                     	83991006 	No     
+Incomplete spinal cord lesion at T1-T6 level without bone injury                                     	11413003 	No     
+Incomplete spinal cord lesion at T7-T12 level without bone injury                                    	63903007 	No     
+Incomplete tetraplegia due to lesion at C5-C7 level                                                  	441794001	No     
+Incomplete tetraplegia due to spinal cord lesion at C1-C4 level                                      	441688003	No     
+Injury at C1-C4 level with anterior cord syndrome AND without bone injury                            	67861006 	No     
+Injury at C1-C4 level with central cord syndrome AND without bone injury                             	6342009  	No     
+Injury at C1-C4 level with complete lesion of spinal cord AND without bone injury                    	19090007 	No     
+Injury at C1-C4 level with posterior cord syndrome AND without bone injury                           	67016008 	No     
+Injury at C1-C4 level with spinal cord injury AND without bone injury                                	24392008 	No     
+Injury at C5-C7 level with anterior cord syndrome AND without bone injury                            	70307002 	No     
+Injury at C5-C7 level with central cord syndrome AND without bone injury                             	38278003 	No     
+Injury at C5-C7 level with complete lesion of spinal cord AND without bone injury                    	39881005 	No     
+Injury at C5-C7 level with posterior cord syndrome AND without bone injury                           	76179004 	No     
+Injury at C5-C7 level with spinal cord injury AND without bone injury                                	11807002 	No     
+Injury at T1-T6 level with anterior cord syndrome AND without bone injury                            	42206007 	No     
+Injury at T1-T6 level with central cord syndrome AND without bone injury                             	64684007 	No     
+Injury at T1-T6 level with complete lesion of spinal cord AND without bone injury                    	40795009 	No     
+Injury at T1-T6 level with posterior cord syndrome AND without bone injury                           	24380008 	No     
+Injury at T1-T6 level with spinal cord injury AND without bone injury                                	53810004 	No     
+Injury at T7 - T12 level with central cord syndrome                                                  	698404009	No     
+Injury at T7-T12 level with anterior cord syndrome                                                   	698783004	No     
+Injury at T7-T12 level with anterior cord syndrome AND without bone injury                           	55600008 	No     
+Injury at T7-T12 level with central cord syndrome AND without bone injury                            	64617008 	No     
+Injury at T7-T12 level with complete lesion of spinal cord AND without bone injury                   	55983005 	No     
+Injury at T7-T12 level with posterior cord syndrome AND without bone injury                          	91641000 	No     
+Injury at T7-T12 level with spinal cord injury AND without bone injury                               	25331007 	No     
+Injury of lumbar spinal cord                                                                         	722653002	No     
+Injury of spinal cord caused by ionizing radiation following radiotherapy procedure                  	723155001	No     
+Injury of thoracic spinal cord                                                                       	721428008	No     
+Laceration of cervical cord                                                                          	262706001	No     
+Laceration of lumbar cord                                                                            	262708000	No     
+Laceration of sacral cord                                                                            	262709008	No     
+Laceration of spinal cord                                                                            	262705002	No     
+Laceration of thoracic cord                                                                          	262707005	No     
+Lumbar cord injury without spinal bone injury                                                        	212183002	No     
+Multiple spinal cord injuries without spinal bone injury                                             	46549005 	No     
+Open fracture of C1-C4 level with anterior cord syndrome                                             	21978005 	No     
+Open fracture of C1-C4 level with central cord syndrome                                              	61386002 	No     
+Open fracture of C1-C4 level with incomplete spinal cord lesion                                      	10310006 	No     
+Open fracture of C1-C4 level with posterior cord syndrome                                            	33147008 	No     
+Open fracture of C1-C4 level with spinal cord injury                                                 	76435008 	No     
+Open fracture of C5-C7 level with anterior cord syndrome                                             	43405004 	No     
+Open fracture of C5-C7 level with central cord syndrome                                              	74360009 	No     
+Open fracture of C5-C7 level with incomplete spinal cord lesion                                      	20377001 	No     
+Open fracture of C5-C7 level with posterior cord syndrome                                            	66020004 	No     
+Open fracture of C5-C7 level with spinal cord injury                                                 	80980003 	No     
+Open fracture of cervical region with spinal cord injury                                             	125609005	No     
+Open fracture of cervical spine with spinal cord lesion                                              	208012004	No     
+Open fracture of coccyx with spinal cord lesion                                                      	208088007	No     
+Open fracture of lumbar spine with incomplete lesion of lumbar spinal cord                           	448788000	No     
+Open fracture of lumbar spine with spinal cord lesion                                                	208061002	No     
+Open fracture of lumbar vertebra with spinal cord injury                                             	48956000 	No     
+Open fracture of sacrum AND/OR coccyx with spinal cord injury                                        	65491009 	No     
+Open fracture of sacrum with spinal cord lesion                                                      	208076005	No     
+Open fracture of T1-T6 level with anterior cord syndrome                                             	49497005 	No     
+Open fracture of T1-T6 level with central cord syndrome                                              	63819001 	No     
+Open fracture of T1-T6 level with incomplete spinal cord lesion                                      	23283004 	No     
+Open fracture of T1-T6 level with posterior cord syndrome                                            	85262003 	No     
+Open fracture of T1-T6 level with spinal cord injury                                                 	16695002 	No     
+Open fracture of T7-T12 level with anterior cord syndrome                                            	27937002 	No     
+Open fracture of T7-T12 level with central cord syndrome                                             	88405003 	No     
+Open fracture of T7-T12 level with incomplete spinal cord lesion                                     	78085003 	No     
+Open fracture of T7-T12 level with posterior cord syndrome                                           	51258005 	No     
+Open fracture of T7-T12 level with spinal cord injury                                                	3446000  	No     
+Open fracture of thoracic spine with spinal cord injury                                              	78211006 	No     
+Open fracture of thoracic spine with spinal cord lesion                                              	208040009	No     
+Open fracture of vertebral column with spinal cord injury                                            	10575009 	No     
+Open spinal fracture with anterior cervical cord lesion, C1-4                                        	208015002	No     
+Open spinal fracture with anterior cervical cord lesion, C5-7                                        	208021003	No     
+Open spinal fracture with anterior lumbar cord lesion                                                	208064005	No     
+Open spinal fracture with anterior thoracic cord lesion, T1-6                                        	208043006	No     
+Open spinal fracture with anterior thoracic cord lesion, T7-12                                       	208049005	No     
+Open spinal fracture with central cervical cord lesion, C1-4                                         	208016001	No     
+Open spinal fracture with central cervical cord lesion, C5-7                                         	208022005	No     
+Open spinal fracture with central lumbar cord lesion                                                 	208065006	No     
+Open spinal fracture with central thoracic cord lesion, T1-6                                         	208044000	No     
+Open spinal fracture with central thoracic cord lesion, T7-12                                        	208050005	No     
+Open spinal fracture with complete cervical cord lesion, C1-4                                        	208014003	No     
+Open spinal fracture with complete cervical cord lesion, C5-7                                        	208020002	No     
+Open spinal fracture with complete lumbar cord lesion                                                	208063004	No     
+Open spinal fracture with complete thoracic cord lesion, T1-6                                        	208042001	No     
+Open spinal fracture with complete thoracic cord lesion, T7-12                                       	208048002	No     
+Open spinal fracture with posterior cervical cord lesion, C1-4                                       	208017005	No     
+Open spinal fracture with posterior cervical cord lesion, C5-7                                       	208023000	No     
+Open spinal fracture with posterior lumbar cord lesion                                               	208066007	No     
+Open spinal fracture with posterior thoracic cord lesion, T1-6                                       	208045004	No     
+Open spinal fracture with posterior thoracic cord lesion, T7-12                                      	208051009	No     
+Paralysis due to lesion of spinal cord                                                               	372310001	No     
+Posterior cervical spinal cord injury without spinal bone injury, C5-7                               	405764004	No     
+Posterior cervical spinal cord injury, without spinal injury, C1-4                                   	405765003	No     
+Posterior cord syndrome                                                                              	282786009	No     
+Posterior cord syndrome of cervical spinal cord                                                      	721389004	No     
+Posterior cord syndrome of cervical spinal cord at C1 level                                          	721390008	No     
+Posterior cord syndrome of cervical spinal cord at C2 level                                          	721391007	No     
+Posterior cord syndrome of cervical spinal cord at C3 level                                          	721392000	No     
+Posterior cord syndrome of cervical spinal cord at C4 level                                          	721393005	No     
+Posterior cord syndrome of cervical spinal cord at C5 level                                          	721394004	No     
+Posterior cord syndrome of cervical spinal cord at C6 level                                          	721395003	No     
+Posterior cord syndrome of cervical spinal cord at C7 level                                          	721396002	No     
+Posterior cord syndrome of cervical spinal cord at C8 level                                          	721397006	No     
+Posterior cord syndrome of lumbar spinal cord                                                        	721517006	No     
+Posterior cord syndrome of lumbar spinal cord at L1 level                                            	721518001	No     
+Posterior cord syndrome of lumbar spinal cord at L2 level                                            	721519009	No     
+Posterior cord syndrome of lumbar spinal cord at L3 level                                            	721520003	No     
+Posterior cord syndrome of lumbar spinal cord at L4 level                                            	721521004	No     
+Posterior cord syndrome of lumbar spinal cord at L5 level                                            	721522006	No     
+Posterior cord syndrome of thoracic spinal cord                                                      	721468007	No     
+Posterior cord syndrome of thoracic spinal cord at T1 level                                          	721469004	No     
+Posterior cord syndrome of thoracic spinal cord at T10 level                                         	721478005	No     
+Posterior cord syndrome of thoracic spinal cord at T11 level                                         	721479002	No     
+Posterior cord syndrome of thoracic spinal cord at T12 level                                         	721480004	No     
+Posterior cord syndrome of thoracic spinal cord at T2 level                                          	721470003	No     
+Posterior cord syndrome of thoracic spinal cord at T3 level                                          	721471004	No     
+Posterior cord syndrome of thoracic spinal cord at T4 level                                          	721472006	No     
+Posterior cord syndrome of thoracic spinal cord at T5 level                                          	721473001	No     
+Posterior cord syndrome of thoracic spinal cord at T6 level                                          	721474007	No     
+Posterior cord syndrome of thoracic spinal cord at T7 level                                          	721475008	No     
+Posterior cord syndrome of thoracic spinal cord at T8 level                                          	721476009	No     
+Posterior cord syndrome of thoracic spinal cord at T9 level                                          	721477000	No     
+Posterior lumbar cord injury without bony injury                                                     	212188006	No     
+Posterior thoracic cord injury without bony injury, T1-6                                             	212174007	No     
+Posterior thoracic cord injury without bony injury, T7-12                                            	212180004	No     
+Sacral cord injury without bony injury                                                               	212190007	No     
+Sacral spinal cord injury without bone injury                                                        	4260009  	No     
+Spastic paralysis due to spinal birth injury                                                         	79591004 	No     
+Spastic spinal syphilitic paralysis                                                                  	75299005 	No     
+Spinal cord concussion                                                                               	110150000	No     
+Spinal cord injury                                                                                   	90584004 	No     
+Spinal cord injury due to birth trauma                                                               	698500002	No     
+Spinal cord injury of multiple sites without spinal bone injury                                      	212194003	No     
+Spinal cord injury of thoracic region without bone injury                                            	36838006 	No     
+Spinal cord injury to cervical region without bone injury                                            	57360002 	No     
+Spinal cord injury without spinal bone injury                                                        	26738009 	No     
+Spinal cord laceration due to birth trauma                                                           	206223002	No     
+Spinal cord rupture                                                                                  	277326006	No     
+Spinal cord syndrome                                                                                 	282784007	No     
+Spinal paraplegia                                                                                    	84455002 	No     
+Tetraplegic spinal paralysis                                                                         	371120001	No     
+Thoracic cord injury without spinal bone injury                                                      	212169004	No     
+Transection of cervical cord                                                                         	262711004	No     
+Transection of lumbar cord                                                                           	262713001	No     
+Transection of sacral cord                                                                           	262714007	No     
+Transection of spinal cord                                                                           	262710003	No     
+Transection of thoracic cord                                                                         	262712006	No     
+Traumatic injury of sacral spinal cord                                                               	446835008	No     
+Traumatic injury of spinal cord at T1-T6 level                                                       	446644006	No     
+Traumatic injury of spinal cord at T7-T12 level                                                      	445779008	No     
+Traumatic spinal cord compression                                                                    	83716008 	No     
+Traumatic spinal cord hemorrhage                                                                     	262718005	No     
+Unspecified cervical spinal cord injury, without spinal bone injury, C1-4                            	405766002	No     

@@ -1,0 +1,64 @@
+Term                                                     	Code             	Retired
+Community hospital acquired pressure ulcer               	447471009        	No     
+Deep and superficial pressure ulcer                      	165261001        	No     
+Deep pressure ulcer                                      	165260000        	No     
+Gangrenous pressure ulcer                                	238492005        	No     
+Hospice acquired pressure ulcer                          	446260003        	No     
+Hospital acquired pressure ulcer                         	446261004        	No     
+Nonstageable pressure ulcer                              	421594008        	No     
+Nonstageable pressure ulcer of left foot                 	12367101000119105	No     
+Nonstageable pressure ulcer of right foot                	12367151000119109	No     
+Nursing home acquired pressure ulcer                     	446262006        	No     
+Pressure ulcer                                           	399912005        	No     
+Pressure ulcer caused by device                          	709076009        	No     
+Pressure ulcer due to spina bifida                       	76481000119102   	No     
+Pressure ulcer not visible                               	421434007        	No     
+Pressure ulcer of ankle                                  	699211004        	No     
+Pressure ulcer of back                                   	225558004        	No     
+Pressure ulcer of breast                                 	699212006        	No     
+Pressure ulcer of buttock                                	225563000        	No     
+Pressure ulcer of buttock stage 1                        	10637031000119106	No     
+Pressure ulcer of buttock stage 2                        	10637071000119109	No     
+Pressure ulcer of buttock stage 3                        	10637111000119102	No     
+Pressure ulcer of buttock stage 4                        	10637151000119101	No     
+Pressure ulcer of coccygeal region                       	699216009        	No     
+Pressure ulcer of dorsum of foot                         	699213001        	No     
+Pressure ulcer of ear                                    	225556000        	No     
+Pressure ulcer of elbow                                  	225559007        	No     
+Pressure ulcer of foot                                   	450201000124101  	No     
+Pressure ulcer of head                                   	225557009        	No     
+Pressure ulcer of heel                                   	225561003        	No     
+Pressure ulcer of hip                                    	699214007        	No     
+Pressure ulcer of knee                                   	447745006        	No     
+Pressure ulcer of left foot                              	12367201000119101	No     
+Pressure ulcer of left foot stage 1                      	12366901000119105	No     
+Pressure ulcer of left foot stage 2                      	12366801000119100	No     
+Pressure ulcer of left foot stage 3                      	12367001000119106	No     
+Pressure ulcer of left foot stage 4                      	12366701000119107	No     
+Pressure ulcer of left leg                               	19060001000004103	No     
+Pressure ulcer of lower back                             	699215008        	No     
+Pressure ulcer of malleolus                              	225560002        	No     
+Pressure ulcer of natal cleft                            	699217000        	No     
+Pressure ulcer of right foot                             	12367241000119104	No     
+Pressure ulcer of right foot stage 1                     	12366951000119109	No     
+Pressure ulcer of right foot stage 2                     	12366851000119101	No     
+Pressure ulcer of right foot stage 3                     	12367051000119105	No     
+Pressure ulcer of right foot stage 4                     	12366751000119106	No     
+Pressure ulcer of right lower limb                       	450211000124103  	No     
+Pressure ulcer of sacral region                          	225562005        	No     
+Pressure ulcer of shoulder                               	225555001        	No     
+Pressure ulcer of skin of right ischial tuberosity region	8960001000004106 	No     
+Pressure ulcer of toe of left foot stage 1               	450321000124104  	No     
+Pressure ulcer of toe of left foot stage 2               	15938861000119103	No     
+Pressure ulcer of toe of left foot stage 3               	15939061000119102	No     
+Pressure ulcer of toe of left foot stage 4               	15938981000119101	No     
+Pressure ulcer of toe of right foot stage 1              	15939101000119104	No     
+Pressure ulcer of toe of right foot stage 2              	15938901000119109	No     
+Pressure ulcer of toe of right foot stage 3              	15939021000119107	No     
+Pressure ulcer of toe of right foot stage 4              	15938941000119106	No     
+Pressure ulcer of upper back                             	699218005        	No     
+Pressure ulcer stage 1                                   	421076008        	No     
+Pressure ulcer stage 2                                   	420324007        	No     
+Pressure ulcer stage 3                                   	421927004        	No     
+Pressure ulcer stage 4                                   	420597008        	No     
+Superficial pressure ulcer                               	165259005        	No     

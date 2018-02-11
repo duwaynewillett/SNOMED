@@ -1,0 +1,16 @@
+Term                                                  	Code             	Retired
+Amaurosis fugax                                       	88032003         	No     
+Amaurosis fugax of left eye                           	12237911000119109	No     
+Amaurosis fugax of right eye                          	12237951000119105	No     
+Anterior cerebral artery syndrome                     	195210002        	No     
+Basilar artery syndrome                               	64009001         	No     
+Carotid artery syndrome hemispheric                   	195200006        	No     
+Carotid territory transient ischemic attack           	230716006        	No     
+Middle cerebral artery syndrome                       	195209007        	No     
+Multiple and bilateral precerebral artery syndromes   	195201005        	No     
+Posterior cerebral artery syndrome                    	195211003        	No     
+Recurrent transient cerebral ischemic attack          	444172003        	No     
+Transient cerebral ischemia                           	266257000        	No     
+Transient cerebral ischemia due to atrial fibrillation	426814001        	No     
+Transient ischemic attack due to embolism             	710575003        	No     
+Vertebrobasilar territory transient ischemic attack   	230717002        	No     

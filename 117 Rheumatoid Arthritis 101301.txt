@@ -1,0 +1,49 @@
+Term                                                            	Code             	Retired
+Extra-articular rheumatoid process                              	52661003         	No     
+Felty's syndrome                                                	57160007         	No     
+Flare of rheumatoid arthritis                                   	201791009        	No     
+Nailfold rheumatoid vasculitis                                  	239941000        	No     
+Nailfold/finger-pulp infarcts in rheumatoid disease             	402433007        	No     
+Necrotizing rheumatoid vasculitis                               	239943002        	No     
+Rheumatoid arteritis                                            	399923009        	No     
+Rheumatoid arthritis                                            	69896004         	No     
+Rheumatoid arthritis - ankle and/or foot                        	287008006        	No     
+Rheumatoid arthritis - hand joint                               	287007001        	No     
+Rheumatoid arthritis in remission                               	143441000119108  	No     
+Rheumatoid arthritis of acromioclavicular joint                 	201768005        	No     
+Rheumatoid arthritis of ankle                                   	201779000        	No     
+Rheumatoid arthritis of cervical spine                          	201764007        	No     
+Rheumatoid arthritis of distal interphalangeal joint of finger  	201774005        	No     
+Rheumatoid arthritis of distal radioulnar joint                 	201770001        	No     
+Rheumatoid arthritis of elbow                                   	201769002        	No     
+Rheumatoid arthritis of first metatarsophalangeal joint         	201783000        	No     
+Rheumatoid arthritis of foot                                    	429192004        	No     
+Rheumatoid arthritis of hip                                     	201775006        	No     
+Rheumatoid arthritis of interphalangeal joint of toe            	201785007        	No     
+Rheumatoid arthritis of knee                                    	201777003        	No     
+Rheumatoid arthritis of left knee                               	1073731000119100 	No     
+Rheumatoid arthritis of lesser metatarsophalangeal joint        	201784006        	No     
+Rheumatoid arthritis of metacarpophalangeal joint               	201772009        	No     
+Rheumatoid arthritis of multiple joints                         	287006005        	No     
+Rheumatoid arthritis of proximal interphalangeal joint of finger	201773004        	No     
+Rheumatoid arthritis of right knee                              	1073811000119102 	No     
+Rheumatoid arthritis of sacroiliac joint                        	201776007        	No     
+Rheumatoid arthritis of shoulder                                	201766009        	No     
+Rheumatoid arthritis of sternoclavicular joint                  	201767000        	No     
+Rheumatoid arthritis of subtalar joint                          	201780002        	No     
+Rheumatoid arthritis of talonavicular joint                     	201781003        	No     
+Rheumatoid arthritis of temporomandibular joint                 	427770001        	No     
+Rheumatoid arthritis of tibiofibular joint                      	201778008        	No     
+Rheumatoid arthritis of wrist                                   	201771002        	No     
+Rheumatoid arthritis with multisystem involvement               	239795001        	No     
+Rheumatoid arthritis with organ / system involvement            	239793008        	No     
+Rheumatoid carditis                                             	28880005         	No     
+Rheumatoid lung disease with rheumatoid arthritis               	319841000119107  	No     
+Rheumatoid pneumoconiosis                                       	398640008        	No     
+Rheumatoid vasculitis                                           	400054000        	No     
+Seronegative rheumatoid arthritis                               	239792003        	No     
+Seropositive errosive rheumatoid arthritis                      	308143008        	No     
+Seropositive rheumatoid arthritis                               	239791005        	No     
+Seropositive rheumatoid arthritis of multiple joints            	11055151000119108	No     
+Systemic rheumatoid vasculitis                                  	239942007        	No     
+Uveitis-rheumatoid arthritis syndrome                           	86219005         	No     
