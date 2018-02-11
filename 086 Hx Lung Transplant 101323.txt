@@ -1,0 +1,25 @@
+Term                                                          	Code           	Retired
+Accelerated rejection of lung transplant                      	431507002      	No     
+Acute rejection of lung transplant                            	431223003      	No     
+Allotransplant of heart and lung                              	174802006      	No     
+Autotransplant of lung                                        	62511003       	No     
+Bilateral sequential single lung transplant                   	232660006      	No     
+Chronic rejection of lung transplant                          	432958009      	No     
+Complication of transplanted lung                             	44165003       	No     
+Disorder related to lung transplantation                      	427928003      	No     
+Double lung transplant                                        	232658009      	No     
+Double lung transplant as a block                             	232659001      	No     
+H/O: lung recipient                                           	161672008      	No     
+Heart-lung transplant failure and rejection                   	213152006      	No     
+Heart-lung transplant recipient                               	716805003      	No     
+Heart-lung transplant with recipient cardiectomy-pneumonectomy	32477003       	No     
+Hyperacute rejection of lung transplant                       	432774005      	No     
+Lung transplant recipient                                     	702775001      	No     
+Lung transplant rejection                                     	312603000      	No     
+Lymphoproliferative disorder following lung transplant        	122501000119101	No     
+Neoplasia following lung transplant                           	129781000119105	No     
+Post-lung transplantation bronchiectasis                      	233634002      	No     
+Reimplantation of lung                                        	14681002       	No     
+Single lung transplant                                        	232657004      	No     
+Transplant of lung                                            	88039007       	No     
+Transplantation of single lobe of lung                        	429332008      	No     

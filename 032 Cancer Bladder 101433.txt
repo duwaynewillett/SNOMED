@@ -1,0 +1,49 @@
+Term                                                                     	Code          	Retired
+Adenocarcinoma of bladder                                                	255110003     	No     
+Cancer in situ of urinary bladder                                        	92546004      	No     
+Carcinoma in situ of anterior wall of urinary bladder                    	92536001      	No     
+Carcinoma in situ of apex of urinary bladder                             	92538000      	No     
+Carcinoma in situ of dome of urinary bladder                             	449802004     	No     
+Carcinoma in situ of lateral wall of urinary bladder                     	92638007      	No     
+Carcinoma in situ of posterior wall of urinary bladder                   	92690003      	No     
+Carcinoma in situ of trigone of urinary bladder                          	92774006      	No     
+Carcinoma in situ of urachus                                             	92781004      	No     
+Carcinoma in situ of ureteric orifice of urinary bladder                 	92783001      	No     
+Carcinoma in situ of urinary bladder neck                                	92785008      	No     
+Carcinoma of bladder                                                     	255108000     	No     
+Carcinoma of urinary bladder, invasive                                   	425066001     	No     
+Carcinoma of urinary bladder, superficial                                	425231005     	No     
+History of malignant neoplasm of bladder                                 	415086001     	No     
+Local recurrence of malignant tumor of urinary bladder                   	314968009     	No     
+Malignant neoplasm of anterior wall of urinary bladder                   	188242006     	No     
+Malignant neoplasm of augmented bladder                                  	702467006     	No     
+Malignant neoplasm of lateral wall of urinary bladder                    	188241004     	No     
+Malignant neoplasm of posterior wall of urinary bladder                  	188243001     	No     
+Malignant neoplasm, overlapping lesion of bladder                        	188247000     	No     
+Malignant tumor involving bladder by direct extension from endometrium   	369469009     	No     
+Malignant tumor involving bladder by direct extension from fallopian tube	369470005     	No     
+Malignant tumor involving bladder by direct extension from ovary         	369471009     	No     
+Malignant tumor involving bladder by direct extension from prostate      	369472002     	No     
+Malignant tumor involving bladder by direct extension from uterine cervix	369473007     	No     
+Malignant tumor involving bladder by direct extension from uterus        	369474001     	No     
+Malignant tumor involving bladder by direct extension from vagina        	369475000     	No     
+Malignant tumor of bladder neck                                          	188244007     	No     
+Malignant tumor of trigone of urinary bladder                            	188239000     	No     
+Malignant tumor of urachus                                               	363456000     	No     
+Malignant tumor of ureteric orifice                                      	188245008     	No     
+Malignant tumor of urinary bladder                                       	399326009     	No     
+Malignant tumor of vault of bladder                                      	188240003     	No     
+Primary malignant neoplasm of apex of urinary bladder                    	371969003     	No     
+Primary malignant neoplasm of bladder                                    	93689003      	No     
+Primary malignant neoplasm of dome of urinary bladder                    	449803009     	No     
+Primary malignant neoplasm of rectovesical septum                        	93983000      	No     
+Primary malignant neoplasm of trigone of urinary bladder                 	94109006      	No     
+Primary malignant neoplasm of urachus                                    	94120006      	No     
+Primary malignant neoplasm of ureteric orifice of urinary bladder        	94122003      	No     
+Primary malignant neoplasm of urinary bladder neck                       	94124002      	No     
+Primary spindle cell carcinoma of urinary bladder                        	91141000119100	No     
+Rhabdomyosarcoma of bladder                                              	278024000     	No     
+Sarcoma of bladder                                                       	278046008     	No     
+Small cell neuroendocrine carcinoma of bladder                           	718604008     	No     
+Squamous cell carcinoma of bladder                                       	255111004     	No     
+Transitional cell carcinoma of bladder                                   	255109008     	No     

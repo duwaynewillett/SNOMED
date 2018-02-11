@@ -1,0 +1,10 @@
+Term                                                                          	Code           	Retired
+Benign hypertensive heart disease and chronic renal disease stage 2           	285061000119106	No     
+Chronic kidney disease stage 2                                                	431856006      	No     
+Chronic kidney disease stage 2 due to benign hypertension                     	284981000119102	No     
+Chronic kidney disease stage 2 due to hypertension                            	129181000119109	No     
+Chronic kidney disease stage 2 due to type 1 diabetes mellitus                	90731000119103 	No     
+Chronic kidney disease stage 2 due to type 2 diabetes mellitus                	741000119101   	No     
+Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus	140131000119102	No     
+Hypertensive heart AND chronic kidney disease stage 2                         	96741000119109 	No     
+Malignant hypertensive chronic kidney disease stage 2                         	285861000119100	No     

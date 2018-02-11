@@ -1,0 +1,33 @@
+Term                                            	Code           	Retired
+Asthenia                                        	13791008       	No     
+Asthenia due to disease                         	1131000175106  	No     
+Attacks of weakness                             	248278004      	No     
+C/O - "tired all the time"                      	272062008      	No     
+C/O - debility - malaise                        	272036004      	No     
+Cancer-related fatigue                          	716749005      	No     
+Congenital debility of fetus                    	82022002       	No     
+Fatigability                                    	79915001       	No     
+Fatigue                                         	84229001       	No     
+Fatigue - symptom                               	272060000      	No     
+Fatigue associated with AIDS                    	420900006      	No     
+Fatigue due to chemotherapy or radiation therapy	97201000119101 	No     
+Fatigue due to treatment                        	704369007      	No     
+Feeling tired                                   	314109004      	No     
+Frailty                                         	248279007      	No     
+Heavy feeling                                   	161874006      	No     
+Heavy legs                                      	161873000      	No     
+Lack of energy                                  	248274002      	No     
+Lack of stamina                                 	248277009      	No     
+Lethargy                                        	214264003      	No     
+Occasionally tired                              	713568000      	No     
+Postexertional fatigue                          	444042007      	No     
+Psychogenic fatigue                             	442099003      	No     
+Rapid fatigue of gait                           	250002000      	No     
+Senile asthenia                                 	18726006       	No     
+Sensation of heaviness in limbs                 	373931001      	No     
+Tired                                           	224960004      	No     
+Tired all the time                              	267032009      	No     
+Tired on least exertion                         	248269005      	No     
+Tiredness symptom                               	267031002      	No     
+Tires quickly                                   	248268002      	No     
+Weakness as a late effect of stroke             	148871000119109	No     

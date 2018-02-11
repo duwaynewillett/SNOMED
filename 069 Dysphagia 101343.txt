@@ -1,0 +1,14 @@
+Term                                                  	Code          	Retired
+Boder syndrome                                        	716180009     	No     
+Constant low-grade dysphagia                          	65191003      	No     
+Dysphagia                                             	40739000      	No     
+Dysphagia as a late effect of cerebrovascular accident	426033005     	No     
+Dysphagia lusoria                                     	231719009     	No     
+Esophageal dysphagia                                  	40890009      	No     
+Food sticks on swallowing                             	249485007     	No     
+Intermittent dysphagia                                	19597002      	No     
+Oral phase dysphagia                                  	429975007     	No     
+Oropharyngeal dysphagia                               	71457002      	No     
+Pharyngeal dysphagia                                  	21101000119105	No     
+Plummer-Vinson syndrome                               	80126007      	No     
+Post-vagotomy dysphagia                               	235636002     	No     

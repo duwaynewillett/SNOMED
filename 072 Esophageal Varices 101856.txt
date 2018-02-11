@@ -1,0 +1,11 @@
+Term                                                                 	Code     	Retired
+Bleeding esophageal varices                                          	17709002 	No     
+Downhill varices of esophagus                                        	721160006	No     
+Esophageal varices                                                   	28670008 	No     
+Esophageal varices associated with another disorder                  	195474004	No     
+Esophageal varices in alcoholic cirrhosis of the liver               	309783001	No     
+Esophageal varices in cirrhosis of the liver                         	308129003	No     
+Esophageal varices with bleeding, associated with another disorder   	195475003	No     
+Esophageal varices without bleeding                                  	14223005 	No     
+Esophageal varices without bleeding, associated with another disorder	195476002	No     
+Solitary varix of esophagus                                          	721206006	No     

@@ -1,0 +1,106 @@
+Term                                                                                            	Code             	Retired
+Acute asthma                                                                                    	304527002        	No     
+Acute exacerbation of allergic asthma                                                           	708093000        	No     
+Acute exacerbation of asthma                                                                    	708038006        	No     
+Acute exacerbation of asthma co-occurrent with allergic rhinitis                                	99031000119107   	No     
+Acute exacerbation of chronic asthmatic bronchitis                                              	442025000        	No     
+Acute exacerbation of chronic obstructive airways disease with asthma                           	1751000119100    	No     
+Acute exacerbation of intrinsic asthma                                                          	708094006        	No     
+Acute exacerbation of mild persistent asthma                                                    	135181000119109  	No     
+Acute exacerbation of moderate persistent asthma                                                	135171000119106  	No     
+Acute severe exacerbation of allergic asthma                                                    	708095007        	No     
+Acute severe exacerbation of asthma                                                             	708090002        	No     
+Acute severe exacerbation of asthma co-occurrent with allergic rhinitis                         	10674711000119105	No     
+Acute severe exacerbation of intrinsic asthma                                                   	708096008        	No     
+Acute severe exacerbation of mild persistent allergic asthma                                    	10675911000119109	No     
+Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis	10675991000119100	No     
+Acute severe exacerbation of mild persistent asthma                                             	707981009        	No     
+Acute severe exacerbation of moderate persistent allergic asthma                                	10676431000119103	No     
+Acute severe exacerbation of moderate persistent asthma                                         	707980005        	No     
+Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis     	10676511000119109	No     
+Acute severe exacerbation of severe persistent allergic asthma                                  	10675471000119109	No     
+Acute severe exacerbation of severe persistent asthma                                           	707979007        	No     
+Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis       	10675551000119104	No     
+Acute severe refractory exacerbation of asthma                                                  	733858005        	No     
+Allergic asthma                                                                                 	389145006        	No     
+Allergic asthma due to Dermatophagoides farinae                                                 	703954005        	No     
+Allergic asthma due to Dermatophagoides pteronyssinus                                           	703953004        	No     
+Allergic-infective asthma                                                                       	30352005         	No     
+Aspirin exacerbated respiratory disease                                                         	10692681000119108	No     
+Aspirin-induced asthma                                                                          	407674008        	No     
+Asthma                                                                                          	195967001        	No     
+Asthma in mother complicating childbirth                                                        	10742121000119104	No     
+Asthma with irreversible airway obstruction                                                     	401000119107     	No     
+Asthma without status asthmaticus                                                               	55570000         	No     
+Asthma-chronic obstructive pulmonary disease overlap syndrome                                   	10692761000119107	No     
+Asthmatic bronchitis                                                                            	405944004        	No     
+Bakers' asthma                                                                                  	34015007         	No     
+Brittle asthma                                                                                  	225057002        	No     
+Byssinosis                                                                                      	85761009         	No     
+Byssinosis grade 3                                                                              	233672007        	No     
+Cheese-makers' asthma                                                                           	404806001        	No     
+Chemical-induced asthma                                                                         	92807009         	No     
+Childhood asthma                                                                                	233678006        	No     
+Chronic asthmatic bronchitis                                                                    	195949008        	No     
+Chronic obstructive asthma co-occurrent with acute exacerbation of asthma                       	10692721000119102	No     
+Colophony asthma                                                                                	233687002        	No     
+Cough variant asthma                                                                            	409663006        	No     
+Detergent asthma                                                                                	41553006         	No     
+Drug-induced asthma                                                                             	93432008         	No     
+Exacerbation of asthma                                                                          	281239006        	No     
+Exacerbation of intermittent asthma                                                             	425969006        	No     
+Exacerbation of mild persistent asthma                                                          	707445000        	No     
+Exacerbation of moderate persistent asthma                                                      	707446004        	No     
+Exacerbation of severe persistent asthma                                                        	707447008        	No     
+Exercise-induced asthma                                                                         	31387002         	No     
+Extrinsic asthma without status asthmaticus                                                     	63088003         	No     
+Flax-dressers' disease                                                                          	13151001         	No     
+H/O: asthma                                                                                     	161527007        	No     
+Hay fever with asthma                                                                           	233683003        	No     
+History of aspirin exacerbated respiratory disease                                              	429258006        	No     
+IgE-mediated allergic asthma                                                                    	424643009        	No     
+Inhaled steroid-dependent asthma                                                                	16055311000119107	No     
+Intermittent asthma                                                                             	427603009        	No     
+Intermittent asthma co-occurrent with allergic rhinitis                                         	125021000119107  	No     
+Intermittent asthma uncontrolled                                                                	1741000119102    	No     
+Intrinsic asthma                                                                                	266361008        	No     
+Intrinsic asthma without status asthmaticus                                                     	12428000         	No     
+Isocyanate induced asthma                                                                       	404808000        	No     
+Late onset asthma                                                                               	233679003        	No     
+Meat-wrappers' asthma                                                                           	19849005         	No     
+Mild asthma                                                                                     	370218001        	No     
+Mild intermittent asthma                                                                        	427679007        	No     
+Mild persistent allergic asthma                                                                 	10675871000119106	No     
+Mild persistent asthma                                                                          	426979002        	No     
+Mild persistent asthma co-occurrent with allergic rhinitis                                      	125011000119100  	No     
+Millers' asthma                                                                                 	11641008         	No     
+Mixed asthma                                                                                    	195977004        	No     
+Moderate asthma                                                                                 	370219009        	No     
+Moderate persistent allergic asthma                                                             	10676391000119108	No     
+Moderate persistent asthma                                                                      	427295004        	No     
+Moderate persistent asthma co-occurrent with allergic rhinitis                                  	125001000119103  	No     
+Non-IgE mediated allergic asthma                                                                	423889005        	No     
+Occasional asthma                                                                               	370220003        	No     
+Occupational asthma                                                                             	57607007         	No     
+Oral steroid-dependent asthma                                                                   	16584951000119101	No     
+Persistent asthma                                                                               	5281000124103    	No     
+Persistent asthma, well controlled                                                              	901000119100     	No     
+Platinum asthma                                                                                 	404804003        	No     
+Printers' asthma                                                                                	18041002         	No     
+Seasonal asthma                                                                                 	445427006        	No     
+Severe asthma                                                                                   	370221004        	No     
+Severe controlled persistent asthma                                                             	10675391000119101	No     
+Severe persistent allergic asthma                                                               	10675431000119106	No     
+Severe persistent asthma                                                                        	426656000        	No     
+Severe persistent asthma co-occurrent with allergic rhinitis                                    	124991000119109  	No     
+Severe uncontrolled persistent asthma                                                           	10675751000119107	No     
+Steroid dependent asthma                                                                        	2360001000004109 	No     
+Substance induced asthma                                                                        	424199006        	No     
+Sulfite-induced asthma                                                                          	233688007        	No     
+Tea-makers' asthma                                                                              	418395004        	No     
+Uncomplicated asthma                                                                            	707444001        	No     
+Uncomplicated mild persistent asthma                                                            	707511009        	No     
+Uncomplicated moderate persistent asthma                                                        	707512002        	No     
+Uncomplicated severe persistent asthma                                                          	707513007        	No     
+Weavers' cough                                                                                  	59786004         	No     
+Wood asthma                                                                                     	56968009         	No     

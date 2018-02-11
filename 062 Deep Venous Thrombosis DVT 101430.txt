@@ -1,0 +1,147 @@
+Term                                                                                      	Code             	Retired
+Acute deep vein thrombosis of bilateral lower limbs following coronary artery bypass graft	15711361000119101	No     
+Acute deep vein thrombosis of left upper limb following coronary artery bypass graft      	15708441000119103	No     
+Acute deep vein thrombosis of lower limb                                                  	651000119108     	No     
+Acute deep vein thrombosis of right upper limb following coronary artery bypass graft     	15708281000119109	No     
+Acute deep venous thrombosis                                                              	132281000119108  	No     
+Acute deep venous thrombosis of axillary vein                                             	134961000119104  	No     
+Acute deep venous thrombosis of bilateral axillary veins                                  	285321000119103  	No     
+Acute deep venous thrombosis of bilateral calves                                          	12237551000119104	No     
+Acute deep venous thrombosis of bilateral ileofemoral veins                               	285441000119102  	No     
+Acute deep venous thrombosis of bilateral legs                                            	350291000119100  	No     
+Acute deep venous thrombosis of bilateral popliteal veins                                 	285561000119102  	No     
+Acute deep venous thrombosis of bilateral tibial veins                                    	285621000119106  	No     
+Acute deep venous thrombosis of both upper extremities                                    	285261000119104  	No     
+Acute deep venous thrombosis of calf                                                      	132241000119103  	No     
+Acute deep venous thrombosis of femoral vein                                              	132291000119106  	No     
+Acute deep venous thrombosis of ileofemoral vein of left leg                              	285451000119100  	No     
+Acute deep venous thrombosis of ileofemoral vein of right lower extremity                 	285461000119103  	No     
+Acute deep venous thrombosis of iliofemoral vein                                          	132301000119107  	No     
+Acute deep venous thrombosis of left axillary vein                                        	285331000119100  	No     
+Acute deep venous thrombosis of left calf                                                 	12237631000119109	No     
+Acute deep venous thrombosis of left femoral vein                                         	285391000119101  	No     
+Acute deep venous thrombosis of left lower extremity                                      	350301000119104  	No     
+Acute deep venous thrombosis of left upper extremity                                      	285271000119105  	No     
+Acute deep venous thrombosis of lower extremity as complication of procedure              	136781000119101  	No     
+Acute deep venous thrombosis of lower limb due to coronary artery bypass grafting         	132111000119107  	No     
+Acute deep venous thrombosis of politeal vein of right leg                                	285581000119106  	No     
+Acute deep venous thrombosis of popliteal vein                                            	132251000119101  	No     
+Acute deep venous thrombosis of popliteal vein of left leg                                	285571000119108  	No     
+Acute deep venous thrombosis of right axillary vein                                       	285341000119109  	No     
+Acute deep venous thrombosis of right calf                                                	12237711000119106	No     
+Acute deep venous thrombosis of right femoral vein                                        	285401000119104  	No     
+Acute deep venous thrombosis of right lower extremity                                     	350311000119101  	No     
+Acute deep venous thrombosis of right upper extremity                                     	285281000119108  	No     
+Acute deep venous thrombosis of thigh                                                     	132271000119105  	No     
+Acute deep venous thrombosis of tibial vein                                               	132261000119104  	No     
+Acute deep venous thrombosis of tibial vein of left leg                                   	285631000119109  	No     
+Acute deep venous thrombosis of tibial vein of right leg                                  	285641000119100  	No     
+Acute deep venous thrombosis of upper extremity                                           	132321000119103  	No     
+Acute deep venous thrombosis of upper extremity after coronary artery bypass graft        	449691000124103  	No     
+Acute deep venous thrombosis of upper extremity as complication of procedure              	136771000119104  	No     
+Antenatal deep vein thrombosis - delivered                                                	200232006        	No     
+Antenatal deep vein thrombosis with antenatal complication                                	200233001        	No     
+Antepartum deep vein thrombosis                                                           	49956009         	No     
+Axillary vein thrombosis                                                                  	297156001        	No     
+Bilateral acute deep vein thrombosis of femoral veins                                     	285381000119104  	No     
+Bilateral chronic deep venous thrombosis of lower extremities                             	350321000119108  	No     
+Bilateral deep vein thrombosis of lower extremities                                       	444325005        	No     
+Chronic deep vein thrombosis of bilateral iliac veins                                     	293441000119104  	No     
+Chronic deep vein thrombosis of left pelvic vein                                          	15711001000119104	No     
+Chronic deep vein thrombosis of left upper limb following procedure                       	15708521000119108	No     
+Chronic deep vein thrombosis of pelvic vein                                               	709687000        	No     
+Chronic deep vein thrombosis of right axillary vein                                       	285371000119102  	No     
+Chronic deep vein thrombosis of right pelvic vein                                         	15711081000119107	No     
+Chronic deep vein thrombosis of right upper extremity                                     	285311000119105  	No     
+Chronic deep vein thrombosis of right upper limb following procedure                      	15708481000119108	No     
+Chronic deep venous thrombosis                                                            	15760351000119105	No     
+Chronic deep venous thrombosis of axillary vein                                           	134971000119105  	No     
+Chronic deep venous thrombosis of bilateral axillary veins                                	285351000119106  	No     
+Chronic deep venous thrombosis of bilateral calves                                        	15711441000119107	No     
+Chronic deep venous thrombosis of bilateral ileofemoral veins                             	285471000119109  	No     
+Chronic deep venous thrombosis of bilateral popliteal veins                               	285591000119109  	No     
+Chronic deep venous thrombosis of bilateral thighs                                        	15711601000119107	No     
+Chronic deep venous thrombosis of both upper extremities                                  	285291000119106  	No     
+Chronic deep venous thrombosis of calf                                                    	132131000119102  	No     
+Chronic deep venous thrombosis of femoral vein                                            	132191000119103  	No     
+Chronic deep venous thrombosis of femoral vein of left lower extremity                    	285421000119108  	No     
+Chronic deep venous thrombosis of femoral vein of right lower extremity                   	285431000119106  	No     
+Chronic deep venous thrombosis of femoral veins of both lower extremities                 	285411000119101  	No     
+Chronic deep venous thrombosis of iliofemoral vein                                        	132201000119100  	No     
+Chronic deep venous thrombosis of left axillary vein                                      	285361000119108  	No     
+Chronic deep venous thrombosis of left calf                                               	15711521000119102	No     
+Chronic deep venous thrombosis of left ileofemoral vein                                   	285481000119107  	No     
+Chronic deep venous thrombosis of left lower extremity                                    	350331000119106  	No     
+Chronic deep venous thrombosis of left thigh                                              	15711481000119102	No     
+Chronic deep venous thrombosis of left upper extremity                                    	285301000119107  	No     
+Chronic deep venous thrombosis of lower extremity                                         	132141000119106  	No     
+Chronic deep venous thrombosis of lower limb due to coronary artery bypass grafting       	132091000119104  	No     
+Chronic deep venous thrombosis of popliteal vein                                          	132151000119108  	No     
+Chronic deep venous thrombosis of popliteal vein of left leg                              	285601000119102  	No     
+Chronic deep venous thrombosis of popliteal vein of right leg                             	285611000119104  	No     
+Chronic deep venous thrombosis of right calf                                              	15711641000119109	No     
+Chronic deep venous thrombosis of right ileofemoral vein                                  	285491000119105  	No     
+Chronic deep venous thrombosis of right lower extremity                                   	350341000119102  	No     
+Chronic deep venous thrombosis of right thigh                                             	15711561000119107	No     
+Chronic deep venous thrombosis of thigh                                                   	132171000119104  	No     
+Chronic deep venous thrombosis of tibial vein                                             	132161000119105  	No     
+Chronic deep venous thrombosis of tibial vein of bilateral lower extremities              	285651000119103  	No     
+Chronic deep venous thrombosis of tibial vein of left leg                                 	285661000119101  	No     
+Chronic deep venous thrombosis of tibial vein of right leg                                	285671000119107  	No     
+Chronic deep venous thrombosis of upper extremity                                         	132221000119109  	No     
+Chronic deep venous thrombosis of upper extremity as complication of procedure            	136751000119108  	No     
+Deep thrombophlebitis                                                                     	16750002         	No     
+Deep vein phlebitis and thrombophlebitis of the leg                                       	266267005        	No     
+Deep vein thrombosis of leg related to air travel                                         	134399007        	No     
+Deep vein thrombosis of leg related to intravenous drug use                               	413956008        	No     
+Deep venous thrombosis                                                                    	128053003        	No     
+Deep venous thrombosis associated with coronary artery bypass graft                       	428781001        	No     
+Deep venous thrombosis of bilateral pelvic veins                                          	132541000119101  	No     
+Deep venous thrombosis of femoropopliteal vein                                            	703277001        	No     
+Deep venous thrombosis of left lower extremity                                            	448841000124100  	No     
+Deep venous thrombosis of left upper extremity                                            	25820001000004100	No     
+Deep venous thrombosis of lower extremity                                                 	404223003        	No     
+Deep venous thrombosis of pelvic vein                                                     	128055005        	No     
+Deep venous thrombosis of peroneal vein                                                   	443210003        	No     
+Deep venous thrombosis of profunda femoris vein                                           	427775006        	No     
+Deep venous thrombosis of right lower extremity                                           	448831000124105  	No     
+Deep venous thrombosis of right upper extremity                                           	20850001000004108	No     
+Deep venous thrombosis of tibial vein                                                     	438785004        	No     
+Deep venous thrombosis of upper extremity                                                 	128054009        	No     
+H/O: Deep vein thrombosis                                                                 	161508001        	No     
+History of recurrent deep vein thrombosis                                                 	141911000119100  	No     
+Iliofemoral deep vein thrombosis                                                          	234044007        	No     
+Phlegmasia alba dolens                                                                    	66923004         	No     
+Phlegmasia alba dolens - obstetric                                                        	280966008        	No     
+Phlegmasia cerulea dolens                                                                 	66877004         	No     
+Postnatal deep vein thrombosis - delivered with postnatal complication                    	200237000        	No     
+Postnatal deep vein thrombosis with postnatal complication                                	200238005        	No     
+Postoperative deep vein thrombosis                                                        	213220000        	No     
+Postpartum deep phlebothrombosis                                                          	56272000         	No     
+Puerperal phlegmasia alba dolens                                                          	62583006         	No     
+Recurrent deep vein thrombosis                                                            	710167004        	No     
+Thrombophlebitis of axillary vein                                                         	438646004        	No     
+Thrombophlebitis of deep femoral vein                                                     	1748006          	No     
+Thrombophlebitis of deep vein of bilateral lower limbs                                    	16014391000119106	No     
+Thrombophlebitis of deep vein of left lower limb                                          	16014351000119101	No     
+Thrombophlebitis of deep vein of left upper limb                                          	16006271000119105	No     
+Thrombophlebitis of deep vein of right lower limb                                         	16014431000119101	No     
+Thrombophlebitis of deep vein of right upper limb                                         	16006311000119105	No     
+Thrombophlebitis of deep veins of lower extremity                                         	40198004         	No     
+Thrombophlebitis of deep veins of upper extremities                                       	95452006         	No     
+Thrombophlebitis of iliac vein                                                            	42861008         	No     
+Thrombophlebitis of left deep femoral vein                                                	16012151000119109	No     
+Thrombophlebitis of left femoral vein                                                     	16012071000119101	No     
+Thrombophlebitis of right deep femoral vein                                               	16012111000119108	No     
+Thrombophlebitis of right femoral vein                                                    	16011991000119109	No     
+Thrombophlebitis of the anterior tibial vein                                              	195412008        	No     
+Thrombophlebitis of the common iliac vein                                                 	195425000        	No     
+Thrombophlebitis of the external iliac vein                                               	195427008        	No     
+Thrombophlebitis of the femoral vein                                                      	195410000        	No     
+Thrombophlebitis of the internal iliac vein                                               	195426004        	No     
+Thrombophlebitis of the popliteal vein                                                    	195411001        	No     
+Thrombophlebitis of the posterior tibial vein                                             	195414009        	No     
+Thrombophlebitis of tibial vein                                                           	7387004          	No     
+Thrombosis of left peroneal vein                                                          	16730001000004104	No     
+Thrombosis of the popliteal vein                                                          	427776007        	No     
+Traumatic thrombosis of axillary vein                                                     	371051005        	No     

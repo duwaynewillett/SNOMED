@@ -1,0 +1,14 @@
+Term                                              	Code             	Retired
+Chromophobe renal cell carcinoma                  	733471003        	No     
+Clear cell carcinoma of kidney                    	254915003        	No     
+Clear cell carcinoma of left kidney               	1081571000119102 	No     
+Clear cell carcinoma of right kidney              	1081581000119104 	No     
+Clear cell papillary renal cell carcinoma         	734015000        	No     
+Familial renal cell carcinoma                     	717736007        	No     
+Hypernephroma                                     	188251003        	No     
+Metastatic renal cell carcinoma                   	702392008        	No     
+Papillary renal cell carcinoma                    	733608000        	No     
+Renal cell carcinoma                              	702391001        	No     
+Renal cell carcinoma of bilateral kidneys         	15636991000119103	No     
+Renal cell carcinoma of kidney except renal pelvis	717735006        	No     
+Tubulocystic renal cell carcinoma                 	733603009        	No     

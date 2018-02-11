@@ -1,0 +1,38 @@
+Term                                                                                          	Code             	Retired
+Altered behavior in Alzheimer's disease                                                       	97751000119108   	No     
+Alzheimer's disease                                                                           	26929004         	No     
+Alzheimer's disease co-occurrent with delirium                                                	142011000119109  	No     
+Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia                  	16219201000119101	No     
+Delusions in Alzheimer's disease                                                              	141991000119109  	No     
+Dementia of the Alzheimer type with behavioral disturbance                                    	1581000119101    	No     
+Depressed mood in Alzheimer's disease                                                         	142001000119106  	No     
+Early onset Alzheimer's disease with behavioral disturbance                                   	105421000119105  	No     
+Familial Alzheimer's disease of early onset                                                   	230265002        	No     
+Familial Alzheimer's disease of late onset                                                    	230267005        	No     
+Focal Alzheimer's disease                                                                     	230269008        	No     
+Hallucinations co-occurrent and due to late onset dementia                                    	2421000119107    	No     
+Non-amnestic Alzheimer disease                                                                	722600006        	No     
+Non-familial Alzheimer's disease of early onset                                               	230266001        	No     
+Non-familial Alzheimer's disease of late onset                                                	230268000        	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset                          	416780008        	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset in remission             	698955006        	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated           	6475002          	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium           	65096006         	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions          	54502004         	No     
+Primary degenerative dementia of the Alzheimer type, presenile onset, with depression         	10532003         	No     
+Primary degenerative dementia of the Alzheimer type, senile onset                             	416975007        	No     
+Primary degenerative dementia of the Alzheimer type, senile onset in remission                	698954005        	No     
+Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated              	66108005         	No     
+Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance	429161000124103  	No     
+Primary degenerative dementia of the Alzheimer type, senile onset, with delirium              	4817008          	No     
+Primary degenerative dementia of the Alzheimer type, senile onset, with delusions             	55009008         	No     
+Primary degenerative dementia of the Alzheimer type, senile onset, with depression            	26852004         	No     
+Progressive aphasia in Alzheimer's disease                                                    	230280008        	No     
+Senile dementia                                                                               	15662003         	No     
+Senile dementia with delirium                                                                 	191461002        	No     
+Senile dementia with delusion                                                                 	371024007        	No     
+Senile dementia with depression                                                               	191459006        	No     
+Senile dementia with depressive or paranoid features                                          	191457008        	No     
+Senile dementia with paranoia                                                                 	191458003        	No     
+Senile dementia with psychosis                                                                	371026009        	No     
+Uncomplicated senile dementia                                                                 	191449005        	No     

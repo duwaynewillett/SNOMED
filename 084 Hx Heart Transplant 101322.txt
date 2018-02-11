@@ -1,0 +1,28 @@
+Term                                                                  	Code           	Retired
+Accelerated coronary artery disease in transplanted heart             	233844002      	No     
+Accelerated rejection of cardiac transplant                           	431186002      	No     
+Acute rejection of cardiac transplant                                 	432843002      	No     
+Allotransplant of heart                                               	232973007      	No     
+Allotransplant of heart and lung                                      	174802006      	No     
+Arteriosclerosis of coronary artery bypass graft of transplanted heart	444855007      	No     
+Autotransplantation of heart                                          	405768001      	No     
+Cardiac transplant disorder                                           	233932001      	No     
+Cardiac transplant failure                                            	233934000      	No     
+Cardiac transplant rejection                                          	233933006      	No     
+Chronic rejection of cardiac transplant                               	431896008      	No     
+Coronary arteriosclerosis in native artery of transplanted heart      	6661000119101  	No     
+Disorder of transplanted heart                                        	429257001      	No     
+Disorder related to cardiac transplantation                           	427927008      	No     
+H/O: heart recipient                                                  	161666008      	No     
+Heart transplant failure and rejection                                	213151004      	No     
+Heart transplant recipient                                            	702776000      	No     
+Heart transplant with recipient cardiectomy                           	47058000       	No     
+Heart-lung transplant failure and rejection                           	213152006      	No     
+Heart-lung transplant recipient                                       	716805003      	No     
+Heart-lung transplant with recipient cardiectomy-pneumonectomy        	32477003       	No     
+Heterotopic allotransplant of heart                                   	174809002      	No     
+Hyperacute rejection of cardiac transplant                            	432773004      	No     
+Lymphoproliferative disorder following heart transplantation          	122511000119103	No     
+Orthotopic allotransplant of heart                                    	232974001      	No     
+Transplantation of heart                                              	32413006       	No     
+Xenotransplant of heart                                               	174808005      	No     

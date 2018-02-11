@@ -1,0 +1,51 @@
+Term                                                                                 	Code             	Retired
+Acute exacerbation of chronic obstructive airways disease                            	195951007        	No     
+Acute exacerbation of chronic obstructive airways disease with asthma                	1751000119100    	No     
+Acute infective exacerbation of chronic obstructive airways disease                  	285381006        	No     
+Acute vesicular emphysema                                                            	195963002        	No     
+Atrophic (senile) emphysema                                                          	266356006        	No     
+Bronchiolitis fibrosa obliterans                                                     	31886003         	No     
+Bronchiolitis obliterans organizing pneumonia                                        	129458007        	No     
+Bronchiolitis obliterans with usual interstitial pneumonitis                         	233723008        	No     
+Bullous emphysema with collapse                                                      	266355005        	No     
+Centriacinar emphysema                                                               	68328006         	No     
+Chronic bullous emphysema                                                            	195957006        	No     
+Chronic diffuse emphysema due to inhalation of chemical fumes AND/OR vapors          	66110007         	No     
+Chronic emphysema due to chemical fumes                                              	196026004        	No     
+Chronic obliterative bronchiolitis                                                   	47938003         	No     
+Chronic obliterative bronchiolitis due to inhalation of chemical fumes AND/OR vapors 	32544004         	No     
+Chronic obstructive lung disease                                                     	13645005         	No     
+Chronic obstructive lung disease co-occurrent with acute bronchitis                  	106001000119101  	No     
+Chronic obstructive pulmonary disease with acute lower respiratory infection         	196001008        	No     
+Compensatory emphysema                                                               	33325001         	No     
+Congenital emphysema                                                                 	47895001         	No     
+Cryptogenic organizing pneumonia                                                     	719218000        	No     
+Cystic-bullous disease of the lung                                                   	2912004          	No     
+Drug-induced bronchiolitis obliterans                                                	233673002        	No     
+Emphysematous bleb of lung                                                           	57686001         	No     
+End stage chronic obstructive airways disease                                        	135836000        	No     
+Giant bullous emphysema                                                              	16003001         	No     
+Hemolytic anemia with emphysema AND cutis laxa                                       	60805002         	No     
+History of chronic obstructive airway disease                                        	270473001        	No     
+History of emphysema                                                                 	26680001000004102	No     
+Interstitial emphysema of lung                                                       	77690003         	No     
+Mild chronic obstructive pulmonary disease                                           	313296004        	No     
+Moderate chronic obstructive pulmonary disease                                       	313297008        	No     
+Obliterative bronchiolitis                                                           	40100001         	No     
+Obstructive emphysema                                                                	16846004         	No     
+Panacinar emphysema                                                                  	4981000          	No     
+Paraseptal emphysema                                                                 	31898008         	No     
+Pulmonary emphysema                                                                  	87433001         	No     
+Pulmonary emphysema co-occurrent with fibrosis of lung                               	708030004        	No     
+Pulmonary emphysema in alpha-1 PI deficiency                                         	233674008        	No     
+Ruptured emphysematous bleb of lung                                                  	86680006         	No     
+Scar emphysema                                                                       	233677001        	No     
+Seasonal cryptogenic organizing pneumonia with biochemical cholestasis               	233713004        	No     
+Segmental bullous emphysema                                                          	195958001        	No     
+Severe chronic obstructive pulmonary disease                                         	313299006        	No     
+Subacute obliterative bronchiolitis                                                  	22482002         	No     
+Subacute obliterative bronchiolitis due to inhalation of chemical fumes AND/OR vapors	34371004         	No     
+Toxic bronchiolitis obliterans                                                       	196027008        	No     
+Toxic emphysema                                                                      	233675009        	No     
+Vanishing lung                                                                       	23958009         	No     
+Zonal bullous emphysema                                                              	195959009        	No     

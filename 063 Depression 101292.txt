@@ -1,0 +1,152 @@
+Term                                                                               	Code             	Retired
+Acute depression                                                                   	712823008        	No     
+Agitated depression                                                                	83458005         	No     
+Atypical depressive disorder                                                       	191659001        	No     
+Bipolar affective disorder, current episode depression                             	191627008        	No     
+Bipolar affective disorder, currently depressed, in full remission                 	191634005        	No     
+Bipolar affective disorder, currently depressed, mild                              	191629006        	No     
+Bipolar affective disorder, currently depressed, moderate                          	191630001        	No     
+Bipolar affective disorder, currently depressed, severe, with psychosis            	191632009        	No     
+Bipolar I disorder, most recent episode depressed with atypical features           	29929003         	No     
+Bipolar I disorder, most recent episode depressed with melancholic features        	75752004         	No     
+Bipolar II disorder, most recent episode major depressive                          	16295005         	No     
+Bipolar II disorder, most recent episode major depressive with atypical features   	43568002         	No     
+Bipolar II disorder, most recent episode major depressive with catatonic features  	22407005         	No     
+Bipolar II disorder, most recent episode major depressive with melancholic features	34315001         	No     
+Bipolar II disorder, most recent episode major depressive with postpartum onset    	30687003         	No     
+Chronic bipolar I disorder, most recent episode depressed                          	51637008         	No     
+Chronic bipolar II disorder, most recent episode major depressive                  	1196001          	No     
+Chronic depression                                                                 	192080009        	No     
+Chronic depressive personality disorder                                            	442057004        	No     
+Chronic major depressive disorder, single episode                                  	14183003         	No     
+Chronic recurrent major depressive disorder                                        	2618002          	No     
+Cotard's syndrome                                                                  	357705009        	No     
+Depressed bipolar I disorder                                                       	49468007         	No     
+Depressed bipolar I disorder in full remission                                     	22121000         	No     
+Depressed bipolar I disorder in partial remission                                  	49512000         	No     
+Depressed bipolar I disorder in remission                                          	53607008         	No     
+Depressive conduct disorder                                                        	231542000        	No     
+Depressive disorder                                                                	35489007         	No     
+Depressive disorder in mother complicating childbirth                              	10835871000119104	No     
+Depressive disorder in mother complicating pregnancy                               	94631000119100   	No     
+Depressive disorder in remission                                                   	698957003        	No     
+Drug-induced depressive state                                                      	191495003        	No     
+Dysthymia                                                                          	78667006         	No     
+Early onset dysthymia                                                              	2506003          	No     
+Endogenous depression                                                              	300706003        	No     
+Endogenous depression - recurrent                                                  	274948002        	No     
+Endogenous depression first episode                                                	231499006        	No     
+Generalized neuromuscular exhaustion syndrome                                      	87842000         	No     
+H/O: depression                                                                    	161469008        	No     
+Involutional depression                                                            	321717001        	No     
+Late onset dysthymia                                                               	19694002         	No     
+Major depression in full remission                                                 	63412003         	No     
+Major depression in partial remission                                              	30605009         	No     
+Major depression in remission                                                      	42810003         	No     
+Major depression single episode, in partial remission                              	70747007         	No     
+Major depression with psychotic features                                           	726772006        	No     
+Major depression, melancholic type                                                 	320751009        	No     
+Major depression, single episode                                                   	36923009         	No     
+Major depressive disorder                                                          	370143000        	No     
+Major depressive disorder in mother complicating childbirth                        	10811121000119102	No     
+Major depressive disorder in mother complicating pregnancy                         	10811161000119107	No     
+Major depressive disorder, single episode with atypical features                   	42925002         	No     
+Major depressive disorder, single episode with catatonic features                  	69392006         	No     
+Major depressive disorder, single episode with melancholic features                	63778009         	No     
+Major depressive disorder, single episode with postpartum onset                    	25922000         	No     
+Masked depression                                                                  	231500002        	No     
+Maternity blues                                                                    	279225001        	No     
+Menopausal depression                                                              	84788008         	No     
+Mild depressed bipolar I disorder                                                  	74686005         	No     
+Mild depression                                                                    	310495003        	No     
+Mild major depression                                                              	87512008         	No     
+Mild major depression, single episode                                              	79298009         	No     
+Mild major depressive disorder co-occurrent with anxiety single episode            	16265951000119109	No     
+Mild postnatal depression                                                          	237349002        	No     
+Mild recurrent major depression                                                    	40379007         	No     
+Minimal depression                                                                 	718636001        	No     
+Minimal major depression                                                           	720455008        	No     
+Minimal major depression single episode                                            	720454007        	No     
+Minimal recurrent major depression                                                 	720451004        	No     
+Minor depressive disorder                                                          	48589009         	No     
+Moderate depressed bipolar I disorder                                              	66631006         	No     
+Moderate depression                                                                	310496002        	No     
+Moderate major depression                                                          	832007           	No     
+Moderate major depression, single episode                                          	15639000         	No     
+Moderate major depressive disorder co-occurrent with anxiety single episode        	16266831000119100	No     
+Moderate recurrent major depression                                                	18818009         	No     
+Moderately severe depression                                                       	719593009        	No     
+Moderately severe major depression                                                 	719592004        	No     
+Moderately severe major depression single episode                                  	720453001        	No     
+Moderately severe recurrent major depression                                       	720452006        	No     
+Mood disorder with depressive symptoms caused by alcohol                           	723928009        	No     
+Mood disorder with depressive symptoms caused by anxiolytic                        	724678004        	No     
+Mood disorder with depressive symptoms caused by cocaine                           	724690002        	No     
+Mood disorder with depressive symptoms caused by hypnotic                          	724677009        	No     
+Mood disorder with depressive symptoms caused by sedative                          	724676000        	No     
+Mood disorder with mixed manic and depressive symptoms caused by alcohol           	723930006        	No     
+O/E - depressed                                                                    	162722001        	No     
+Perinatal depression                                                               	10211000132109   	No     
+Postoperative depression                                                           	82218004         	No     
+Postpartum depression                                                              	58703003         	No     
+Post-schizophrenic depression                                                      	231485007        	No     
+Postviral depression                                                               	192079006        	No     
+Premenstrual dysphoric disorder                                                    	596004           	No     
+Premenstrual dysphoric disorder in remission                                       	426578000        	No     
+Primary dysthymia                                                                  	83176005         	No     
+Primary dysthymia early onset                                                      	38451003         	No     
+Primary dysthymia late onset                                                       	67711008         	No     
+Reactive depression (situational)                                                  	87414006         	No     
+Reactive depressive psychosis                                                      	191676002        	No     
+Reactive depressive psychosis, single episode                                      	288751000119101  	No     
+Recurrent brief depressive disorder                                                	40568001         	No     
+Recurrent depression                                                               	191616006        	No     
+Recurrent major depression                                                         	66344007         	No     
+Recurrent major depression in full remission                                       	46244001         	No     
+Recurrent major depression in partial remission                                    	33135002         	No     
+Recurrent major depression in remission                                            	68019004         	No     
+Recurrent major depressive disorder with atypical features                         	38694004         	No     
+Recurrent major depressive disorder with catatonic features                        	39809009         	No     
+Recurrent major depressive disorder with melancholic features                      	319768000        	No     
+Recurrent major depressive disorder with postpartum onset                          	71336009         	No     
+Recurrent major depressive episodes                                                	268621008        	No     
+Recurrent major depressive episodes, in full remission                             	191615005        	No     
+Recurrent major depressive episodes, mild                                          	191610000        	No     
+Recurrent major depressive episodes, moderate                                      	191611001        	No     
+Recurrent major depressive episodes, severe, with psychosis                        	191613003        	No     
+Schizoaffective disorder, depressive type                                          	84760002         	No     
+Seasonal affective disorder                                                        	247803002        	No     
+Secondary dysthymia                                                                	85080004         	No     
+Secondary dysthymia early onset                                                    	3109008          	No     
+Secondary dysthymia late onset                                                     	36170009         	No     
+Severe depressed bipolar I disorder                                                	261000119107     	No     
+Severe depressed bipolar I disorder with psychotic features                        	59617007         	No     
+Severe depressed bipolar I disorder with psychotic features, mood-congruent        	54761006         	No     
+Severe depressed bipolar I disorder with psychotic features, mood-incongruent      	26203008         	No     
+Severe depressed bipolar I disorder without psychotic features                     	61403008         	No     
+Severe depression                                                                  	310497006        	No     
+Severe major depression                                                            	450714000        	No     
+Severe major depression with psychotic features                                    	73867007         	No     
+Severe major depression with psychotic features, mood-congruent                    	33736005         	No     
+Severe major depression with psychotic features, mood-incongruent                  	60099002         	No     
+Severe major depression without psychotic features                                 	75084000         	No     
+Severe major depression, single episode                                            	251000119105     	No     
+Severe major depression, single episode, with psychotic features                   	430852001        	No     
+Severe major depression, single episode, with psychotic features, mood-congruent   	77911002         	No     
+Severe major depression, single episode, with psychotic features, mood-incongruent 	20250007         	No     
+Severe major depression, single episode, without psychotic features                	76441001         	No     
+Severe major depressive disorder co-occurrent with anxiety single episode          	16266991000119108	No     
+Severe postnatal depression                                                        	237350002        	No     
+Severe recurrent major depression                                                  	281000119103     	No     
+Severe recurrent major depression with psychotic features                          	28475009         	No     
+Severe recurrent major depression with psychotic features, mood-congruent          	33078009         	No     
+Severe recurrent major depression with psychotic features, mood-incongruent        	15193003         	No     
+Severe recurrent major depression without psychotic features                       	36474008         	No     
+Severe seasonal affective disorder                                                 	133121000119109  	No     
+Single episode of major depression in full remission                               	19527009         	No     
+Single major depressive episode                                                    	268620009        	No     
+Single major depressive episode, in full remission                                 	191606003        	No     
+Single major depressive episode, mild                                              	191601008        	No     
+Single major depressive episode, moderate                                          	191602001        	No     
+Single major depressive episode, severe, with psychosis                            	191604000        	No     
+Stuporous depression                                                               	79842004         	No     

@@ -1,0 +1,12 @@
+Term                                                                                           	Code     	Retired
+Attention deficit hyperactivity disorder                                                       	406506008	No     
+Attention deficit hyperactivity disorder, combined type                                        	31177006 	No     
+Attention deficit hyperactivity disorder, inattentive presentation (restrictive)               	702815001	No     
+Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type             	7461003  	No     
+Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type in remission	698692009	No     
+Attention deficit hyperactivity disorder, predominantly inattentive type                       	35253001 	No     
+Attention deficit hyperactivity disorder, predominantly inattentive type in remission          	698689005	No     
+Child attention deficit disorder                                                               	192127007	No     
+Deficits in attention motor control and perception                                             	229715008	No     
+Hyperkinetic conduct disorder                                                                  	192132008	No     
+Undifferentiated attention deficit disorder                                                    	23148009 	No     

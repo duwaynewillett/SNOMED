@@ -1,0 +1,134 @@
+Term                                                                                                            	Code             	Retired
+Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection                              	713533000        	No     
+Acquired immune deficiency syndrome complicating childbirth                                                     	10746341000119109	No     
+Acquired immune deficiency syndrome-related nephropathy                                                         	236406007        	No     
+Acute endocarditis co-occurrent with human immunodeficiency virus infection                                     	713511002        	No     
+Acute HIV infection                                                                                             	111880001        	No     
+Agranulocytosis co-occurrent with human immunodeficiency virus infection                                        	713530002        	No     
+AIDS                                                                                                            	62479008         	No     
+AIDS virus infection associated with pregnancy                                                                  	91923005         	No     
+Anemia co-occurrent with human immunodeficiency virus infection                                                 	713349004        	No     
+Aplastic anemia co-occurrent with human immunodeficiency virus infection                                        	713508003        	No     
+Aspergillosis co-occurrent with human immunodeficiency virus infection                                          	713732008        	No     
+Asymptomatic human immunodeficiency virus infection                                                             	91947003         	No     
+Asymptomatic human immunodeficiency virus infection in pregnancy                                                	91948008         	No     
+Bacterial pneumonia co-occurrent with human immunodeficiency virus infection                                    	713544008        	No     
+Burkitt lymphoma co-occurrent with human immunodeficiency virus infection                                       	713897006        	No     
+Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection                               	713297001        	No     
+Candidiasis of mouth co-occurrent with human immunodeficiency virus infection                                   	713497004        	No     
+Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection                 	719522009        	No     
+Cardiomyopathy co-occurrent with human immunodeficiency virus infection                                         	713523008        	No     
+Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection       	713446007        	No     
+Coccidiosis co-occurrent with human immunodeficiency virus infection                                            	713729005        	No     
+Congenital acquired immune deficiency syndrome                                                                  	276665006        	No     
+Congenital human immunodeficiency virus infection                                                               	52079000         	No     
+Dementia co-occurrent with human immunodeficiency virus infection                                               	713844000        	No     
+Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection        	713543002        	No     
+Dermatophytosis co-occurrent with human immunodeficiency virus infection                                        	713734009        	No     
+Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection             	713718006        	No     
+Disorder of central nervous system co-occurrent with human immunodeficiency virus infection                     	713571008        	No     
+Disorder of eye proper co-occurrent with human immunodeficiency virus infection                                 	713299003        	No     
+Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection                     	713300006        	No     
+Disorder of kidney co-occurrent with human immunodeficiency virus infection                                     	713504001        	No     
+Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection                  	713527009        	No     
+Disorder of respiratory system co-occurrent with human immunodeficiency virus infection                         	713484001        	No     
+Disorder of skin co-occurrent with human immunodeficiency virus infection                                       	713340000        	No     
+Disorder of spinal cord co-occurrent with human immunodeficiency virus infection                                	713503007        	No     
+Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection	713967004        	No     
+Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection         	713445006        	No     
+Enlargement of liver co-occurrent with human immunodeficiency virus infection                                   	713510001        	No     
+Eruption of skin co-occurrent with human immunodeficiency virus infection                                       	713316008        	No     
+Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection                            	733835007        	No     
+Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection                     	713887002        	No     
+Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection                	713505000        	No     
+Hairy leukoplakia of tongue associated with HIV disease                                                         	414376003        	No     
+Heart disease co-occurrent with human immunodeficiency virus infection                                          	713298006        	No     
+Hemophagocytic syndrome co-occurrent with human immunodeficiency virus infection                                	713444005        	No     
+HIV CDC category A1                                                                                             	103406000        	No     
+HIV CDC category A2                                                                                             	103407009        	No     
+HIV CDC category A3 (AIDS)                                                                                      	103408004        	No     
+HIV CDC category B1                                                                                             	103409007        	No     
+HIV CDC category B2                                                                                             	103410002        	No     
+HIV CDC category B3 (AIDS)                                                                                      	103411003        	No     
+HIV CDC category C1 (AIDS)                                                                                      	103412005        	No     
+HIV CDC category C2 (AIDS)                                                                                      	103413000        	No     
+HIV CDC category C3 (AIDS)                                                                                      	103414006        	No     
+HIV CDC category finding                                                                                        	385353004        	No     
+HIV disease resulting in other types of non-Hodgkin's lymphoma                                                  	186724008        	Yes    
+HIV infection with acute lymphadenitis                                                                          	87117006         	No     
+HIV infection with aseptic meningitis                                                                           	315019000        	No     
+HIV infection with infectious mononucleosis-like syndrome                                                       	48794007         	No     
+HIV positive                                                                                                    	165816005        	No     
+HIV WHO class finding                                                                                           	385354005        	No     
+HIV WHO class I                                                                                                 	103415007        	No     
+HIV WHO class II                                                                                                	103416008        	No     
+HIV WHO class III                                                                                               	103417004        	No     
+HIV WHO class IV (AIDS)                                                                                         	103418009        	No     
+HIV-related sclerosing cholangitis                                                                              	281388009        	No     
+Human immunodeficiency virus                                                                                    	72621000119104   	No     
+Human immunodeficiency virus (HIV) II infection category B2                                                     	72631000119101   	No     
+Human immunodeficiency virus (HIV) infection category B1                                                        	76981000119106   	No     
+Human immunodeficiency virus (HIV) infection category B2                                                        	76991000119109   	No     
+Human immunodeficiency virus 2 antibody positive and Human immunodeficiency virus 1 antibody cross-reactivity   	719789000        	No     
+Human immunodeficiency virus antibody positive                                                                  	713742005        	No     
+Human immunodeficiency virus Centers for Disease Control and Prevention category B                              	698703002        	No     
+Human immunodeficiency virus complicating pregnancy childbirth and the puerperium                               	721166000        	No     
+Human immunodeficiency virus encephalitis                                                                       	398329009        	No     
+Human immunodeficiency virus encephalopathy                                                                     	397763006        	No     
+Human immunodeficiency virus enteropathy                                                                        	235726002        	No     
+Human immunodeficiency virus I infection                                                                        	40780007         	No     
+Human immunodeficiency virus II infection                                                                       	79019005         	No     
+Human immunodeficiency virus infection                                                                          	86406008         	No     
+Human immunodeficiency virus infection constitutional disease                                                   	186706006        	No     
+Human immunodeficiency virus infection with neurological disease                                                	186707002        	No     
+Human immunodeficiency virus infection with secondary clinical infectious disease                               	186708007        	No     
+Human immunodeficiency virus leukoencephalopathy                                                                	230180003        	No     
+Human immunodeficiency virus myopathy                                                                           	240103002        	No     
+Human immunodeficiency virus-associated periodontitis                                                           	235009000        	No     
+Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection                    	714464009        	No     
+Immune recovery uveitis                                                                                         	416491000        	No     
+Increased human immunodeficiency virus (HIV) viral load                                                         	442662004        	No     
+Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection                    	713845004        	No     
+Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection                    	713722001        	No     
+Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection               	713730000        	No     
+Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection                	713733003        	No     
+Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection                           	713545009        	No     
+Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection                       	713490002        	No     
+Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection                         	713342008        	No     
+Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection                      	713339002        	No     
+Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection                             	713570009        	No     
+Infective arthritis co-occurrent with human immunodeficiency virus infection                                    	713532005        	No     
+Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection                   	733834006        	No     
+Isosporiasis co-occurrent with human immunodeficiency virus infection                                           	713546005        	No     
+Lymphadenopathy co-occurrent with human immunodeficiency virus infection                                        	713507008        	No     
+Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection                           	713572001        	No     
+Microsporidiosis co-occurrent with human immunodeficiency virus infection                                       	713881001        	No     
+Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection      	713964006        	No     
+Myelitis co-occurrent with human immunodeficiency virus infection                                               	713341001        	No     
+Myocarditis co-occurrent with human immunodeficiency virus infection                                            	713318009        	No     
+Nephrotic syndrome co-occurrent with human immunodeficiency virus infection                                     	713695001        	No     
+Neuralgia co-occurrent with human immunodeficiency virus infection                                              	713278001        	No     
+Neuritis co-occurrent with human immunodeficiency virus infection                                               	713506004        	No     
+Neuropathy due to human immunodeficiency virus                                                                  	230598008        	No     
+Opportunistic mycosis co-occurrent with human immunodeficiency virus infection                                  	713880000        	No     
+Oral hairy leukoplakia associated with HIV disease                                                              	402901009        	No     
+Organic brain syndrome co-occurrent with human immunodeficiency virus infection                                 	713491003        	No     
+Parkinsonism due to human immunodeficiency virus infection                                                      	722557007        	No     
+Pediatric human immunodeficiency virus infection                                                                	405631006        	No     
+Persistent generalized lymphadenopathy                                                                          	95892003         	No     
+Polyneuropathy co-occurrent with human immunodeficiency virus infection                                         	713489006        	No     
+Presenile dementia co-occurrent with human immunodeficiency virus infection                                     	713488003        	No     
+Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection                              	713325002        	No     
+Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection             	713487008        	No     
+Pulmonary arterial hypertension associated with HIV infection                                                   	697904001        	No     
+Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection                              	713731001        	No     
+Radiculitis co-occurrent with human immunodeficiency virus infection                                            	713320007        	No     
+Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection                          	713526000        	No     
+Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection                            	714083007        	No     
+Renal failure syndrome co-occurrent with human immunodeficiency virus infection                                 	713696000        	No     
+Reticulosarcoma co-occurrent with human immunodeficiency virus infection                                        	713483007        	No     
+Splenomegaly co-occurrent with human immunodeficiency virus infection                                           	713275003        	No     
+Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection                       	713260006        	No     
+Symptomatic human immunodeficiency virus (HIV) I infection                                                      	80191000119101   	No     
+Symptomatic human immunodeficiency virus infection                                                              	81000119104      	No     
+Visual impairment co-occurrent with human immunodeficiency virus infection                                      	713531003        	No     

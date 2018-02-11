@@ -1,0 +1,6 @@
+Term                                           	Code           	Retired
+Anemia due to chemotherapy                     	429564000      	No     
+Anemia in malignant neoplastic disease         	703135009      	No     
+Anemia in neoplastic disease                   	191265009      	No     
+Anemia in ovarian carcinoma                    	307726001      	No     
+Pancytopenia due to antineoplastic chemotherapy	328301000119102	No     

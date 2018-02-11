@@ -1,0 +1,96 @@
+Term                                             	Code     	Retired
+Acute silicosis                                  	233760007	No     
+Air-conditioner and humidifier lung              	195990006	No     
+Aluminosis of lung                               	90623003 	No     
+Animal handlers' lung                            	115666004	No     
+Anthracosilicosis                                	33548005 	No     
+Antimony pneumoconiosis                          	58691003 	No     
+Asbestosis                                       	22607003 	No     
+Bagassosis                                       	67242002 	No     
+Baritosis                                        	50076003 	No     
+Bauxite fibrosis of lung                         	14700006 	No     
+Benign pneumoconiosis                            	15708009 	No     
+Bird-fanciers' lung                              	69339004 	No     
+Budgerigar-fanciers' disease                     	12088005 	No     
+Cadmium pneumonitis                              	37711000 	No     
+Cannabinosis                                     	78723001 	No     
+Carbon electrode makers' pneumoconiosis          	40218008 	No     
+Cerium pneumoconiosis                            	233754007	No     
+Chalicosis                                       	44547005 	No     
+Cheese-washers' lung                             	404807005	No     
+Chronic silicosis                                	233762004	No     
+Coal workers' pneumoconiosis                     	29422001 	No     
+Cobaltosis                                       	86263001 	No     
+Coffee-workers' lung                             	16623004 	No     
+Collagenous pneumoconiosis                       	72270005 	No     
+Complicated pneumoconiosis                       	233749003	No     
+Complicated silicosis                            	49840000 	No     
+Diatomaceous earth disease                       	85438006 	No     
+Dog house disease                                	233694004	No     
+Dry rot lung                                     	233695003	No     
+Environmental lung disease                       	24417004 	No     
+Erionite pneumoconiosis                          	233750003	No     
+Extrinsic allergic alveolitis                    	37471005 	No     
+Extrinsic allergic respiratory disease           	105978008	No     
+Farmers' lung                                    	18690003 	No     
+Feather-pickers' disease                         	11944003 	No     
+Fish-meal workers' lung                          	73448002 	No     
+Fullers' earth disease                           	64631008 	No     
+Furriers' lung                                   	68333005 	No     
+Grain fever                                      	79958002 	No     
+Grain-handlers' disease                          	19274004 	No     
+Hard metal pneumoconiosis                        	87909002 	No     
+House allergic alveolitis                        	725415009	No     
+Humidifier fever                                 	233774000	No     
+Humidifier lung                                  	48347002 	No     
+Hypersensitivity alveolitis in lungworm infection	59940009 	No     
+Kaolinosis                                       	36696005 	No     
+Liparitosis                                      	7343008  	No     
+Lycoperdonosis                                   	233696002	No     
+Malt-workers' lung                               	25897000 	No     
+Manganese pneumonitis                            	88687001 	No     
+Maple-bark strippers' lung                       	86638007 	No     
+Massive silicotic fibrosis of lung               	40640008 	No     
+Metal pneumoconiosis                             	233751004	No     
+Mica pneumoconiosis                              	233758005	No     
+Mixed dust pneumoconiosis                        	32139003 	No     
+Mixed mineral dust pneumoconiosis                	233759002	No     
+Mushroom workers' lung                           	52333004 	No     
+New Guinea lung                                  	233697006	No     
+Nickel pneumoconiosis                            	233755008	No     
+Occupational lung disease                        	86157004 	No     
+Paprika splitters' lung                          	233698001	No     
+Pigeon-fanciers' disease                         	85407005 	No     
+Pituitary snuff-takers' disease                  	195989002	No     
+Pneumoconiosis                                   	40122008 	No     
+Pneumoconiosis associated with tuberculosis      	196017002	No     
+Pneumoconiosis caused by sisal fiber             	26511004 	No     
+Pneumoconiosis due to inorganic dust             	17996008 	No     
+Pneumoconiosis due to silica                     	805002   	No     
+Pneumoconiosis due to silicate                   	426853005	No     
+Pneumoconiosis due to talc                       	73144008 	No     
+Pneumonopathy due to inhalation of dust          	74015002 	No     
+Pulmonary siderosis                              	62371005 	No     
+Pyrethrum alveolitis                             	233699009	No     
+Rheumatoid pneumoconiosis                        	398640008	No     
+Rodent handlers' lung                            	233700005	No     
+Schistosis                                       	1259003  	No     
+Sequoiosis                                       	23315001 	No     
+Sewage workers' lung                             	233701009	No     
+Sick building syndrome                           	19076009 	No     
+Siderosilicosis                                  	34004002 	No     
+Silicotuberculosis                               	233763009	No     
+Silo-fillers' disease                            	61233003 	No     
+Silver polishers' lung disease                   	50589003 	No     
+Simple pneumoconiosis                            	233748006	No     
+Simple silicosis                                 	47515009 	No     
+Stannosis                                        	51277007 	No     
+Storage disease of the lung                      	77716004 	No     
+Subacute silicosis                               	233761006	No     
+Suberosis                                        	13394002 	No     
+Summer-type hypersensitivity pneumonitis         	233702002	No     
+Thorium pneumoconiosis                           	233756009	No     
+Vinyard sprayers' lung                           	10785007 	No     
+Wheat weevil disease                             	38729007 	No     
+Wollastonite pneumoconiosis                      	233764003	No     
+Zirconium pneumoconiosis                         	233757000	No     

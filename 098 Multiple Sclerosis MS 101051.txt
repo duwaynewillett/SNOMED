@@ -1,0 +1,19 @@
+Term                                                           	Code          	Retired
+Acute relapsing multiple sclerosis                             	230372003     	No     
+Benign multiple sclerosis                                      	438511000     	No     
+Chronic progressive multiple sclerosis                         	230373008     	No     
+Dementia associated with multiple sclerosis                    	698626001     	No     
+Dementia due to multiple sclerosis with altered behavior       	82371000119101	No     
+Exacerbation of multiple sclerosis                             	192929006     	No     
+Generalized multiple sclerosis                                 	192928003     	No     
+Malignant multiple sclerosis                                   	439567002     	No     
+Multiple sclerosis                                             	24700007      	No     
+Multiple sclerosis of the brainstem                            	192926004     	No     
+Multiple sclerosis of the spinal cord                          	192927008     	No     
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	733028000     	No     
+Primary progressive multiple sclerosis                         	428700003     	No     
+Progressive relapsing multiple sclerosis                       	724778008     	No     
+Relapsing remitting multiple sclerosis                         	426373005     	No     
+Remittent-progressive multiple sclerosis                       	230374002     	No     
+Secondary progressive multiple sclerosis                       	425500002     	No     
+Suspected multiple sclerosis                                   	700409000     	No     

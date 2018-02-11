@@ -1,0 +1,35 @@
+Term                                                                                            	Code             	Retired
+Acute exacerbation of asthma co-occurrent with allergic rhinitis                                	99031000119107   	No     
+Acute severe exacerbation of asthma co-occurrent with allergic rhinitis                         	10674711000119105	No     
+Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis	10675991000119100	No     
+Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis     	10676511000119109	No     
+Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis       	10675551000119104	No     
+Allergic rhinitis                                                                               	61582004         	No     
+Allergic rhinitis caused by feathers                                                            	10629391000119103	No     
+Allergic rhinitis caused by insects                                                             	10629431000119108	No     
+Allergic rhinitis caused by mold                                                                	10629471000119106	No     
+Allergic rhinitis due to animal dander                                                          	429195002        	No     
+Allergic rhinitis due to animal hair and dander                                                 	156051000119109  	No     
+Allergic rhinitis due to animals                                                                	91925003         	No     
+Allergic rhinitis due to Dermatophagoides farinae                                               	703903005        	No     
+Allergic rhinitis due to Dermatophagoides pteronyssinus                                         	703937002        	No     
+Allergic rhinitis due to food                                                                   	441978001        	No     
+Allergic rhinitis due to grass pollen                                                           	91926002         	No     
+Allergic rhinitis due to house dust mite                                                        	449729000        	No     
+Allergic rhinitis due to pollen                                                                 	21719001         	No     
+Allergic rhinitis due to tree pollen                                                            	91927006         	No     
+Allergic rhinitis due to weed pollen                                                            	91928001         	No     
+Hay fever with asthma                                                                           	233683003        	No     
+Intermittent asthma co-occurrent with allergic rhinitis                                         	125021000119107  	No     
+Mild persistent asthma controlled co-occurrent with allergic rhinitis                           	10676111000119102	No     
+Mild persistent asthma co-occurrent with allergic rhinitis                                      	125011000119100  	No     
+Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis                         	10676231000119102	No     
+Moderate persistent asthma co-occurrent with allergic rhinitis                                  	125001000119103  	No     
+Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis                     	10676671000119102	No     
+Moderate persistent controlled asthma co-occurrent with allergic rhinitis                       	10676591000119100	No     
+Perennial allergic rhinitis                                                                     	446096008        	No     
+Perennial allergic rhinitis with seasonal variation                                             	232353008        	No     
+Seasonal allergic rhinitis                                                                      	367498001        	No     
+Severe persistent asthma controlled co-occurrent with allergic rhinitis                         	10675631000119109	No     
+Severe persistent asthma co-occurrent with allergic rhinitis                                    	124991000119109  	No     
+Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis                       	10675711000119106	No     

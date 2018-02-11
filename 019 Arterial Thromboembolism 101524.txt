@@ -1,0 +1,179 @@
+Term                                                                          	Code             	Retired
+Acute occlusion of aortoiliac artery co-occurrent and due to thromboembolus   	723869004        	No     
+Acute occlusion of aortoiliac artery due to thrombosis                        	723871004        	No     
+Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus	723870003        	No     
+Acute occlusion of artery of lower limb due to thrombosis                     	723872006        	No     
+Acute occlusion of artery of upper limb caused by thromboembolus              	733126003        	No     
+Acute occlusion of artery of upper limb caused by thrombus                    	733127007        	No     
+Anterior cerebral artery embolism                                             	429811000124106  	No     
+Anterior choroidal artery thrombosis                                          	7931000119101    	No     
+Anterior inferior cerebellar artery embolism                                  	429851000124107  	No     
+Anterior spinal artery thrombosis                                             	230740003        	No     
+Aortic bifurcation syndrome                                                   	233972005        	No     
+Aortic bifurcation thrombosis                                                 	233976008        	No     
+Aortic thromboembolism                                                        	274101000        	No     
+Arterial air embolus                                                          	302968001        	No     
+Arterial embolism                                                             	54687002         	No     
+Arterial embolus and thrombosis                                               	266262004        	No     
+Arterial graft thrombosis                                                     	280967004        	No     
+Arterial obstruction due to nonthrombotic embolism from heart                 	723874007        	No     
+Arterial obstruction due to thrombotic embolism from aneurysm of artery       	723875008        	No     
+Arterial obstruction due to thrombotic embolism from mural thrombus of heart  	723873001        	No     
+Arterial thrombosis                                                           	65198009         	No     
+Arterial thrombosis of spinal cord                                            	111497000        	No     
+Atheroembolism of bilateral renal arteries                                    	15966741000119101	No     
+Atheroembolism of left lower limb                                             	16012471000119105	No     
+Atheroembolism of left renal artery                                           	15966781000119106	No     
+Atheroembolism of left upper limb                                             	16009351000119100	No     
+Atheroembolism of renal arteries                                              	51677000         	No     
+Atheroembolism of right lower limb                                            	16012631000119105	No     
+Atheroembolism of right renal artery                                          	15966701000119103	No     
+Atheroembolism of right upper limb                                            	16009391000119105	No     
+Atheromatous embolus of lower limb                                            	425527003        	No     
+Atheromatous embolus of upper limb                                            	427567003        	No     
+Atherosclerotic plaque disruption with thrombosis of artery                   	449873008        	No     
+Axillary artery embolus                                                       	297136002        	No     
+Basilar artery embolism                                                       	111296006        	No     
+Basilar artery thrombosis                                                     	88174006         	No     
+Brachial artery embolus                                                       	233974006        	No     
+Brachial artery thrombosis                                                    	297146000        	No     
+Calcific retinal embolus                                                      	404668004        	No     
+Cardioembolic stroke                                                          	413758000        	No     
+Carotid artery embolism                                                       	80606009         	No     
+Carotid artery thrombosis                                                     	86003009         	No     
+Celiac artery embolus                                                         	297137006        	No     
+Celiac artery thrombosis                                                      	297148004        	No     
+Cerebellar artery embolism                                                    	429831000124100  	No     
+Cerebellar artery thrombosis                                                  	95459002         	No     
+Cerebellar stroke syndrome                                                    	195213000        	No     
+Cerebral embolism                                                             	75543006         	No     
+Cerebral thrombosis                                                           	71444005         	No     
+Cholesterol embolus syndrome                                                  	236489002        	No     
+Cholesterol retinal embolus                                                   	404670008        	No     
+Cholesterol retinal embolus of left eye                                       	677801000119100  	No     
+Cholesterol retinal embolus of right eye                                      	677811000119102  	No     
+Common femoral artery thrombosis                                              	297149007        	No     
+Common iliac artery thrombosis                                                	297150007        	No     
+Coronary artery embolism                                                      	29899005         	No     
+Coronary artery stent thrombosis                                              	421327009        	No     
+Coronary artery thrombosis                                                    	398274000        	No     
+Coronary thrombosis not resulting in myocardial infarction                    	194821006        	No     
+Crural artery thrombosis                                                      	297162006        	No     
+Digital arterial thrombosis                                                   	300919005        	No     
+Embolic infarction                                                            	37906005         	No     
+Embolic mesenteric infarction                                                 	57658009         	No     
+Embolic stroke                                                                	371041009        	No     
+Embolism and thrombosis of an arm or leg artery                               	195318006        	No     
+Embolism and thrombosis of hepatic artery                                     	195343000        	No     
+Embolism and thrombosis of the abdominal aorta                                	266263009        	No     
+Embolism and thrombosis of the anterior tibial artery                         	195325004        	No     
+Embolism and thrombosis of the axillary artery                                	195341003        	No     
+Embolism and thrombosis of the brachial artery                                	195319003        	No     
+Embolism and thrombosis of the celiac artery                                  	195342005        	No     
+Embolism and thrombosis of the dorsalis pedis artery                          	195326003        	No     
+Embolism and thrombosis of the femoral artery                                 	195323006        	No     
+Embolism and thrombosis of the popliteal artery                               	195324000        	No     
+Embolism and thrombosis of the posterior tibial artery                        	195327007        	No     
+Embolism and thrombosis of the radial artery                                  	195320009        	No     
+Embolism and thrombosis of the splenic artery                                 	195340002        	No     
+Embolism and thrombosis of the subclavian artery                              	195339004        	No     
+Embolism and thrombosis of the thoracic aorta                                 	195317001        	No     
+Embolism and thrombosis of the ulnar artery                                   	195321008        	No     
+Embolism and/or thrombosis of the common iliac artery                         	195335005        	No     
+Embolism and/or thrombosis of the external iliac artery                       	195337002        	No     
+Embolism and/or thrombosis of the internal iliac artery                       	195336006        	No     
+Embolism of iliac artery                                                      	80383008         	No     
+Embolism of internal auditory artery                                          	703158007        	No     
+Embolism of middle cerebral artery                                            	699706000        	No     
+Embolism of precerebral artery                                                	40276003         	No     
+Embolus of circle of Willis                                                   	297138001        	No     
+External iliac artery thrombosis                                              	297151006        	No     
+Fat embolism as early complication of trauma                                  	28398002         	No     
+Femoral artery embolus                                                        	233973000        	No     
+Femoral artery thrombosis                                                     	52156004         	No     
+Fulminant fat embolism syndrome                                               	233975007        	No     
+Head and neck arterial embolus                                                	312592009        	No     
+Head and neck arterial thrombosis                                             	312594005        	No     
+Hepatic artery embolism                                                       	80235008         	No     
+Hepatic artery thrombosis                                                     	83940008         	No     
+History of artery embolism                                                    	10824251000119108	No     
+History of cardioembolic stroke                                               	429235008        	No     
+History of embolic stroke without residual deficits                           	432051000124108  	No     
+Inferior mesenteric artery embolus                                            	297140006        	No     
+Internal iliac artery thrombosis                                              	297152004        	No     
+Intracranial arterial septic embolism                                         	230221005        	No     
+Left anterior descending coronary artery thrombosis                           	28248000         	No     
+Left main coronary artery thrombosis                                          	56276002         	No     
+Lower limb arterial embolus                                                   	312378004        	No     
+Mesenteric embolus                                                            	276500007        	No     
+Microvascular embolism of arteriole                                           	724439005        	No     
+Multiple AND bilateral precerebral artery embolism                            	37943007         	No     
+Multiple AND bilateral precerebral artery thrombosis                          	14977000         	No     
+Occlusion of renal artery due to embolism                                     	116291000119103  	No     
+Peripheral arterial embolism                                                  	286959000        	No     
+Platelet-fibrin retinal embolus                                               	404669007        	No     
+Pontine artery thrombosis                                                     	408665008        	No     
+Popliteal artery embolus                                                      	297141005        	No     
+Popliteal artery thrombosis                                                   	87239004         	No     
+Posterior cerebral artery embolism                                            	429821000124103  	No     
+Posterior inferior cerebellar artery embolism                                 	429861000124109  	No     
+Postoperative thromboembolism of precerebral artery                           	698363002        	No     
+Post-radiological embolism of lower limb artery                               	312380005        	No     
+Post-radiological embolism of upper limb artery                               	312377009        	No     
+Profunda femoris artery thrombosis                                            	297153009        	No     
+Pulmonary artery thrombosis                                                   	57834008         	No     
+Renal artery embolism                                                         	95580006         	No     
+Retinal embolus                                                               	404667009        	No     
+Right main coronary artery thrombosis                                         	10365005         	No     
+Septic embolus of artery                                                      	442105001        	No     
+Subclavian artery embolus                                                     	297135003        	No     
+Subclavian artery thrombosis                                                  	297154003        	No     
+Superficial femoral artery thrombosis                                         	297155002        	No     
+Superior cerebellar artery embolism                                           	429841000124105  	No     
+Superior cerebellar artery syndrome                                           	444657001        	No     
+Superior mesenteric artery embolus                                            	196999001        	No     
+Superior mesenteric artery thrombosis                                         	197000003        	No     
+Suprarenal artery embolus                                                     	297143008        	No     
+Thromboarteritis                                                              	89135007         	No     
+Thromboembolism of renal arteries                                             	60989005         	No     
+Thromboembolus of precerebral artery                                          	446712002        	No     
+Thrombosis of abdominal aorta                                                 	84272007         	No     
+Thrombosis of anterior cerebral artery                                        	5431000124100    	No     
+Thrombosis of anterior inferior cerebellar artery                             	5461000124109    	No     
+Thrombosis of aortic bifurcation bypass graft                                 	306856009        	No     
+Thrombosis of arteries of lower extremity                                     	90958004         	No     
+Thrombosis of arteries of the extremities                                     	33591000         	No     
+Thrombosis of arteries of upper extremity                                     	31529002         	No     
+Thrombosis of artery of bilateral lower limbs                                 	16012751000119108	No     
+Thrombosis of artery of bilateral upper limbs                                 	16007711000119108	No     
+Thrombosis of axillofemoral bypass graft                                      	306855008        	No     
+Thrombosis of bilateral internal carotid arteries                             	15707921000119104	No     
+Thrombosis of bilateral popliteal arteries                                    	16012871000119107	No     
+Thrombosis of femorofemoral crossover bypass graft                            	306854007        	No     
+Thrombosis of femoropopliteal bypass graft                                    	306853001        	No     
+Thrombosis of iliac artery                                                    	82453008         	No     
+Thrombosis of internal carotid artery                                         	425420004        	No     
+Thrombosis of left circumflex artery                                          	19830001000004106	No     
+Thrombosis of left internal carotid artery                                    	15707881000119106	No     
+Thrombosis of left ulnar artery                                               	16007911000119106	No     
+Thrombosis of mesenteric artery                                               	243410003        	No     
+Thrombosis of middle cerebral artery                                          	705129007        	No     
+Thrombosis of posterior cerebral artery                                       	5581000124100    	No     
+Thrombosis of posterior communicating artery                                  	425932008        	No     
+Thrombosis of posterior inferior cerebellar artery                            	5601000124105    	No     
+Thrombosis of precerebral artery                                              	48601002         	No     
+Thrombosis of renal artery                                                    	95579008         	No     
+Thrombosis of renal artery bypass graft                                       	306857000        	No     
+Thrombosis of retinal artery                                                  	26214006         	No     
+Thrombosis of right internal carotid artery                                   	15707841000119101	No     
+Thrombosis of right ulnar artery                                              	16007791000119104	No     
+Thrombosis of superior cerebellar artery                                      	5451000124107    	No     
+Thrombosis of thoracic aorta                                                  	42878004         	No     
+Thrombosis of ulnar artery                                                    	427184002        	No     
+Thrombotic infarction                                                         	77255002         	No     
+Thrombotic mesenteric infarction                                              	80475003         	No     
+Thrombotic stroke                                                             	371040005        	No     
+Trunk arterial embolus                                                        	312593004        	No     
+Upper limb arterial embolus                                                   	312375001        	No     
+Vertebral artery embolism                                                     	65084004         	No     
+Vertebral artery thrombosis                                                   	64775002         	No     

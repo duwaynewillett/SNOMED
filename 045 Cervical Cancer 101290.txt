@@ -1,0 +1,34 @@
+Term                                                                                         	Code           	Retired
+Adenocarcinoma of cervix                                                                     	254887002      	No     
+Adenoma malignum                                                                             	385478001      	No     
+Adenosquamous carcinoma of cervix                                                            	254888007      	No     
+Anaplasia of cervix                                                                          	80914001       	No     
+Carcinoma of cervix                                                                          	285432005      	No     
+Carcinoma of cervix stage 0                                                                  	254889004      	No     
+Carcinoma of endocervix                                                                      	372098004      	No     
+Carcinoma of exocervix                                                                       	372100004      	No     
+Carcinoma of uterine cervix, invasive                                                        	423973006      	No     
+Diffuse non-Hodgkin's lymphoma of uterine cervix                                             	448607004      	No     
+Endocervical adenocarcinoma                                                                  	123842006      	No     
+Follicular non-Hodgkin's lymphoma of uterine cervix                                          	449059000      	No     
+History of malignant neoplasm of cervix                                                      	429484003      	No     
+Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection	733834006      	No     
+Local recurrence of malignant tumor of cervix                                                	314970000      	No     
+Malignant neoplasm of cervical stump                                                         	188183000      	No     
+Malignant neoplasm of endocervical canal                                                     	188176007      	No     
+Malignant neoplasm of endocervical gland                                                     	188177003      	No     
+Malignant neoplasm of endocervix                                                             	372097009      	No     
+Malignant neoplasm of exocervix                                                              	372099007      	No     
+Malignant neoplasm of squamocolumnar junction of cervix                                      	188184006      	No     
+Malignant neoplasm, overlapping lesion of cervix uteri                                       	188180002      	No     
+Malignant tumor of cervix                                                                    	363354003      	No     
+Metastasis from malignant tumor of cervix                                                    	314992001      	No     
+Non-Hodgkin's lymphoma of uterine cervix                                                     	448774004      	No     
+Overlapping malignant neoplasm of uterine cervix                                             	109880006      	No     
+Primary adenocarcinoma of cervix uteri                                                       	184781000119102	No     
+Primary adenocarcinoma of endocervix                                                         	208041000119100	No     
+Primary malignant neoplasm of endocervix                                                     	93779009       	No     
+Primary malignant neoplasm of exocervix                                                      	93789008       	No     
+Primary malignant neoplasm of uterine cervix                                                 	372024009      	No     
+Primary neuroendocrine carcinoma of cervix uteri                                             	722683006      	No     
+Squamous cell carcinoma of cervix                                                            	254886006      	No     

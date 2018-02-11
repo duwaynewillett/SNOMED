@@ -1,0 +1,176 @@
+Term                                                                                       	Code             	Retired
+Abnormal dark adaptation curve                                                             	50455002         	No     
+Abnormal retinal correspondence                                                            	79195003         	No     
+Abnormal vision as a late effect of cerebrovascular disease                                	441759008        	No     
+Acquired blindness                                                                         	232149003        	No     
+Acquired blindness, both eyes                                                              	312978008        	No     
+Acquired blindness, one eye                                                                	312979000        	No     
+Acquired night blindness                                                                   	53808001         	No     
+Afterimage                                                                                 	421705002        	No     
+Amaurosis                                                                                  	70449006         	No     
+Amaurosis fugax                                                                            	88032003         	No     
+Amaurosis fugax of left eye                                                                	12237911000119109	No     
+Amaurosis fugax of right eye                                                               	12237951000119105	No     
+Anton's syndrome                                                                           	83373005         	No     
+Better eye: low vision, Lesser eye: profound visual impairment                             	193711000        	No     
+Better eye: moderate visual impairment, Lesser eye: moderate visual impairment             	193728002        	No     
+Better eye: moderate visual impairment, Lesser eye: near total visual impairment           	193719003        	No     
+Better eye: moderate visual impairment, Lesser eye: profound visual impairment             	193720009        	No     
+Better eye: moderate visual impairment, Lesser eye: severe visual impairment               	193727007        	No     
+Better eye: moderate visual impairment, Lesser eye: total visual impairment                	193718006        	No     
+Better eye: near total visual impairment, Lesser eye: near total visual impairment         	193704004        	No     
+Better eye: near total visual impairment, Lesser eye: total visual impairment              	193703005        	No     
+Better eye: profound visual impairment, Lesser eye: near total visual impairment           	193707006        	No     
+Better eye: profound visual impairment, Lesser eye: profound visual impairment             	193708001        	No     
+Better eye: severe visual impairment, Lesser eye: profound visual impairment               	193716005        	No     
+Better eye: severe visual impairment, Lesser eye: severe visual impairment                 	193725004        	No     
+Better eye: severe visual impairment, Lesser eye: total visual impairment                  	193714008        	No     
+Bilateral moderate to severe visual impairment                                             	8771000119104    	No     
+Bilateral visual impairment                                                                	218951000119100  	No     
+Binocular diplopia                                                                         	246655008        	No     
+Binocular vision disorder                                                                  	83275001         	No     
+Binocular vision suppression                                                               	193659009        	No     
+Blind left eye                                                                             	274571007        	No     
+Blind left eye, low vision right eye                                                       	343051000119108  	No     
+Blind left eye, normal vision right eye                                                    	343041000119106  	No     
+Blind or low vision - both eyes                                                            	267727004        	No     
+Blind or low vision - one eye only                                                         	267728009        	No     
+Blind right eye                                                                            	274572000        	No     
+Blind right eye, low vision left eye                                                       	343031000119102  	No     
+Blind right eye, normal vision left eye                                                    	343021000119100  	No     
+Blindness - both eyes                                                                      	193699007        	No     
+Blindness AND/OR vision impairment level                                                   	105597003        	No     
+Blindness associated with AIDS                                                             	421706001        	No     
+Blindness due to type 1 diabetes mellitus                                                  	60991000119100   	No     
+Blindness due to type 2 diabetes mellitus                                                  	60951000119105   	No     
+Blindness of one eye                                                                       	22950006         	No     
+Blindness, scoliosis, arachnodactyly syndrome                                              	717920004        	No     
+Central blindness                                                                          	39139002         	No     
+Central visual impairment                                                                  	432141000124105  	No     
+Combined visual and hearing impairment                                                     	433147009        	No     
+Concentric fading of visual field                                                          	53547005         	No     
+Congenital blindness                                                                       	95486002         	No     
+Congenital corneal opacity with visual deficit                                             	204148008        	No     
+Cortical blindness                                                                         	68574006         	No     
+Cortical blindness of left side of brain                                                   	342751000119101  	No     
+Cortical blindness of right side of brain                                                  	342741000119103  	No     
+Cortical blindness, intellectual disability, polydactyly syndrome                          	732251003        	No     
+Cortical visual impairment                                                                 	413924001        	No     
+Dim vision                                                                                 	246635007        	No     
+Diplopia                                                                                   	24982008         	No     
+Disorder of vision due to secondary diabetes mellitus                                      	138591000119106  	No     
+Drug related visual impairment                                                             	698622004        	No     
+Dysphotopsia                                                                               	418209000        	No     
+Entoptic phenomenon                                                                        	421809001        	No     
+Erythropsia                                                                                	85289008         	No     
+Functional visual loss                                                                     	313165001        	No     
+Fusion with defective stereopsis                                                           	32919003         	No     
+Haidinger brushes                                                                          	420791006        	No     
+Hazy vision                                                                                	246636008        	No     
+Heteronymous diplopia                                                                      	251756006        	No     
+Homonymous diplopia                                                                        	251755005        	No     
+Hysterical macropsia                                                                       	421741002        	No     
+Hysterical micropsia                                                                       	420809008        	No     
+Impairment level of both eyes                                                              	68777001         	No     
+Impairment level of vision                                                                 	361122008        	No     
+Impairment level: better eye: moderate impairment: lesser eye: blind, not further specified	23672003         	No     
+Impairment level: better eye: moderate impairment: lesser eye: near-total impairment       	4490000          	No     
+Impairment level: better eye: moderate impairment: lesser eye: not further specified       	63385005         	No     
+Impairment level: better eye: moderate impairment: lesser eye: profound impairment         	23320001         	No     
+Impairment level: better eye: moderate impairment: lesser eye: severe impairment           	29887003         	No     
+Impairment level: better eye: moderate impairment: lesser eye: total impairment            	79004009         	No     
+Impairment level: better eye: near-total impairment: lesser eye: total impairment          	7469001          	No     
+Impairment level: better eye: near-total impairment: lesser-eye: not further specified     	15010004         	No     
+Impairment level: better eye: profound impairment: lesser eye: near-total impairment       	7758003          	No     
+Impairment level: better eye: profound impairment: lesser eye: not further specified       	63511007         	No     
+Impairment level: better eye: profound impairment: lesser eye: total impairment            	13734003         	No     
+Impairment level: better eye: severe impairment: lesser eye: blind, not further specified  	111518009        	No     
+Impairment level: better eye: severe impairment: lesser eye: near-total impairment         	1909000          	No     
+Impairment level: better eye: severe impairment: lesser eye: not further specified         	39914007         	No     
+Impairment level: better eye: severe impairment: lesser eye: profound impairment           	30272003         	No     
+Impairment level: better eye: severe impairment: lesser eye: total impairment              	58937003         	No     
+Impairment level: blindness, one eye - low vision other eye                                	91408006         	No     
+Impairment level: low vision of both eyes                                                  	70556002         	No     
+Impairment level: low vision of one eye                                                    	36794003         	No     
+Impairment level: moderate impairment of both eyes                                         	75133003         	No     
+Impairment level: near-total impairment of both eyes                                       	38465001         	No     
+Impairment level: one eye: moderate impairment: other eye: near-normal vision              	35558006         	No     
+Impairment level: one eye: moderate impairment: other eye: normal vision                   	16169003         	No     
+Impairment level: one eye: moderate impairment: other eye: not specified                   	22385004         	No     
+Impairment level: one eye: near-total impairment: other eye: near-normal vision            	14781008         	No     
+Impairment level: one eye: near-total impairment: other eye: normal vision                 	111519001        	No     
+Impairment level: one eye: near-total impairment: other eye: not specified                 	44381003         	No     
+Impairment level: one eye: profound impairment: other eye: near-normal vision              	82617003         	No     
+Impairment level: one eye: profound impairment: other eye: normal vision                   	6131008          	No     
+Impairment level: one eye: profound impairment: other eye: not specified                   	4646004          	No     
+Impairment level: one eye: severe impairment: other eye: near-normal vision                	72020003         	No     
+Impairment level: one eye: severe impairment: other eye: normal vision                     	75000006         	No     
+Impairment level: one eye: severe impairment: other eye: not specified                     	31264007         	No     
+Impairment level: one eye: total impairment: other eye: near-normal vision                 	31079007         	No     
+Impairment level: one eye: total impairment: other eye: normal vision                      	78307003         	No     
+Impairment level: one eye: total impairment: other eye: not specified                      	2790002          	No     
+Impairment level: profound impairment of both eyes                                         	36676002         	No     
+Impairment level: severe impairment of both eyes                                           	86643000         	No     
+Impairment level: total impairment of both eyes                                            	88768004         	No     
+Incongruous diplopia                                                                       	251758007        	No     
+Legal blindness                                                                            	65956007         	No     
+Legal blindness USA                                                                        	193731001        	No     
+Lesser eye: moderate visual impairment, Better eye: near normal vision                     	193751002        	No     
+Lesser eye: near total visual impairment, Better eye: near normal vision                   	193738007        	No     
+Lesser eye: profound visual impairment, Better eye: near normal vision                     	193741003        	No     
+Lesser eye: profound visual impairment, Better eye: normal vision                          	193742005        	No     
+Lesser eye: severe visual impairment, Better eye: near normal vision                       	193748009        	No     
+Lesser eye: severe visual impairment, Better eye: normal vision                            	193749001        	No     
+Lesser eye: total visual impairment, Better eye: near normal vision                        	193735005        	No     
+Lesser eye: total visual impairment, Better eye: normal vision                             	193736006        	No     
+Low vision associated with AIDS                                                            	422189002        	No     
+Low vision left eye, normal vision right eye                                               	334311000119108  	No     
+Low vision right eye, normal vision left eye                                               	339911000119106  	No     
+Low vision, both eyes                                                                      	193722001        	No     
+Low vision, one eye                                                                        	193745007        	No     
+Macropsia                                                                                  	422120000        	No     
+Macropsia due to organic disease                                                           	420374009        	No     
+Metamorphopsia                                                                             	42134006         	No     
+Micropsia                                                                                  	421801003        	No     
+Micropsia due to organic disease                                                           	422087002        	No     
+Mild visual impairment                                                                     	397543001        	No     
+Moderate visual impairment                                                                 	397542006        	No     
+Monocular diplopia                                                                         	50446000         	No     
+Multiple disability visual impairment                                                      	404191001        	No     
+Negative dysphotopsia                                                                      	419046003        	No     
+Night blindness                                                                            	65194006         	No     
+O/E - L-eye completely blind                                                               	163960006        	No     
+O/E - R-eye completely blind                                                               	163946009        	No     
+Oguchi's disease                                                                           	193687000        	No     
+One eye blind, one eye low vision                                                          	193712007        	No     
+Painful blind eye                                                                          	225569001        	No     
+Paradoxical diplopia                                                                       	251757002        	No     
+Partial sight - both eyes                                                                  	232150003        	No     
+Positive dysphotopsia                                                                      	418175004        	No     
+Profound impairment, one eye                                                               	193732008        	No     
+Psychophysical visual disturbance                                                          	70042006         	No     
+Refractive diplopia                                                                        	75364009         	No     
+Refractive polyopia                                                                        	9428001          	No     
+Riddoch phenomenon                                                                         	404654006        	No     
+Severe visual impairment                                                                   	397541004        	No     
+Simultaneous visual perception without fusion                                              	8826001          	No     
+Sound-induced photism                                                                      	423356004        	No     
+Subjective visual disturbance                                                              	78455002         	No     
+Subjective visual disturbance of image size                                                	421376003        	No     
+Sudden visual loss                                                                         	15203004         	No     
+Temporal crescent syndrome                                                                 	418761001        	No     
+Topographical agnosia                                                                      	83824009         	No     
+Transient blindness                                                                        	83785004         	No     
+Transient visual loss                                                                      	36994005         	No     
+Traumatic blindness                                                                        	23653003         	No     
+Unexplained visual loss                                                                    	421293001        	No     
+Visual agnosia                                                                             	25762009         	No     
+Visual distortion of perception of shape                                                   	446617001        	No     
+Visual disturbance                                                                         	63102001         	No     
+Visual disturbance as sequela of cerebrovascular disease                                   	87551000119101   	No     
+Visual halos                                                                               	83551002         	No     
+Visual impairment                                                                          	397540003        	No     
+Visual impairment co-occurrent with human immunodeficiency virus infection                 	713531003        	No     
+Visual loss after cataract extraction                                                      	371060002        	No     
+Visual obscuration                                                                         	404666000        	No     
+Vitamin A deficiency with night blindness                                                  	15509004         	No     

@@ -1,0 +1,30 @@
+Term                                                                                 	Code           	Retired
+Ataxic cerebral palsy                                                                	278512001      	No     
+Athetoid cerebral palsy                                                              	75019001       	No     
+Bilateral cerebral palsy                                                             	702319000      	No     
+Cerebral palsy                                                                       	128188000      	No     
+Cerebral palsy, not congenital or infantile, acute                                   	307756005      	No     
+Chorea-athetoid cerebral palsy                                                       	702317003      	No     
+Choreic cerebral palsy                                                               	702316007      	No     
+Congenital quadriplegia                                                              	275468009      	No     
+Diplegic cerebral palsy                                                              	58193001       	No     
+Double athetosis                                                                     	16171003       	No     
+Dyskinetic cerebral palsy                                                            	230780007      	No     
+Dystonic cerebral palsy                                                              	702315006      	No     
+Dystonic/rigid cerebral palsy                                                        	230781006      	No     
+Hemiplegic cerebral palsy                                                            	43486001       	No     
+Hypotonic cerebral palsy                                                             	192958009      	No     
+Mixed cerebral palsy                                                                 	702318008      	No     
+Monoplegic cerebral palsy                                                            	56409008       	No     
+Monoplegic cerebral palsy affecting lower limb                                       	230778001      	No     
+Monoplegic cerebral palsy affecting upper limb                                       	230777006      	No     
+Neuromuscular scoliosis of lumbar spine co-occurrent and due to cerebral palsy       	329741000119109	No     
+Neuromuscular scoliosis of thoracolumbar spine co-occurrent and due to cerebral palsy	330521000119103	No     
+Non-spastic cerebral palsy                                                           	702314005      	No     
+Paraplegic cerebral palsy                                                            	371079004      	No     
+Pentaplegic cerebral palsy                                                           	702321005      	No     
+Spastic cerebral palsy                                                               	230773005      	No     
+Spastic tetraplegia with rigidity syndrome                                           	44395000       	No     
+Tetraplegic cerebral palsy                                                           	48721008       	No     
+Triplegic cerebral palsy                                                             	702320006      	No     
+Worster Drought syndrome                                                             	716335003      	No     

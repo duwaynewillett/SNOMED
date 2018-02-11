@@ -1,0 +1,110 @@
+Term                                                                                                      	Code           	Retired
+Bipolar affective disorder, current episode depression                                                    	191627008      	No     
+Bipolar affective disorder, current episode manic                                                         	191618007      	No     
+Bipolar affective disorder, current episode mixed                                                         	192362008      	No     
+Bipolar affective disorder, currently depressed, in full remission                                        	191634005      	No     
+Bipolar affective disorder, currently depressed, mild                                                     	191629006      	No     
+Bipolar affective disorder, currently depressed, moderate                                                 	191630001      	No     
+Bipolar affective disorder, currently depressed, severe, with psychosis                                   	191632009      	No     
+Bipolar affective disorder, currently manic, in full remission                                            	191625000      	No     
+Bipolar affective disorder, currently manic, mild                                                         	191620005      	No     
+Bipolar affective disorder, currently manic, moderate                                                     	191621009      	No     
+Bipolar affective disorder, currently manic, severe, with psychosis                                       	191623007      	No     
+Bipolar disorder                                                                                          	13746004       	No     
+Bipolar disorder in full remission                                                                        	41836007       	No     
+Bipolar disorder in partial remission                                                                     	5703000        	No     
+Bipolar disorder in remission                                                                             	85248005       	No     
+Bipolar I disorder                                                                                        	371596008      	No     
+Bipolar I disorder, most recent episode depressed with atypical features                                  	29929003       	No     
+Bipolar I disorder, most recent episode depressed with catatonic features                                 	21900002       	No     
+Bipolar I disorder, most recent episode depressed with melancholic features                               	75752004       	No     
+Bipolar I disorder, most recent episode depressed with postpartum onset                                   	87203005       	No     
+Bipolar I disorder, most recent episode hypomanic                                                         	31446002       	No     
+Bipolar I disorder, most recent episode manic with catatonic features                                     	17782008       	No     
+Bipolar I disorder, most recent episode manic with postpartum onset                                       	55516002       	No     
+Bipolar I disorder, most recent episode mixed with catatonic features                                     	73471000       	No     
+Bipolar I disorder, most recent episode mixed with postpartum onset                                       	65042007       	No     
+Bipolar I disorder, single manic episode                                                                  	9340000        	No     
+Bipolar I disorder, single manic episode with catatonic features                                          	87950005       	No     
+Bipolar I disorder, single manic episode with postpartum onset                                            	1499003        	No     
+Bipolar I disorder, single manic episode, in full remission                                               	3530005        	No     
+Bipolar I disorder, single manic episode, in partial remission                                            	78269000       	No     
+Bipolar I disorder, single manic episode, in remission                                                    	75360000       	No     
+Bipolar II disorder                                                                                       	83225003       	No     
+Bipolar II disorder, most recent episode hypomanic                                                        	48937005       	No     
+Bipolar II disorder, most recent episode major depressive                                                 	16295005       	No     
+Bipolar II disorder, most recent episode major depressive with atypical features                          	43568002       	No     
+Bipolar II disorder, most recent episode major depressive with catatonic features                         	22407005       	No     
+Bipolar II disorder, most recent episode major depressive with melancholic features                       	34315001       	No     
+Bipolar II disorder, most recent episode major depressive with postpartum onset                           	30687003       	No     
+Bipolar II disorder, most recent episode rapid cycling                                                    	61771000119106 	No     
+Bipolar type I disorder currently in full remission                                                       	723903001      	No     
+Bipolar type II disorder currently in full remission                                                      	723905008      	No     
+Chronic bipolar I disorder, most recent episode depressed                                                 	51637008       	No     
+Chronic bipolar II disorder, most recent episode major depressive                                         	1196001        	No     
+Depressed bipolar I disorder                                                                              	49468007       	No     
+Depressed bipolar I disorder in full remission                                                            	22121000       	No     
+Depressed bipolar I disorder in partial remission                                                         	49512000       	No     
+Depressed bipolar I disorder in remission                                                                 	53607008       	No     
+H/O: manic depressive disorder                                                                            	400998002      	No     
+Manic bipolar I disorder                                                                                  	68569003       	No     
+Manic bipolar I disorder in full remission                                                                	30935000       	No     
+Manic bipolar I disorder in partial remission                                                             	63249007       	No     
+Manic bipolar I disorder in remission                                                                     	45479006       	No     
+Mild bipolar disorder                                                                                     	13313007       	No     
+Mild bipolar I disorder, single manic episode                                                             	41552001       	No     
+Mild bipolar II disorder, most recent episode major depressive                                            	71294008       	No     
+Mild depressed bipolar I disorder                                                                         	74686005       	No     
+Mild manic bipolar I disorder                                                                             	71984005       	No     
+Mild mixed bipolar I disorder                                                                             	43769008       	No     
+Mixed bipolar affective disorder                                                                          	191636007      	No     
+Mixed bipolar affective disorder, in full remission                                                       	191643001      	No     
+Mixed bipolar affective disorder, mild                                                                    	191638008      	No     
+Mixed bipolar affective disorder, moderate                                                                	191639000      	No     
+Mixed bipolar affective disorder, severe, with psychosis                                                  	191641004      	No     
+Mixed bipolar I disorder                                                                                  	16506000       	No     
+Mixed bipolar I disorder in full remission                                                                	111485001      	No     
+Mixed bipolar I disorder in partial remission                                                             	36583000       	No     
+Mixed bipolar I disorder in remission                                                                     	35481005       	No     
+Moderate bipolar disorder                                                                                 	79584002       	No     
+Moderate bipolar I disorder, single manic episode                                                         	28884001       	No     
+Moderate bipolar II disorder, most recent episode major depressive                                        	35846004       	No     
+Moderate depressed bipolar I disorder                                                                     	66631006       	No     
+Moderate manic bipolar I disorder                                                                         	82998009       	No     
+Moderate mixed bipolar I disorder                                                                         	40926005       	No     
+Organic bipolar disorder                                                                                  	231444002      	No     
+Rapid cycling bipolar I disorder                                                                          	133091000119105	No     
+Schizoaffective disorder, bipolar type                                                                    	38368003       	No     
+Severe bipolar disorder                                                                                   	371600003      	No     
+Severe bipolar disorder with psychotic features                                                           	4441000        	No     
+Severe bipolar disorder with psychotic features, mood-congruent                                           	70546001       	No     
+Severe bipolar disorder with psychotic features, mood-incongruent                                         	26530004       	No     
+Severe bipolar disorder without psychotic features                                                        	53049002       	No     
+Severe bipolar I disorder                                                                                 	371599001      	No     
+Severe bipolar I disorder, single manic episode with psychotic features                                   	41832009       	No     
+Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent                   	13581000       	No     
+Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent                 	86058007       	No     
+Severe bipolar I disorder, single manic episode without psychotic features                                	14495005       	No     
+Severe bipolar II disorder                                                                                	371604007      	No     
+Severe bipolar II disorder, most recent episode major depressive with psychotic features                  	30520009       	No     
+Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent  	19300006       	No     
+Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent	20960007       	No     
+Severe bipolar II disorder, most recent episode major depressive without psychotic features               	81319007       	No     
+Severe bipolar II disorder, most recent episode major depressive, in full remission                       	12969000       	No     
+Severe bipolar II disorder, most recent episode major depressive, in partial remission                    	67002003       	No     
+Severe bipolar II disorder, most recent episode major depressive, in remission                            	35722002       	No     
+Severe depressed bipolar I disorder                                                                       	261000119107   	No     
+Severe depressed bipolar I disorder with psychotic features                                               	59617007       	No     
+Severe depressed bipolar I disorder with psychotic features, mood-congruent                               	54761006       	No     
+Severe depressed bipolar I disorder with psychotic features, mood-incongruent                             	26203008       	No     
+Severe depressed bipolar I disorder without psychotic features                                            	61403008       	No     
+Severe manic bipolar I disorder                                                                           	23741000119105 	No     
+Severe manic bipolar I disorder with psychotic features                                                   	28663008       	No     
+Severe manic bipolar I disorder with psychotic features, mood-congruent                                   	78640000       	No     
+Severe manic bipolar I disorder with psychotic features, mood-incongruent                                 	33380008       	No     
+Severe manic bipolar I disorder without psychotic features                                                	162004         	No     
+Severe mixed bipolar I disorder                                                                           	271000119101   	No     
+Severe mixed bipolar I disorder with psychotic features                                                   	10981006       	No     
+Severe mixed bipolar I disorder with psychotic features, mood-congruent                                   	64731001       	No     
+Severe mixed bipolar I disorder with psychotic features, mood-incongruent                                 	10875004       	No     
+Severe mixed bipolar I disorder without psychotic features                                                	46229002       	No     

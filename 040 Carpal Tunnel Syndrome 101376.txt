@@ -1,0 +1,9 @@
+Term                                  	Code             	Retired
+Bilateral carpal tunnel syndrome      	12265501000119101	No     
+Carpal tunnel syndrome                	57406009         	No     
+Carpal tunnel syndrome of left wrist  	293861000119102  	No     
+Carpal tunnel syndrome of right wrist 	293871000119108  	No     
+Decompression of median nerve         	47534009         	No     
+Decompression of median nerve at elbow	171850009        	No     
+Endoscopic carpal tunnel release      	171841007        	No     
+Re-release of carpal tunnel           	171839006        	No     

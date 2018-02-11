@@ -1,0 +1,21 @@
+Term                                                          	Code     	Retired
+Acute prosthetic aortic valve regurgitation                   	703169005	No     
+Aortic cusp regurgitation                                     	250976004	No     
+Aortic incompetence, non-rheumatic                            	194983005	No     
+Aortic regurgitation due to cystic medial necrosis of aorta   	233864007	No     
+Aortic valve regurgitation                                    	60234000 	No     
+Aortic valve regurgitation due to aortic dilation             	703323003	No     
+Aortic valve regurgitation due to dissection                  	703325005	No     
+Aortic valve regurgitation due to trauma                      	703324009	No     
+Aortic valve stenosis with insufficiency                      	194987006	No     
+Mitral and aortic incompetence                                	194736003	No     
+Mitral stenosis and aortic insufficiency                      	194734000	No     
+Non-rheumatic aortic valve stenosis with regurgitation        	703236000	No     
+Postprocedural aortic valve regurgitation                     	703222005	No     
+Prosthetic aortic valve regurgitation                         	250974001	No     
+Prosthetic aortic valve stenosis and regurgitation            	703297006	No     
+Regurgitation of fetal aortic valve                           	472846001	No     
+Rheumatic aortic regurgitation                                	78031003 	No     
+Rheumatic aortic stenosis with regurgitation                  	17759006 	No     
+Rheumatic mitral AND aortic valve regurgitation               	59464004 	No     
+Rheumatic mitral valve stenosis AND aortic valve insufficiency	71799002 	No     

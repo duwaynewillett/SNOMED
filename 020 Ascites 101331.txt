@@ -1,0 +1,30 @@
+Term                                                                                 	Code            	Retired
+Ascites                                                                              	389026000       	No     
+Ascites due to alcoholic cirrhosis                                                   	1082601000119104	No     
+Ascites due to alcoholic hepatitis                                                   	1082611000119101	No     
+Bancroftian filarial chylous ascites                                                 	234106000       	No     
+Bile ascites                                                                         	18037001        	No     
+Cardiac ascites                                                                      	236003008       	No     
+Chronic peritoneal effusion                                                          	78609007        	No     
+Chylous ascites                                                                      	52985009        	No     
+Chylous ascites of newborn                                                           	276526002       	No     
+Dialysis-associated ascites                                                          	12963004        	No     
+Fetal ascites                                                                        	363125002       	No     
+Hemorrhagic ascites                                                                  	71603004        	No     
+Hepatic ascites                                                                      	236004002       	No     
+Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease	1092801000119102	No     
+Hepatic ascites due to chronic alcoholic hepatitis                                   	1085021000119106	No     
+Infected ascites                                                                     	307311001       	No     
+Malignant ascites                                                                    	236005001       	No     
+Meigs' syndrome                                                                      	63402005        	No     
+Metabolic ascites                                                                    	236006000       	No     
+O/E - ascites                                                                        	163309001       	No     
+O/E - ascites - dipping shown                                                        	163311005       	No     
+O/E -ascites-shifting dullness                                                       	163313008       	No     
+O/E-ascites-fluid thrill shown                                                       	163312003       	No     
+Pancreatic ascites                                                                   	53067009        	No     
+Refractory ascites                                                                   	470758004       	No     
+Tense ascites                                                                        	470757009       	No     
+Tuberculous ascites                                                                  	4501007         	No     
+Urine ascites                                                                        	26170003        	No     
+Urine ascites of the neonate                                                         	75205009        	No     

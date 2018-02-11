@@ -1,0 +1,46 @@
+Term                                             	Code            	Retired
+Acute esophagitis                                	409656006       	No     
+Alkaline reflux disease                          	1027000         	No     
+Bacterial esophagitis                            	235601001       	No     
+Barrett's esophagus                              	302914006       	No     
+Barretts esophagus with dysplasia                	1082751000119109	No     
+Barrett's esophagus with esophagitis             	235597001       	No     
+Barretts esophagus with high grade dysplasia     	1082761000119106	No     
+Barretts esophagus with low grade dysplasia      	1082771000119100	No     
+Chemical esophagitis                             	36151004        	No     
+Chronic esophagitis                              	409657002       	No     
+Crohn's disease of esophagus                     	235607002       	No     
+Eosinophilic esophagitis                         	235599003       	No     
+Erosive esophagitis                              	40719004        	No     
+Esophagitis                                      	16761005        	No     
+Esophagitis caused by Cytomegalovirus            	713045003       	No     
+Esophagitis due to chemotherapy                  	430328004       	No     
+Esophagitis grade I                              	413225008       	No     
+Esophagitis grade II                             	413226009       	No     
+Esophagitis grade III                            	413227000       	No     
+Esophagitis grade IV                             	413228005       	No     
+Esophagitis medicamentosa                        	47753002        	No     
+Fungal esophagitis                               	235602008       	No     
+Gangrenous esophagitis                           	196601009       	No     
+Gastro-esophageal reflux disease with esophagitis	266433003       	No     
+Gastroesophagitis                                	35023000        	No     
+Hemorrhagic esophagitis                          	60698006        	No     
+Infective esophagitis                            	235600000       	No     
+Inflammatory esophagogastric polyp               	699323007       	No     
+Nasogastric tube esophagitis                     	235606006       	No     
+Neonatal eosinophilic esophagitis                	721612007       	No     
+Neonatal esophagitis                             	721611000       	No     
+Non-reflux esophagitis                           	235598006       	No     
+Peptic reflux disease                            	57643001        	No     
+Phlegmonous esophagitis                          	196602002       	No     
+Pill esophagitis                                 	13504006        	No     
+Pill esophagitis due to potassium chloride       	65941003        	No     
+Pill esophagitis due to quinidine                	60454001        	No     
+Pill esophagitis due to tetracycline             	12777009        	No     
+Postoperative esophagitis                        	3482005         	No     
+Protozoal esophagitis                            	235604009       	No     
+Radiation esophagitis                            	235605005       	No     
+Regurgitant esophagitis                          	53771000        	No     
+Tuberculosis of esophagus                        	15284007        	No     
+Ulcerative esophagitis                           	439955006       	No     
+Viral esophagitis                                	235603003       	No     

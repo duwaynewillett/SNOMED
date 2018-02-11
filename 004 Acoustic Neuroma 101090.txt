@@ -1,0 +1,4 @@
+Term                                           	Code           	Retired
+Acoustic neuroma                               	126949007      	No     
+Acoustic neuroma of bilateral vestibular nerves	2961000119106  	No     
+History of acoustic neuroma                    	138381000119101	No     

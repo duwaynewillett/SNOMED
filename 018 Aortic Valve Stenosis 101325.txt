@@ -1,0 +1,30 @@
+Term                                                          	Code     	Retired
+Aortic stenosis with doming                                   	250973007	No     
+Aortic stenosis, non-rheumatic                                	194984004	No     
+Aortic valve stenosis                                         	60573004 	No     
+Aortic valve stenosis with insufficiency                      	194987006	No     
+Calcific aortic stenosis - bicuspid valve                     	233862006	No     
+Congenital stenosis of aortic valve                           	18546004 	No     
+Congenital supravalvular aortic stenosis                      	7169009  	No     
+Critical stenosis of aortic valve                             	427515002	No     
+Diffuse supravalvar aortic stenosis                           	253642005	No     
+Isolated aortic stenosis                                      	276790000	No     
+Localized supravalvar aortic stenosis                         	253641003	No     
+Localized supravalvar aortic stenosis at sinutubular junction 	448104005	No     
+Mitral and aortic stenosis                                    	194733006	No     
+Mitral insufficiency and aortic stenosis                      	194735004	No     
+Neoaortic valve stenosis                                      	703318003	No     
+Nodular calcific aortic valve stenosis                        	19833008 	No     
+Non-rheumatic aortic valve stenosis with regurgitation        	703236000	No     
+Postprocedural aortic valve stenosis                          	703223000	No     
+Prosthetic aortic valve stenosis                              	703170006	No     
+Prosthetic aortic valve stenosis and regurgitation            	703297006	No     
+Rheumatic aortic stenosis                                     	72011007 	No     
+Rheumatic aortic stenosis with regurgitation                  	17759006 	No     
+Rheumatic mitral valve and aortic valve stenosis              	44993000 	No     
+Rheumatic mitral valve insufficiency AND aortic valve stenosis	81552002 	No     
+Senile aortic stenosis                                        	233863001	No     
+Shelf-like supravalvar aortic stenosis                        	448061002	No     
+Stenosis of fetal aortic valve                                	472847005	No     
+Supravalvar aortic stenosis                                   	268185002	No     
+Syphilitic aortic stenosis                                    	82355002 	No     

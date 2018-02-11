@@ -1,0 +1,5 @@
+Term                                       	Code     	Retired
+Amyotrophic lateral sclerosis              	86044005 	No     
+Amyotrophic lateral sclerosis plus syndrome	722987009	No     
+Amyotrophic lateral sclerosis with dementia	230258005	No     
+Juvenile amyotrophic lateral sclerosis     	718555006	No     

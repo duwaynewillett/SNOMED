@@ -1,0 +1,9 @@
+Term                                                             	Code          	Retired
+History of irritable bowel syndrome                              	70871000119100	No     
+Irritable bowel syndrome                                         	10743008      	No     
+Irritable bowel syndrome characterized by alternating bowel habit	440544005     	No     
+Irritable bowel syndrome characterized by constipation           	440630006     	No     
+Irritable bowel syndrome variant of childhood                    	235838003     	No     
+Irritable bowel syndrome variant of childhood with constipation  	235840008     	No     
+Irritable bowel syndrome variant of childhood with diarrhea      	235839006     	No     
+Irritable bowel syndrome with diarrhea                           	197125005     	No     

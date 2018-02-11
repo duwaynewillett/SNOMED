@@ -1,0 +1,12 @@
+Term                                                                  	Code           	Retired
+Allogeneic bone marrow transplantation                                	58390007       	No     
+Allogeneic bone marrow transplantation with purging                   	446253009      	No     
+Allogeneic bone marrow transplantation without purging                	445757003      	No     
+Allogeneic related bone marrow transplant                             	234334004      	No     
+Allogeneic unrelated bone marrow transplant                           	234335003      	No     
+Allograft of bone marrow from matched unrelated donor                 	427423003      	No     
+Allograft of bone marrow from sibling donor                           	426425001      	No     
+Grafting of bone marrow using allograft from unmatched unrelated donor	442557006      	No     
+History of allotransplantation of bone marrow                         	152621000119105	No     
+Imperfect T-cell depleted allogeneic bone marrow graft                	234333005      	No     
+T-cell depleted allogeneic bone marrow graft                          	234332000      	No     

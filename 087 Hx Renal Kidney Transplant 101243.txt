@@ -1,0 +1,37 @@
+Term                                                         	Code           	Retired
+Accelerated rejection of renal transplant                    	236572007      	No     
+Acute rejection of renal transplant                          	236574008      	No     
+Acute rejection of renal transplant - grade I                	236575009      	No     
+Acute rejection of renal transplant - grade II               	236576005      	No     
+Acute rejection of renal transplant - grade III              	236577001      	No     
+Acute-on-chronic rejection of renal transplant               	236582008      	No     
+Autotransplantation of kidney                                	175899003      	No     
+Chronic graft-versus-host disease following kidney transplant	128631000119109	No     
+Chronic rejection of renal transplant                        	236578006      	No     
+Chronic rejection of renal transplant - grade 1              	236579003      	No     
+Chronic rejection of renal transplant - grade II             	236580000      	No     
+Chronic rejection of renal transplant - grade III            	236581001      	No     
+Delayed renal graft function                                 	426136000      	No     
+Disorder of transplanted kidney                              	58797008       	No     
+Disorder related to renal transplantation                    	429451003      	No     
+End stage renal failure with renal transplant                	236436003      	No     
+Failed renal transplant                                      	236583003      	No     
+History of renal transplant                                  	161665007      	No     
+Hyperacute rejection of renal transplant                     	236571000      	No     
+Hypertension secondary to kidney transplant                  	428575007      	No     
+Kidney transplant failure and rejection                      	213150003      	No     
+Lymphoproliferative disorder following kidney transplant     	122531000119108	No     
+Perfusion injury of renal transplant                         	236584009      	No     
+Perirenal and periureteric post-transplant lymphocele        	236614007      	No     
+Post-renal transplant vesicoureteric reflux                  	703048006      	No     
+Pre-existing disease in renal transplant                     	277011002      	No     
+Primary non-function of renal transplant                     	236569000      	No     
+Recurrent post-transplant renal disease                      	707148007      	No     
+Renal transplant rejection                                   	236570004      	No     
+Transplant glomerulopathy                                    	236587002      	No     
+Transplant glomerulopathy - early form                       	236588007      	No     
+Transplant glomerulopathy - late form                        	236589004      	No     
+Transplant of kidney                                         	70536003       	No     
+Transplant renal artery stenosis                             	713825007      	No     
+Unexplained episode of renal transplant dysfunction          	277010001      	No     
+Very mild acute rejection of renal transplant                	236573002      	No     

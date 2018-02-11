@@ -1,0 +1,10 @@
+Term                                                           	Code           	Retired
+Central sleep apnea caused by high altitude                    	91441000119109 	No     
+Central sleep apnea caused by substance                        	724504007      	No     
+Central sleep apnea co-occurrent with Cheyne Stokes respiration	724506009      	No     
+Central sleep apnea due to periodic breathing                  	85721000119105 	No     
+Central sleep apnea syndrome                                   	27405005       	No     
+Central sleep apnea without Cheyne-Stokes respiration          	724507000      	No     
+Drug induced central sleep apnea                               	104831000119109	No     
+Mixed sleep apnea                                              	230493001      	No     
+Primary central sleep apnea                                    	9741000119101  	No     

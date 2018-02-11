@@ -1,0 +1,20 @@
+Term                                                               	Code            	Retired
+Adenocarcinoma of prostate                                         	399490008       	No     
+Carcinoma of prostate                                              	254900004       	No     
+Diffuse non-Hodgkin's lymphoma of prostate                         	448213004       	No     
+Endometrioid carcinoma of prostate                                 	278060005       	No     
+Familial prostate cancer                                           	715412008       	No     
+Follicular non-Hodgkin's lymphoma of prostate                      	448217003       	No     
+Hormone refractory prostate cancer                                 	427492003       	No     
+Hormone sensitive prostate cancer                                  	722103009       	No     
+Local recurrence of malignant tumor of prostate                    	314969001       	No     
+Malignant tumor involving prostate by direct extension from bladder	369485004       	No     
+Malignant tumor of prostate                                        	399068003       	No     
+Metastasis from malignant tumor of prostate                        	314994000       	No     
+Non-Hodgkin's lymphoma of prostate                                 	449318001       	No     
+Primary malignant neoplasm of prostate                             	93974005        	No     
+Prostate cancer metastatic to bone                                 	712849003       	No     
+Prostate cancer metastatic to eye                                  	96901000119105  	No     
+Recurrent malignant neoplasm of prostate                           	1098981000119101	No     
+Small cell carcinoma of prostate                                   	396198006       	No     
+Squamous cell carcinoma of prostate                                	399590005       	No     

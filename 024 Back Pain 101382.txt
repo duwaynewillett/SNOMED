@@ -1,0 +1,76 @@
+Term                                                         	Code             	Retired
+Acute back pain with sciatica                                	247366003        	No     
+Acute low back pain                                          	278862001        	No     
+Acute thoracic back pain                                     	279035001        	No     
+Back pain worse on sneezing                                  	161893008        	No     
+Backache                                                     	161891005        	No     
+Backache with radiation                                      	161892003        	No     
+C/O - low back pain                                          	161894002        	No     
+C/O - upper back ache                                        	161896000        	No     
+Chronic back pain                                            	134407002        	No     
+Chronic back pain greater than three months duration         	631000119102     	No     
+Chronic low back pain                                        	278860009        	No     
+Chronic pain in coccyx for more than three months            	129511000119105  	No     
+Chronic sacral pain for greater than three months            	129501000119107  	No     
+Chronic thoracic back pain                                   	136791000119103  	No     
+Closed spinal dislocation with cauda equina lesion           	209086000        	No     
+Complaining of backache                                      	418958006        	No     
+Compression of lumbar nerve root                             	299966003        	No     
+Compression of sacral nerve root                             	299967007        	No     
+Disorder characterized by back pain                          	399194009        	No     
+Exacerbation of backache                                     	135860001        	No     
+Facet joint pain                                             	247369005        	No     
+Intractable low back pain                                    	29930001000004103	No     
+Joint stiffness of spine                                     	298232006        	No     
+Lesion of left lumbosacral nerve root                        	16650241000119101	No     
+Lesion of right lumbosacral nerve root                       	16650341000119107	No     
+Low back pain                                                	279039007        	No     
+Low back pain co-occurrent with and due to bilateral sciatica	15968741000119100	No     
+Low back pain in pregnancy                                   	9121000119106    	No     
+Lumbago co-occurrent with right-side sciatica                	313501000119105  	No     
+Lumbago with sciatica                                        	202794004        	No     
+Lumbar ache - renal                                          	267067009        	No     
+Lumbar facet joint pain                                      	279063004        	No     
+Lumbar post-laminectomy syndrome                             	202725007        	No     
+Lumbar radiculopathy                                         	128196005        	No     
+Lumbar segmental dysfunction                                 	279042001        	No     
+Lumbar spine painful on movement                             	298674008        	No     
+Lumbar spine stiff                                           	298236009        	No     
+Lumbar trigger point syndrome                                	279041008        	No     
+Lumbosacral nerve root pain                                  	103016004        	No     
+Lumbosacral neuritis                                         	62195001         	No     
+Lumbosacral radiculitis                                      	46578006         	No     
+Lumbosacral radiculopathy                                    	2415007          	No     
+Lumbosacral spondylosis with root compression                	713911007        	No     
+Mechanical low back pain                                     	279040009        	No     
+O/E - lumbar pain on palpation                               	275316003        	No     
+Open spinal dislocation with cauda equina lesion             	209102002        	No     
+Pain in lumbar spine                                         	267982002        	No     
+Pain in spine                                                	48926009         	No     
+Pain in the coccyx                                           	34789001         	No     
+Pain in thoracic spine                                       	267981009        	No     
+Posterior compartment low back pain                          	247368002        	No     
+Post-laminectomy syndrome                                    	27151001         	No     
+Post-surgery back pain                                       	279049005        	No     
+Postural low back pain                                       	300957005        	No     
+Pseudoclaudication syndrome                                  	19033007         	No     
+Radiculopathy due to lumbar intervertebral disc disorder     	311211000119105  	No     
+Radiculopathy of lumbosacral spine due to disc disorder      	15972821000119108	No     
+Rebound tenderness of left lumbar                            	301417007        	No     
+Rebound tenderness of right lumbar                           	301416003        	No     
+Sacral back pain                                             	61486003         	No     
+Sacral radiculopathy                                         	128197001        	No     
+Sacrocoxalgia                                                	3200003          	No     
+Sacroiliac joint stiff                                       	298240000        	No     
+Stiff back                                                   	249921008        	No     
+Strain of thoracic region                                    	66540002         	No     
+Tenderness of left lumbar                                    	301408007        	No     
+Tenderness of right lumbar                                   	301407002        	No     
+Thoracic back pain                                           	279038004        	No     
+Thoracic facet joint pain                                    	298254008        	No     
+Thoracic nerve root pain                                     	103015000        	No     
+Thoracic post-laminectomy syndrome                           	202724006        	No     
+Thoracic segmental dysfunction                               	279037009        	No     
+Thoracic spine - painful on movement                         	298579007        	No     
+Thoracic spine stiff                                         	298235008        	No     
+Thoracic trigger point syndrome                              	279036000        	No     

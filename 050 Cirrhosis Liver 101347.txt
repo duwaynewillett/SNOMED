@@ -1,0 +1,58 @@
+Term                                           	Code           	Retired
+Advanced cirrhosis                             	123717006      	No     
+Alcoholic cirrhosis                            	420054005      	No     
+Bacterial portal cirrhosis                     	197303009      	No     
+Biliary cirrhosis                              	1761006        	No     
+Biliary cirrhosis of children                  	197310003      	No     
+Capsular portal cirrhosis                      	197296006      	No     
+Cardiac cirrhosis                              	74669004       	No     
+Cardiac portal cirrhosis                       	266470007      	No     
+Cholangiolitic cirrhosis                       	123606000      	No     
+Cirrhosis - non-alcoholic                      	266468003      	No     
+Cirrhosis and chronic liver disease            	197279005      	No     
+Cirrhosis of liver                             	19943007       	No     
+Cirrhosis of liver caused by amiodarone        	725939009      	No     
+Cirrhosis of liver caused by methotrexate      	725938001      	No     
+Cirrhosis of liver caused by methyldopa        	725940006      	No     
+Cirrhosis of liver due to chronic hepatitis C  	831000119103   	No     
+Cirrhosis of liver due to hepatitis B          	103611000119102	No     
+Cirrhosis secondary to cholestasis             	271440004      	No     
+Cirrhotic cardiomyopathy                       	725416005      	No     
+Clonorchiasis with biliary cirrhosis           	37688005       	No     
+Cruveilhier-Baumgarten syndrome                	45256007       	No     
+Cryptogenic cirrhosis                          	89580002       	No     
+Decompensated cirrhosis of liver               	716203000      	No     
+Diffuse nodular cirrhosis                      	197293003      	No     
+Drug-induced cirrhosis of liver                	425413006      	No     
+Early cirrhosis                                	371139006      	No     
+Fatty portal cirrhosis                         	197294009      	No     
+Florid cirrhosis                               	76301009       	No     
+Glissonian cirrhosis                           	536002         	No     
+Hepatic fibrosis with hepatic sclerosis        	235901004      	No     
+Hepatic sclerosis                              	235899008      	No     
+Hypoxia-associated cirrhosis                   	235897005      	No     
+Idiopathic copper associated cirrhosis of liver	715864007      	No     
+Indian childhood cirrhosis                     	6183001        	No     
+Infectious cirrhosis                           	235896001      	No     
+Intrahepatic phlebosclerosis and fibrosis      	235902006      	No     
+Juvenile portal cirrhosis                      	266471006      	No     
+Laennec's cirrhosis, non-alcoholic             	235895002      	No     
+Latent cirrhosis                               	123716002      	No     
+Macronodular cirrhosis                         	43904005       	No     
+Micronodular cirrhosis                         	21861000       	No     
+Mixed micro AND macronodular cirrhosis         	15999000       	No     
+Multilobular portal cirrhosis                  	266469006      	No     
+Nutritional cirrhosis                          	123605001      	No     
+Obstructive biliary cirrhosis                  	109819003      	No     
+Parasitic cirrhosis                            	33144001       	No     
+Pigment cirrhosis                              	78208005       	No     
+Pigmentary portal cirrhosis                    	197299004      	No     
+Portal cirrhosis                               	419728003      	No     
+Posthepatitic cirrhosis                        	27156006       	No     
+Postnecrotic cirrhosis                         	86454000       	No     
+Secondary biliary cirrhosis                    	12368000       	No     
+Syphilitic cirrhosis                           	16070004       	No     
+Syphilitic portal cirrhosis                    	197305002      	No     
+Toxic cirrhosis                                	123604002      	No     
+Toxic portal cirrhosis                         	197301006      	No     
+Unilobular portal cirrhosis                    	197291001      	No     

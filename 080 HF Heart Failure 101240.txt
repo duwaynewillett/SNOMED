@@ -1,0 +1,113 @@
+Term                                                                                       	Code             	Retired
+Acute combined systolic and diastolic heart failure                                        	153931000119109  	No     
+Acute congestive heart failure                                                             	10633002         	No     
+Acute cor pulmonale                                                                        	49584005         	No     
+Acute diastolic heart failure                                                              	443343001        	No     
+Acute exacerbation of chronic congestive heart failure                                     	698296002        	No     
+Acute heart failure                                                                        	56675007         	No     
+Acute heart failure co-occurrent with normal ejection fraction                             	7421000175106    	No     
+Acute kidney injury due to circulatory failure                                             	722095005        	No     
+Acute left ventricular failure                                                             	195114002        	No     
+Acute left-sided congestive heart failure                                                  	74960003         	No     
+Acute left-sided heart failure                                                             	364006           	No     
+Acute on chronic combined systolic and diastolic heart failure                             	153951000119103  	No     
+Acute on chronic diastolic heart failure                                                   	443344007        	No     
+Acute on chronic heart failure co-occurrent with normal ejection fraction                  	7401000175100    	No     
+Acute on chronic systolic heart failure                                                    	443253003        	No     
+Acute right-sided congestive heart failure                                                 	80479009         	No     
+Acute right-sided heart failure                                                            	359617009        	No     
+Acute systolic heart failure                                                               	443254009        	No     
+Ayerza's syndrome                                                                          	78862003         	No     
+Benign hypertensive heart disease with congestive cardiac failure                          	194767001        	No     
+Bernheim's syndrome                                                                        	13839000         	No     
+Biventricular congestive heart failure                                                     	92506005         	No     
+Cardiac asthma                                                                             	71892000         	No     
+Cardiac failure after obstetrical surgery AND/OR other procedure including delivery        	55565007         	No     
+Cardiac insufficiency due to prosthesis                                                    	5053004          	No     
+Cardiac insufficiency during AND/OR resulting from a procedure                             	89819002         	No     
+Cardiac insufficiency following cardiac surgery                                            	60856006         	No     
+Cardiorenal syndrome                                                                       	445236007        	No     
+Cardiorespiratory failure                                                                  	410431009        	No     
+Chronic combined systolic and diastolic heart failure                                      	153941000119100  	No     
+Chronic congestive heart failure                                                           	88805009         	No     
+Chronic cor pulmonale                                                                      	79955004         	No     
+Chronic diastolic heart failure                                                            	441530006        	No     
+Chronic heart failure                                                                      	48447003         	No     
+Chronic heart failure co-occurrent with normal ejection fraction                           	7411000175102    	No     
+Chronic left-sided congestive heart failure                                                	5375005          	No     
+Chronic left-sided heart failure                                                           	111283005        	No     
+Chronic right-sided congestive heart failure                                               	66989003         	No     
+Chronic right-sided heart failure                                                          	10335000         	No     
+Chronic systolic heart failure                                                             	441481004        	No     
+Compensated cardiac failure                                                                	195112003        	No     
+Congenital cardiac failure                                                                 	206586007        	No     
+Congestive heart failure                                                                   	42343007         	No     
+Congestive heart failure as early postoperative complication                               	72481000119103   	No     
+Congestive heart failure as post-operative complication of cardiac surgery                 	285211000119102  	No     
+Congestive heart failure as post-operative complication of non-cardiac surgery             	285221000119109  	No     
+Congestive heart failure due to cardiomyopathy                                             	101281000119107  	No     
+Congestive heart failure due to left ventricular systolic dysfunction                      	426263006        	No     
+Congestive heart failure due to valvular disease                                           	426611007        	No     
+Congestive heart failure stage B                                                           	717840005        	No     
+Congestive heart failure stage B due to ischemic cardiomyopathy                            	15629591000119103	No     
+Congestive heart failure stage C                                                           	67441000119101   	No     
+Congestive heart failure stage C due to Ischemic cardiomyopathy                            	15629541000119106	No     
+Congestive heart failure stage D                                                           	67431000119105   	No     
+Congestive heart failure with right heart failure                                          	23341000119109   	No     
+Congestive rheumatic heart failure                                                         	82523003         	No     
+Cor pulmonale                                                                              	83291003         	No     
+Decompensated cardiac failure                                                              	195111005        	No     
+Decompensated chronic heart failure                                                        	424404003        	No     
+Diastolic heart failure                                                                    	418304008        	No     
+Diastolic heart failure stage B                                                            	120901000119108  	No     
+Diastolic heart failure stage C                                                            	120891000119109  	No     
+Diastolic heart failure stage D                                                            	120881000119106  	No     
+Exacerbation of congestive heart failure                                                   	96311000119109   	No     
+Fetal heart failure                                                                        	462172006        	No     
+Fetal heart failure due to extracardiac disease                                            	704242009        	No     
+Fetal heart failure with myocardial hypertrophy                                            	462174007        	No     
+Fetal heart failure with redistribution of cardiac output                                  	462175008        	No     
+H/O: heart failure                                                                         	161505003        	No     
+H/O: Heart failure in last year                                                            	309634009        	No     
+Heart failure                                                                              	84114007         	No     
+Heart failure as a complication of care                                                    	233924009        	No     
+Heart failure due to end stage congenital heart disease                                    	471880001        	No     
+Heart failure with normal ejection fraction                                                	446221000        	No     
+Heart failure with reduced ejection fraction                                               	703272007        	No     
+Heart failure with reduced ejection fraction due to cardiomyopathy                         	703275009        	No     
+Heart failure with reduced ejection fraction due to coronary artery disease                	703273002        	No     
+Heart failure with reduced ejection fraction due to heart valve disease                    	703276005        	No     
+Heart failure with reduced ejection fraction due to myocarditis                            	703274008        	No     
+High output heart failure                                                                  	10091002         	No     
+Hypertensive heart AND chronic kidney disease with congestive heart failure                	15781000119107   	No     
+Hypertensive heart and renal disease with (congestive) heart failure                       	194779001        	No     
+Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	194781004        	No     
+Hypertensive heart disease with congestive heart failure                                   	5148006          	No     
+Hypertensive heart failure                                                                 	46113002         	No     
+Induced termination of pregnancy complicated by cardiac failure                            	609507007        	No     
+Left heart failure                                                                         	85232009         	No     
+Low cardiac output syndrome                                                                	44088000         	No     
+Low output heart failure                                                                   	25544003         	No     
+Malignant hypertensive heart disease with congestive heart failure                         	83105008         	No     
+Neonatal cardiac failure                                                                   	276514007        	No     
+Neonatal cardiac failure due to decreased left ventricular output                          	722919003        	No     
+Neonatal cardiac failure due to pulmonary overperfusion                                    	724550005        	No     
+Postvalvulotomy syndrome                                                                   	33644002         	No     
+Reduced ejection fraction co-occurrent and due to acute heart failure                      	7391000175102    	No     
+Reduced ejection fraction co-occurrent and due to acute on chronic heart failure           	7371000175103    	No     
+Reduced ejection fraction co-occurrent and due to chronic heart failure                    	7381000175100    	No     
+Refractory heart failure                                                                   	314206003        	No     
+Rheumatic left ventricular failure                                                         	43736008         	No     
+Right heart failure                                                                        	128404006        	No     
+Right heart failure due to pulmonary hypertension                                          	426012001        	No     
+Right heart failure secondary to left heart failure                                        	44313006         	No     
+Right ventricular failure                                                                  	367363000        	No     
+Sepsis-associated left ventricular failure                                                 	277638005        	No     
+Sepsis-associated right ventricular failure                                                	277639002        	No     
+Symptomatic congestive heart failure                                                       	698594003        	No     
+Systolic heart failure                                                                     	417996009        	No     
+Systolic heart failure stage B                                                             	120871000119108  	No     
+Systolic heart failure stage B due to ischemic cardiomyopathy                              	15629641000119107	No     
+Systolic heart failure stage C                                                             	120861000119102  	No     
+Systolic heart failure stage C due to ischemic cardiomyopathy                              	15629741000119102	No     
+Systolic heart failure stage D                                                             	120851000119104  	No     

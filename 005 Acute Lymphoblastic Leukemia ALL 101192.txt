@@ -1,0 +1,22 @@
+Term                                                                                           	Code          	Retired
+Acute biphenotypic leukemia                                                                    	278453007     	No     
+Acute lymphoblastic leukemia, transitional pre-B-cell                                          	371012000     	No     
+Acute lymphoid leukemia                                                                        	91857003      	No     
+Acute lymphoid leukemia in remission                                                           	91856007      	No     
+Acute lymphoid leukemia relapse                                                                	12301000132103	No     
+Adult T-cell leukemia/lymphoma                                                                 	110007008     	No     
+Aggressive natural killer-cell leukemia                                                        	721310007     	No     
+B lymphoblastic leukemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1                          	723889003     	No     
+B-cell acute lymphoblastic leukemia                                                            	277571004     	No     
+Common acute lymphoblastic leukemia                                                            	277573001     	No     
+Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia             	61301000119102	No     
+Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia in remission	61291000119103	No     
+Leukemic infiltration of skin (T-cell lymphoblastic leukemia)                                  	404124002     	No     
+Null cell acute lymphoblastic leukemia                                                         	277574007     	No     
+Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukemia                 	714251006     	No     
+Philadelphia chromosome-positive acute lymphoblastic leukemia                                  	425688002     	No     
+Pre B-cell acute lymphoblastic leukemia                                                        	277572006     	No     
+Pre B-cell acute lymphoblastic leukemia in remission                                           	425941003     	No     
+Refractory acute lymphoid leukemia                                                             	12311000132101	No     
+T-cell acute lymphoblastic leukemia                                                            	277575008     	No     
+T-cell acute lymphoblastic leukemia in remission                                               	427642009     	No     

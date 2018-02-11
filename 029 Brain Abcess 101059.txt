@@ -1,0 +1,17 @@
+Term                                         	Code            	Retired
+Abscess of brain                             	441806004       	No     
+Abscess of medulla oblongata                 	428544003       	No     
+Abscess of pituitary                         	62206004        	No     
+Actinomycotic brain abscess                  	230209006       	No     
+Amebic brain abscess                         	27908001        	No     
+Brainstem pyogenic abscess                   	230210001       	No     
+Candidal brain abscess                       	230213004       	No     
+Cerebellar abscess                           	79897009        	No     
+Cerebellar pyogenic abscess                  	303061003       	No     
+Cerebral abscess                             	60404007        	No     
+Cerebral pyogenic abscess                    	230208003       	No     
+Gonococcal abscess of brain                  	1086991000119103	No     
+Infection causing multiple abscesses of brain	724543006       	No     
+Multiple intracranial pyogenic abscesses     	230211002       	No     
+Pheohyphomycotic brain abscess               	187080002       	No     
+Tuberculous abscess of brain                 	186217006       	No     

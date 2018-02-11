@@ -1,0 +1,95 @@
+Term                                                                                   	Code     	Retired
+Adult onset autosomal recessive muscular dystrophy with normal dystrophin              	240065009	No     
+Autosomal dominant limb girdle muscular dystrophy type 1A                              	719985001	No     
+Autosomal dominant limb girdle muscular dystrophy type 1B                              	718178006	No     
+Autosomal dominant limb girdle muscular dystrophy type 1C                              	719986000	No     
+Autosomal dominant limb girdle muscular dystrophy type 1D                              	719987009	No     
+Autosomal dominant limb girdle muscular dystrophy type 1E                              	719988004	No     
+Autosomal dominant limb girdle muscular dystrophy type 1F                              	719989007	No     
+Autosomal dominant limb girdle muscular dystrophy type 1G                              	719990003	No     
+Autosomal dominant muscular dystrophy not predominantly limb girdle                    	240075007	No     
+Autosomal dominant muscular dystrophy with gene located at 5q31                        	240068006	No     
+Autosomal dominant muscular dystrophy with limb girdle distribution                    	240067001	No     
+Autosomal recessive limb girdle muscular dystrophy type 2A                             	715341003	No     
+Autosomal recessive limb girdle muscular dystrophy type 2B                             	718179003	No     
+Autosomal recessive limb girdle muscular dystrophy type 2C                             	718176005	No     
+Autosomal recessive limb girdle muscular dystrophy type 2D                             	715340002	No     
+Autosomal recessive limb girdle muscular dystrophy type 2E                             	718850008	No     
+Autosomal recessive limb girdle muscular dystrophy type 2F                             	718177001	No     
+Autosomal recessive limb girdle muscular dystrophy type 2G                             	720522001	No     
+Autosomal recessive limb girdle muscular dystrophy type 2I                             	718180000	No     
+Autosomal recessive limb girdle muscular dystrophy type 2J                             	725042001	No     
+Autosomal recessive limb girdle muscular dystrophy type 2K                             	720523006	No     
+Autosomal recessive limb girdle muscular dystrophy type 2L                             	726616006	No     
+Autosomal recessive limb girdle muscular dystrophy type 2M                             	726618007	No     
+Autosomal recessive limb girdle muscular dystrophy type 2N                             	726617002	No     
+Autosomal recessive limb girdle muscular dystrophy type 2O                             	725043006	No     
+Autosomal recessive limb girdle muscular dystrophy type 2P                             	726614009	No     
+Autosomal recessive limb girdle muscular dystrophy type 2Q                             	726615005	No     
+Autosomal recessive limb girdle muscular dystrophy type 2R                             	732931006	No     
+Autosomal recessive limb girdle muscular dystrophy type 2S                             	732929002	No     
+Autosomal recessive limb girdle muscular dystrophy type 2T                             	732930007	No     
+Autosomal recessive limb girdle muscular dystrophy type 2Y                             	725907002	No     
+Autosomal recessive muscular dystrophy not predominantly limb girdle                   	240073000	No     
+Autosomal recessive muscular dystrophy with abnormal dystrophin-associated glycoprotein	240055003	No     
+Autosomal recessive muscular dystrophy with gene located at 15q                        	240057006	No     
+Autosomal recessive muscular dystrophy with limb girdle distribution                   	240054004	No     
+Becker muscular dystrophy                                                              	387732009	No     
+Benign congenital muscular dystrophy with finger flexion contractures                  	240078009	No     
+Benign scapuloperoneal muscular dystrophy                                              	240076008	No     
+Benign scapuloperoneal muscular dystrophy with cardiomyopathy                          	240072005	No     
+Bethlem myopathy                                                                       	718572004	No     
+Congenital hereditary muscular dystrophy                                               	111501005	No     
+Congenital muscular dystrophy                                                          	240059009	No     
+Congenital muscular dystrophy Paradas type                                             	725420009	No     
+Congenital muscular dystrophy with arthrogryposis multiplex congenita                  	240061000	No     
+Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome        	715429006	No     
+Congenital muscular hypertrophy-cerebral syndrome                                      	55016009 	No     
+Distal muscular dystrophy                                                              	58795000 	No     
+Distal muscular dystrophy with juvenile onset                                          	193230001	No     
+Distal muscular dystrophy, Miyoshi type                                                	111506000	No     
+Distal myopathy 2                                                                      	702383005	No     
+Distal myopathy Welander type                                                          	726107008	No     
+Distal myopathy with early respiratory muscle involvement                              	733490006	No     
+Distal myopathy with posterior leg and anterior hand involvement                       	733489002	No     
+Duchenne muscular dystrophy                                                            	76670001 	No     
+Early onset myopathy with fatal cardiomyopathy                                         	702343002	No     
+Eichsfeld type congenital muscular dystrophy                                           	240063002	No     
+Emery-Dreifuss muscular dystrophy                                                      	111508004	No     
+Epidermolysis bullosa simplex with muscular dystrophy                                  	723308003	No     
+Erb's muscular dystrophy                                                               	78468005 	No     
+Facioscapulohumeral muscular dystrophy                                                 	399091004	No     
+Fukuyama congenital muscular dystrophy                                                 	111502003	No     
+Hereditary myopathy limited to females                                                 	240053005	No     
+Hereditary progressive muscular dystrophy                                              	193225000	No     
+Hutterite type of muscular dystrophy                                                   	240064008	No     
+Intermediate X-linked muscular dystrophy                                               	240049008	No     
+Ji muscular dystrophy                                                                  	240052000	No     
+Late onset proximal muscular dystrophy with dysarthria                                 	240069003	No     
+Limb-girdle muscular dystrophy                                                         	93153005 	No     
+Manifesting female carrier of X-linked muscular dystrophy                              	240050008	No     
+Menopausal muscular dystrophy syndrome                                                 	129596006	No     
+Merosin deficient congenital muscular dystrophy                                        	111503008	No     
+Muscle-eye-brain disease, congenital muscular dystrophy                                	111505001	No     
+Muscular dystrophy                                                                     	73297009 	No     
+Muscular dystrophy not predominantly limb girdle in distribution                       	240070002	No     
+Muscular dystrophy with predominantly proximal limb girdle distribution                	240046001	No     
+Muscular dystrophy-deafmutism syndrome                                                 	111500006	No     
+Ocular muscular dystrophy                                                              	67747009 	No     
+Oculopharyngeal muscular dystrophy                                                     	77097004 	No     
+Pelvic muscular dystrophy                                                              	193227008	No     
+Reunion-Indiana Amish type muscular dystrophy                                          	240058001	No     
+Scapulohumeral muscular dystrophy                                                      	240074006	No     
+Scapuloperoneal muscular dystrophy                                                     	129620000	No     
+Severe autosomal recessive muscular dystrophy of childhood - North African type        	240056002	No     
+Severe childhood autosomal recessive muscular dystrophy                                	277373000	No     
+Severe scapuloperoneal muscular dystrophy with cardiomyopathy                          	240077004	No     
+Steinert myotonic dystrophy syndrome                                                   	77956009 	No     
+Tibial muscular dystrophy                                                              	698846009	No     
+Ullrich congenital muscular dystrophy                                                  	240062007	No     
+Walker-Warburg congenital muscular dystrophy                                           	111504002	No     
+Western type of congenital muscular dystrophy                                          	240060004	No     
+X-linked limb girdle muscular dystrophy with normal dystrophin                         	240051007	No     
+X-linked muscular dystrophy not predominantly limb girdle                              	240071003	No     
+X-linked muscular dystrophy with abnormal dystrophin                                   	240048000	No     
+X-linked muscular dystrophy with limb girdle distribution                              	240047005	No     

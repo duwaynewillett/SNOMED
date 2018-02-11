@@ -1,0 +1,6 @@
+Term                                                	Code     	Retired
+Acute drug-induced interstitial lung disorder       	196052005	No     
+Chronic drug-induced interstitial lung disorders    	196053000	No     
+Drug induced pulmonary fibrosis                     	713244007	No     
+Drug-induced diffuse interstitial pulmonary fibrosis	233725001	No     
+Drug-induced interstitial lung disorder             	196051003	No     

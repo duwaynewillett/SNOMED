@@ -1,0 +1,20 @@
+Term                                                           	Code           	Retired
+Corneal allograft rejection                                    	314002005      	No     
+Corneal endothelial allograft rejection                        	420505005      	No     
+Corneal epithelial allograft rejection                         	421187003      	No     
+Corneal graft astigmatism                                      	314552006      	No     
+Corneal graft disorder                                         	314551004      	No     
+Corneal graft failure                                          	314760005      	No     
+Corneal graft infection                                        	314553001      	No     
+Corneal graft rejection                                        	95742008       	No     
+Corneal graft vascularization                                  	314554007      	No     
+Corneal subepithelial allograft rejection                      	420571002      	No     
+Corneal transplant                                             	60656008       	No     
+Epikeratophakia                                                	40464001       	No     
+Excision of pterygium with amnion graft                        	434351000124103	No     
+Excision of pterygium with conjunctival graft                  	434361000124101	No     
+Limbal stem cell transplantation                               	397554006      	No     
+Operation on pterygium with corneal graft                      	40485001       	No     
+Primary failure of corneal graft after penetrating keratoplasty	433087001      	No     
+Rejection of corneal graft after penetrating keratoplasty      	432265007      	No     
+Repair of filtering bleb by corneal graft                      	28242004       	No     

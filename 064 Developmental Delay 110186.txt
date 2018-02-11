@@ -1,0 +1,336 @@
+Term                                                                                                            	Code             	Retired
+17q11.2 microduplication syndrome                                                                               	719583002        	No     
+19q13.11 microdeletion syndrome                                                                                 	719599008        	No     
+1p21.3 microdeletion syndrome                                                                                   	719600006        	No     
+5-amino-4-imidazole carboxamide ribosiduria                                                                     	725289009        	No     
+Achalasia microcephaly syndrome                                                                                 	718573009        	No     
+Active but odd autism                                                                                           	442314000        	No     
+Active infantile autism                                                                                         	191689008        	No     
+Agammaglobulinemia, microcephaly, craniosynostosis, severe dermatitis syndrome                                  	722281001        	No     
+Agenesis of corpus callosum, intellectual disability, coloboma, micrognathia syndrome                           	722282008        	No     
+Alopecia and intellectual disability with hypergonadotropic hypogonadism syndrome                               	720981000        	No     
+Alopecia, contracture, dwarfism, intellectual disability syndrome                                               	720979002        	No     
+Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome                           	720982007        	No     
+Aniridia and intellectual disability syndrome                                                                   	720468000        	No     
+Aniridia, renal agenesis, psychomotor retardation syndrome                                                      	733116005        	No     
+Apraxia, developmental                                                                                          	275271004        	No     
+Arachnodactyly and intellectual disability with facial dysmorphism syndrome                                     	720502000        	No     
+Arachnodactyly with abnormal ossification and intellectual disability syndrome                                  	720501007        	No     
+Articulation disorder due to hyperkinesis                                                                       	427145007        	No     
+Articulatory dyspraxia                                                                                          	229698003        	No     
+Asperger's disorder                                                                                             	23560001         	No     
+Ataxia with deafness and intellectual disability syndrome                                                       	720517001        	No     
+Atypical autism                                                                                                 	231536004        	No     
+Atypical Rett syndrome                                                                                          	718393002        	No     
+Autism and facial port-wine stain syndrome                                                                      	722287002        	No     
+Autism spectrum disorder                                                                                        	35919005         	No     
+Autism spectrum disorder, epilepsy, arthrogryposis syndrome                                                     	733623005        	No     
+Autistic disorder                                                                                               	408856003        	No     
+Autistic disorder of childhood onset                                                                            	43614003         	No     
+Autistic spectrum disorder with isolated skills                                                                 	373618009        	No     
+Bardet-Biedl syndrome                                                                                           	5619004          	No     
+Blepharonasofacial malformation syndrome                                                                        	717913006        	No     
+Bohring Opitz syndrome                                                                                          	720565000        	No     
+Borderline cognitive developmental delay                                                                        	18541000119100   	No     
+Borderline mental retardation (I.Q. 70-85)                                                                      	77287004         	No     
+Borjeson-Forssman-Lehmann syndrome                                                                              	21634003         	No     
+Brachydactyly and preaxial hallux varus syndrome                                                                	732957009        	No     
+Branchial dysplasia, intellectual disability, inguinal hernia syndrome                                          	732961003        	No     
+BRESEK syndrome                                                                                                 	717945001        	No     
+BSG syndrome                                                                                                    	719097002        	No     
+Bullous dystrophy macular type                                                                                  	725589005        	No     
+C syndrome                                                                                                      	715409005        	No     
+CAMOS syndrome                                                                                                  	726031001        	No     
+Cardiocranial syndrome Pfeiffer type                                                                            	720606005        	No     
+CASK related intellectual disability                                                                            	703389002        	No     
+Central nervous system calcification, deafness, tubular acidosis, anemia syndrome                               	726669007        	No     
+Cerebro-facio-thoracic dysplasia                                                                                	720635002        	No     
+Cerebrooculonasal syndrome                                                                                      	720855003        	No     
+Childhood onset fluency disorder                                                                                	288271000119103  	No     
+Chromosome Xp11.3 microdeletion syndrome                                                                        	719808002        	No     
+Chudley Lowry Hoar syndrome                                                                                     	717763008        	No     
+Classic apraxia                                                                                                 	229706001        	No     
+Clumsiness - motor delay                                                                                        	307653008        	No     
+Coffin-Siris syndrome                                                                                           	10007009         	No     
+Cognitive developmental delay                                                                                   	425805004        	No     
+Coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability ear anomaly syndrome      	720639008        	No     
+Congenital and developmental myasthenia                                                                         	193216006        	No     
+Congenital auditory imperception                                                                                	229748008        	No     
+Congenital cataract with ataxia and deafness syndrome                                                           	719102004        	No     
+Congenital cataract with deafness and hypogonadism syndrome                                                     	722378009        	No     
+Congenital cataract with hypertrichosis and intellectual disability syndrome                                    	722379001        	No     
+Congenital hypoplasia of ulna and intellectual disability syndrome                                              	719842006        	No     
+Contracture with ectodermal dysplasia and orofacial cleft syndrome                                              	720746006        	No     
+Cooper Jabs syndrome                                                                                            	720748007        	No     
+Cortical blindness, intellectual disability, polydactyly syndrome                                               	732251003        	No     
+Cutis laxa-corneal clouding-oligophrenia syndrome                                                               	59252009         	No     
+Cystic fibrosis with gastritis and megaloblastic anemia syndrome                                                	720401009        	No     
+Cystic leukoencephalopathy without megalencephaly                                                               	720825005        	No     
+Deafness and intellectual disability Martin Probst type syndrome                                                	721087008        	No     
+Deafness, genital anomaly, metacarpal and metatarsal synostosis syndrome                                        	721086004        	No     
+Delayed pre-verbal development                                                                                  	229740001        	No     
+DEND syndrome                                                                                                   	721088003        	No     
+Developmental academic disorder                                                                                 	1855002          	No     
+Developmental agnosia                                                                                           	231537008        	No     
+Developmental aphasia                                                                                           	268673009        	No     
+Developmental arithmetic disorder                                                                               	47916000         	No     
+Developmental articulation disorder                                                                             	386701004        	No     
+Developmental articulatory dyspraxia                                                                            	229701006        	No     
+Developmental coordination disorder                                                                             	27544004         	No     
+Developmental delay                                                                                             	248290002        	No     
+Developmental delay in feeding                                                                                  	426881004        	No     
+Developmental delay in fine motor function                                                                      	703477003        	No     
+Developmental delay in receptive-expressive language                                                            	702528003        	No     
+Developmental delay in social skills                                                                            	703478008        	No     
+Developmental delay of fine motor function                                                                      	12367551000119100	No     
+Developmental disorder of motor function                                                                        	268674003        	No     
+Developmental dyslexia                                                                                          	192138007        	No     
+Developmental expressive language disorder                                                                      	268734000        	No     
+Developmental expressive writing disorder                                                                       	45677003         	No     
+Developmental language comprehension impairment                                                                 	716578009        	No     
+Developmental language disorder                                                                                 	280032002        	No     
+Developmental language impairment                                                                               	229729009        	No     
+Developmental mental disorder                                                                                   	129104009        	No     
+Developmental motor speech disorder                                                                             	229700007        	No     
+Developmental reading disorder                                                                                  	52824009         	No     
+Developmental receptive language disorder                                                                       	187921002        	No     
+Developmental semantic impairment                                                                               	229745006        	No     
+Developmental speech disorder                                                                                   	1145003          	No     
+Developmental speech fluency disorder                                                                           	724651001        	No     
+Developmental syntactic impairment                                                                              	229744005        	No     
+Developmental verbal dyspraxia                                                                                  	229703009        	No     
+Discourse difficulties                                                                                          	310814007        	No     
+Disorder of fluency                                                                                             	229621000        	No     
+Disorder of psychological development                                                                           	192562009        	No     
+Disorder of sex development with intellectual disability syndrome                                               	719450007        	No     
+Disorder of speech and language development                                                                     	268672004        	No     
+DOORS syndrome                                                                                                  	719800009        	No     
+Dyspraxia of velopharynx                                                                                        	229707005        	No     
+Early childhood developmental disability                                                                        	716710007        	No     
+Early onset parkinsonism and intellectual disability syndrome                                                   	716107009        	No     
+Ectodermal dysplasia with blindness syndrome                                                                    	721208007        	No     
+Ectodermal dysplasia, intellectual disability, central nervous system malformation syndrome                     	734017008        	No     
+Encephalopathy, intracerebral calcification, retinal degeneration syndrome                                      	733049004        	No     
+Epilepsy telangiectasia syndrome                                                                                	733032006        	No     
+Epilepsy, microcephaly, skeletal dysplasia syndrome                                                             	733031004        	No     
+Expressive language delay                                                                                       	229734008        	No     
+Expressive language disorder                                                                                    	229733002        	No     
+Facial dysmorphism, macrocephaly, myopia, Dandy-Walker malformation syndrome                                    	733417008        	No     
+Faciocardiorenal syndrome                                                                                       	723333000        	No     
+Fallot complex with intellectual disability and growth delay syndrome                                           	723336008        	No     
+Female restricted epilepsy with intellectual disability syndrome                                                	716706009        	No     
+Filippi syndrome                                                                                                	720954000        	No     
+Fine Lubinsky syndrome                                                                                          	720955004        	No     
+Fluency disorder due to and following hemorrhagic cerebrovascular accident                                      	672491000119106  	No     
+Fountain syndrome                                                                                               	720957007        	No     
+FOXG1 syndrome                                                                                                  	702450004        	No     
+Frank-Ter Haar syndrome                                                                                         	720958002        	No     
+FRAXE intellectual disability syndrome                                                                          	716709002        	No     
+Fried syndrome                                                                                                  	718848000        	No     
+Global developmental delay                                                                                      	224958001        	No     
+Global developmental delay, osteopenia, ectodermal defect syndrome                                              	717813005        	No     
+Goldberg Shprintzen megacolon syndrome                                                                          	717822006        	No     
+Goldblatt Wallis syndrome                                                                                       	716096005        	No     
+Gross motor development delay                                                                                   	430099007        	No     
+Hair defect with photosensitivity and intellectual disability syndrome                                          	721007005        	No     
+Hall Riggs syndrome                                                                                             	721008000        	No     
+Harrod syndrome                                                                                                 	716089008        	No     
+High-functioning autism                                                                                         	702732007        	No     
+Holmes Gang syndrome                                                                                            	721224008        	No     
+Hypotrichosis and intellectual disability syndrome Lopes type                                                   	723365002        	No     
+Immature articulatory praxis                                                                                    	229699006        	No     
+Infantile autism                                                                                                	408857007        	No     
+Infantile choroidocerebral calcification syndrome                                                               	724228005        	No     
+Intellectual developmental disorder due to nutritional deficiency                                               	724564005        	No     
+Intellectual disability Buenos Aires type                                                                       	725906006        	No     
+Intellectual disability with cataract and kyphosis syndrome                                                     	722003007        	No     
+Intellectual disability, cataract, calcified pinna, myopathy syndrome                                           	726709001        	No     
+Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome                     	722454003        	No     
+Intellectual disability, developmental delay, contracture syndrome                                              	722456001        	No     
+Intellectual disability, epilepsy, bulbous nose syndrome                                                        	721146009        	No     
+Intellectual disability, hypoplastic corpus callosum, preauricular tag syndrome                                 	722455002        	No     
+Isodicentric chromosome 15 syndrome                                                                             	723332005        	No     
+Juberg Marsidi syndrome                                                                                         	721875000        	No     
+Kabuki make-up syndrome                                                                                         	313426007        	No     
+Kapur Toriello syndrome                                                                                         	722031003        	No     
+Karandikar Maria Kamble syndrome                                                                                	715989002        	No     
+Kawashima Tsuji syndrome                                                                                        	716112005        	No     
+Kleefstra syndrome                                                                                              	724207001        	No     
+Kohlschutter's syndrome                                                                                         	109478007        	No     
+Koolen De Vries syndrome                                                                                        	717338006        	No     
+L1 syndrome                                                                                                     	716996008        	No     
+Laryngeal abductor paralysis with intellectual disability syndrome                                              	724178000        	No     
+Laurence-Moon syndrome                                                                                          	232059000        	No     
+Lipodystrophy, intellectual disability, deafness syndrome                                                       	721973006        	No     
+Lowry MacLean syndrome                                                                                          	721974000        	No     
+Mabry syndrome                                                                                                  	33982008         	No     
+Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome                         	722459008        	No     
+Marfanoid habitus with autosomal recessive intellectual disability syndrome                                     	733062000        	No     
+Martsolf syndrome                                                                                               	722380003        	No     
+McDonough syndrome                                                                                              	715441004        	No     
+MEDNIK syndrome                                                                                                 	722035007        	No     
+Megalocornea with intellectual disability syndrome                                                              	733522005        	No     
+Mehes syndrome                                                                                                  	716199000        	No     
+MEHMO syndrome                                                                                                  	722037004        	No     
+Mental retardation                                                                                              	91138005         	No     
+Mental retardation, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth            	412787009        	No     
+Metaphyseal dysostosis, intellectual disability, conductive deafness syndrome                                   	733419006        	No     
+Methyl-cytosine phosphate guanine binding protein-2 duplication syndrome                                        	702816000        	No     
+Microbrachycephaly, ptosis, cleft lip syndrome                                                                  	723403008        	No     
+Microcephalus and intellectual disability with phalangeal and neurological anomaly syndrome                     	719396000        	No     
+Microcephalus cardiomyopathy syndrome                                                                           	719380003        	No     
+Microcephalus, digital anomaly, intellectual disability syndrome                                                	733090001        	No     
+Microcephalus, glomerulonephritis, marfanoid habitus syndrome                                                   	733472005        	No     
+Microcephaly, seizure, intellectual disability, heart disease syndrome                                          	723304001        	No     
+Microphthalmia with ankyloblepharon and intellectual disability syndrome                                        	717222003        	No     
+Mild developmental articulation disorder                                                                        	89361000119103   	No     
+Mild expressive language delay                                                                                  	62231000119108   	No     
+Mild mental retardation (I.Q. 50-70)                                                                            	86765009         	No     
+Mild receptive language delay                                                                                   	89501000119108   	No     
+Mixed acquired dyspraxia                                                                                        	229705002        	No     
+Mixed developmental disorder                                                                                    	442059001        	No     
+Mixed disorder of psychological development                                                                     	192147004        	No     
+Mixed disorder of scholastic skills                                                                             	192575009        	No     
+Mixed receptive-expressive language disorder                                                                    	25766007         	No     
+Moderate expressive language delay                                                                              	62211000119103   	No     
+Moderate mental retardation (I.Q. 35-49)                                                                        	61152003         	No     
+Moderate receptive language delay                                                                               	89381000119107   	No     
+MOMO syndrome                                                                                                   	724137002        	No     
+MORM syndrome                                                                                                   	715628009        	No     
+Motor skill disorder                                                                                            	4949009          	No     
+Motor speech disorder                                                                                           	229683000        	No     
+Mowat-Wilson syndrome                                                                                           	703535000        	No     
+Neurodevelopmental disorder                                                                                     	700364009        	No     
+Neurofaciodigitorenal syndrome                                                                                  	725908007        	No     
+Non-progressive cerebellar ataxia with intellectual disability                                                  	723441001        	No     
+Nonverbal learning disorder                                                                                     	443735008        	No     
+Nutritional mental retardation                                                                                  	238110009        	No     
+O/E - speech delay                                                                                              	391099000        	No     
+Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome                             	722051004        	No     
+Oculocerebrofacial syndrome Kaufman type                                                                        	722056009        	No     
+Oculopalatocerebral syndrome                                                                                    	722055008        	No     
+Ohdo syndrome, Maat-Kievit-Brunner type                                                                         	699297004        	No     
+Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant                                                       	699298009        	No     
+Okamoto syndrome                                                                                                	722065002        	No     
+Oliver syndrome                                                                                                 	721017000        	No     
+On examination - neurodevelopmental disorder                                                                    	700371004        	No     
+Oral dyspraxia                                                                                                  	361275004        	No     
+Oral-verbal dyspraxia                                                                                           	229697008        	No     
+Oro-facial digital syndrome type 10                                                                             	722075004        	No     
+Oro-facial digital syndrome type 11                                                                             	718681002        	No     
+Oro-facial digital syndrome type 5                                                                              	722105002        	No     
+Oro-facial digital syndrome type 8                                                                              	722106001        	No     
+Oro-facial digital syndrome type 9                                                                              	718680001        	No     
+Ossification anomaly with psychomotor developmental delay syndrome                                              	722107005        	No     
+Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome                                	722110003        	No     
+Osteopenia, intellectual disability, sparse hair syndrome                                                       	732954002        	No     
+Osteopenia, myopia, hearing loss, intellectual disability, facial dysmorphism syndrome                          	722111004        	No     
+Pallister W syndrome                                                                                            	719020006        	No     
+Paraplegia, brachydactyly, cone-shaped epiphysis syndrome                                                       	725292008        	No     
+Partington syndrome                                                                                             	702412005        	No     
+Pathological demand avoidance                                                                                   	712884004        	No     
+Perniola Krajewska Carnevale syndrome                                                                           	716191002        	No     
+Pervasive developmental disorder of residual state                                                              	39951000119105   	No     
+Pettigrew syndrome                                                                                              	719139003        	No     
+Phosphoribosylpyrophosphate synthetase superactivity                                                            	723454008        	No     
+PPM-X syndrome                                                                                                  	702356009        	No     
+Preaxial polydactyly, colobomata, intellectual disability syndrome                                              	733088002        	No     
+Prieto Badia Mulas syndrome                                                                                     	719140001        	No     
+Profound mental retardation (I.Q. below 20)                                                                     	31216003         	No     
+Pseudoprogeria syndrome                                                                                         	733086003        	No     
+Psychomotor retardation due to S-adenosylhomocysteine hydrolase deficiency                                      	724039002        	No     
+Radioulnar synostosis with developmental delay and hypotonia syndrome                                           	721883006        	No     
+Ramos Arroyo syndrome                                                                                           	723504000        	No     
+Receptive language delay                                                                                        	229736005        	No     
+Receptive language disorder                                                                                     	367515004        	No     
+Renier Gabreels Jasper syndrome                                                                                 	723501008        	No     
+Renpenning syndrome                                                                                             	699669001        	No     
+Residual Asperger's disorder                                                                                    	708037001        	No     
+Residual infantile autism                                                                                       	191690004        	No     
+Restricted expressive language development                                                                      	229742009        	No     
+Restricted language development                                                                                 	229741002        	No     
+Restricted receptive language development                                                                       	229743004        	No     
+Retardation of physical development                                                                             	442168001        	No     
+Retinitis pigmentosa, intellectual disability, deafness, hypogenitalism syndrome                                	724001005        	No     
+Rett's disorder                                                                                                 	68618008         	No     
+Savant syndrome                                                                                                 	432091002        	No     
+SCARF syndrome                                                                                                  	734173003        	No     
+Scholte syndrome                                                                                                	722002002        	No     
+Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome                	721207002        	No     
+Seizures and intellectual disability due to hydroxylysinuria                                                    	723994004        	No     
+Severe expressive language delay                                                                                	62221000119105   	No     
+Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome                   	723676007        	No     
+Severe mental retardation (I.Q. 20-34)                                                                          	40700009         	No     
+Severe receptive language delay                                                                                 	89391000119105   	No     
+Severe X-linked intellectual disability Gustavson type                                                          	722213009        	No     
+Shprintzen Goldberg craniosynostosis syndrome                                                                   	719069008        	No     
+Skeletal dysplasia with intellectual disability syndrome                                                        	722478008        	No     
+Snyder-Robinson syndrome                                                                                        	702416008        	No     
+Spastic paraplegia with precocious puberty syndrome                                                             	732958004        	No     
+Spastic paraplegia, glaucoma, intellectual disability syndrome                                                  	733455003        	No     
+Spastic paraplegia, intellectual disability, palmoplantar hyperkeratosis syndrome                               	722209002        	No     
+Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome                                     	723621000        	No     
+Specific number difficulty                                                                                      	359661001        	No     
+Specific reading disorder                                                                                       	192136006        	No     
+Specific spelling disorder                                                                                      	268738002        	No     
+Speech and language developmental delay due to hearing loss                                                     	441719005        	No     
+Speech and language dyspraxias                                                                                  	278920007        	No     
+Speech delay                                                                                                    	229721007        	No     
+Spondyloepiphyseal dysplasia tarda Kohn type                                                                    	719202006        	No     
+Spondyloepiphyseal dysplasia, craniosynostosis, cleft palate, cataract and intellectual disability syndrome     	718766002        	No     
+Syndromic X-linked intellectual disability due to JARID1C mutation                                              	719161008        	No     
+Syndromic X-linked intellectual disability type 11                                                              	718900002        	No     
+Syndromic X-linked intellectual disability type 7                                                               	719160009        	No     
+Temple Baraitser syndrome                                                                                       	725140007        	No     
+Temtamy syndrome                                                                                                	719947004        	No     
+Thumb stiffness, brachydactyly, intellectual disability syndrome                                                	733117001        	No     
+Tongue tip dyspraxia                                                                                            	229709008        	No     
+Toriello Carey syndrome                                                                                         	722477003        	No     
+Trisomy 10p                                                                                                     	717157006        	No     
+Trisomy Xq28 syndrome                                                                                           	719909009        	No     
+Uveal coloboma with cleft lip and palate and intellectual disability syndrome                                   	719042007        	No     
+Van den Bosch syndrome                                                                                          	733110004        	No     
+Velar dyspraxia                                                                                                 	229708000        	No     
+Verbal dyspraxia                                                                                                	361277007        	No     
+Visceral neuropathy and brain anomaly with facial dysmorphism and developmental delay syndrome                  	719833004        	No     
+Weaver Williams syndrome                                                                                        	726670008        	No     
+Wilson Turner syndrome                                                                                          	719834005        	No     
+Wolf Hirschhorn syndrome                                                                                        	718226002        	No     
+Word finding difficulty                                                                                         	229738006        	No     
+X-linked epilepsy with learning disability and behavior disorder syndrome                                       	717223008        	No     
+X-linked intellectual disability Abidi type                                                                     	719018008        	No     
+X-linked intellectual disability and epilepsy with progressive joint contracture and facial dysmorphism syndrome	719155005        	No     
+X-linked intellectual disability and hypotonia with facial dysmorphism and aggressive behavior syndrome         	719157002        	No     
+X-linked intellectual disability Armfield type                                                                  	719017003        	No     
+X-linked intellectual disability Brooks type                                                                    	725912001        	No     
+X-linked intellectual disability Cabezas type                                                                   	719811001        	No     
+X-linked intellectual disability Cantagrel type                                                                 	719016007        	No     
+X-linked intellectual disability Cilliers type                                                                  	719013004        	No     
+X-linked intellectual disability Hedera type                                                                    	726727003        	No     
+X-linked intellectual disability Miles Carpenter type                                                           	719012009        	No     
+X-linked intellectual disability Nascimento type                                                                	726732002        	No     
+X-linked intellectual disability Pai type                                                                       	719011002        	No     
+X-linked intellectual disability Schimke type                                                                   	719010001        	No     
+X-linked intellectual disability Seemanova type                                                                 	718897009        	No     
+X-linked intellectual disability Shrimpton type                                                                 	718905007        	No     
+X-linked intellectual disability Siderius type                                                                  	718908009        	No     
+X-linked intellectual disability Stevenson type                                                                 	718909001        	No     
+X-linked intellectual disability Stocco Dos Santos type                                                         	718910006        	No     
+X-linked intellectual disability Stoll type                                                                     	718911005        	No     
+X-linked intellectual disability Turner type                                                                    	718912003        	No     
+X-linked intellectual disability Van Esch type                                                                  	718914002        	No     
+X-linked intellectual disability Wilson type                                                                    	719009006        	No     
+X-linked intellectual disability with acromegaly and hyperactivity syndrome                                     	719826004        	No     
+X-linked intellectual disability with cerebellar hypoplasia syndrome                                            	719136005        	No     
+X-linked intellectual disability with corpus callosum agenesis and spastic quadriparesis syndrome               	719137001        	No     
+X-linked intellectual disability with cubitus valgus and dysmorphism syndrome                                   	719138006        	No     
+X-linked intellectual disability with hypogammaglobulinemia and progressive neurological deterioration syndrome 	719156006        	No     
+X-linked intellectual disability with plagiocephaly syndrome                                                    	719812008        	No     
+X-linked intellectual disability with precocious puberty and obesity syndrome                                   	719809005        	No     
+X-linked intellectual disability with seizure and psoriasis syndrome                                            	719810000        	No     
+X-linked intellectual disability Zorick type                                                                    	718846001        	No     
+X-linked intellectual disability, limb spasticity, retinal dystrophy, diabetes insipidus syndrome               	732246009        	No     
+X-linked intellectual disability, macrocephaly, macroorchidism syndrome                                         	719825000        	No     
+X-linked mental retardation with marfanoid habitus syndrome                                                     	422437002        	No     
+X-linked recessive intellectual disability and macrocephaly with ciliary dysfunction syndrome                   	718896000        	No     
+X-linked spasticity, intellectual disability, epilepsy syndrome                                                 	725163002        	No     

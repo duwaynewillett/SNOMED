@@ -1,0 +1,28 @@
+Term                                                                        	Code     	Retired
+Arthropathy associated with cystic fibrosis                                 	698940002	No     
+Cystic fibrosis                                                             	190905008	No     
+Cystic fibrosis of pancreas                                                 	235978006	No     
+Cystic fibrosis of the lung                                                 	86555001 	No     
+Cystic fibrosis with gastritis and megaloblastic anemia syndrome            	720401009	No     
+Cystic fibrosis with intestinal manifestations                              	190909002	No     
+Cystic fibrosis with meconium ileus                                         	86092005 	No     
+Cystic fibrosis without meconium ileus                                      	81423003 	No     
+Diabetes mellitus associated with cystic fibrosis                           	426705001	No     
+Diabetes mellitus due to cystic fibrosis                                    	427089005	No     
+Digestive system manifestation co-occurrent and due to cystic fibrosis      	707536003	No     
+Elevated liver enzymes level due to cystic fibrosis                         	707734002	No     
+Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis   	707766007	No     
+Female infertility due to cystic fibrosis                                   	707577004	No     
+Fetal cystic fibrosis                                                       	725052002	No     
+Follicular hamartoma with alopecia and cystic fibrosis syndrome             	716088000	No     
+Liver disease due to cystic fibrosis                                        	427022004	No     
+Male infertility due to cystic fibrosis                                     	707418001	No     
+Osteoporosis due to cystic fibrosis                                         	707419009	No     
+Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis	707542004	No     
+Pancreatic insufficiency due to cystic fibrosis of pancreas                 	707450006	No     
+Perforation of intestine due to cystic fibrosis with meconium ileus         	707578009	No     
+Perinatal jaundice due to cystic fibrosis                                   	206471004	No     
+Polyneuropathy due to classical cystic fibrosis                             	721197001	No     
+Portal hypertension due to cystic fibrosis                                  	707420003	No     
+Suspected cystic fibrosis                                                   	428301001	No     
+Suspected cystic fibrosis in fetus                                          	725051009	No     

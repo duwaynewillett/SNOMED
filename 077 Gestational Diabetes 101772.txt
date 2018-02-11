@@ -1,0 +1,8 @@
+Term                                                	Code             	Retired
+Gestational diabetes mellitus                       	11687002         	No     
+Gestational diabetes mellitus complicating pregnancy	40801000119106   	No     
+Gestational diabetes mellitus in childbirth         	10753491000119101	No     
+Gestational diabetes mellitus, class A>1<           	75022004         	No     
+Gestational diabetes mellitus, class A>2<           	46894009         	No     
+History of gestational diabetes mellitus            	472971004        	No     
+Postpartum gestational diabetes mellitus            	40791000119105   	No     

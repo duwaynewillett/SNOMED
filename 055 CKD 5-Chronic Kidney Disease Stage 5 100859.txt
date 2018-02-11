@@ -1,0 +1,28 @@
+Term                                                                                                  	Code           	Retired
+Anemia in end stage renal disease                                                                     	707324008      	No     
+Benign hypertensive heart disease and chronic renal disease stage 5                                   	120261000119101	No     
+Chronic kidney disease stage 5                                                                        	433146000      	No     
+Chronic kidney disease stage 5 due to benign hypertension                                             	285011000119108	No     
+Chronic kidney disease stage 5 due to hypertension                                                    	129161000119100	No     
+Chronic kidney disease stage 5 due to type 1 diabetes mellitus                                        	90761000119106 	No     
+Chronic kidney disease stage 5 due to type 2 diabetes mellitus                                        	711000119100   	No     
+Chronic kidney disease stage 5 on dialysis                                                            	714152005      	No     
+Chronic kidney disease stage 5 with transplant                                                        	714153000      	No     
+End stage renal disease                                                                               	46177005       	No     
+End stage renal disease due to benign hypertension                                                    	712487000      	No     
+End stage renal disease due to hypertension                                                           	111411000119103	No     
+End stage renal disease on dialysis due to type 1 diabetes mellitus                                   	90771000119100 	No     
+End stage renal disease on dialysis due to type 2 diabetes mellitus                                   	90791000119104 	No     
+End stage renal failure on dialysis                                                                   	236435004      	No     
+End stage renal failure untreated by renal replacement therapy                                        	236434000      	No     
+End stage renal failure with renal transplant                                                         	236436003      	No     
+Hypertension concurrent and due to end stage renal disease on dialysis                                	704667004      	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus	128001000119105	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus	127991000119101	No     
+Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus                        	140101000119109	No     
+Hypertensive end stage renal disease                                                                  	434431000124103	No     
+Hypertensive heart AND chronic kidney disease stage 5                                                 	96711000119105 	No     
+Hypertensive renal disease with end stage renal failure                                               	698810000      	No     
+Malignant hypertensive chronic kidney disease stage 5                                                 	153851000119106	No     
+Malignant hypertensive end stage renal disease                                                        	285841000119104	No     
+Malignant hypertensive end stage renal disease on dialysis                                            	286371000119107	No     

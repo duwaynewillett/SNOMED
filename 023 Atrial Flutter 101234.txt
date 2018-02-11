@@ -1,0 +1,9 @@
+Term                              	Code             	Retired
+Atrial fibrillation and flutter   	195080001        	No     
+Atrial flutter                    	5370000          	No     
+Atypical atrial flutter           	15964901000119107	No     
+Chronic atrial flutter            	425615007        	No     
+History of atrial flutter         	428076002        	No     
+Idiopathic neonatal atrial flutter	715560009        	No     
+Paroxysmal atrial flutter         	427665004        	No     
+Typical atrial flutter            	720448006        	No     

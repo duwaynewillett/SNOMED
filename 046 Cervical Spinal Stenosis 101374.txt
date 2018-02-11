@@ -1,0 +1,7 @@
+Term                                                	Code         	Retired
+Degenerative cervical spinal stenosis               	202761002    	No     
+Iatrogenic cervical spinal stenosis                 	202762009    	No     
+Idiopathic cervical spinal stenosis                 	202760001    	No     
+Spinal stenosis in cervical region                  	83561009     	No     
+Spinal stenosis in cervical region with myelopathy  	9971000119105	No     
+Stenosis of spinal canal at craniovertebral junction	445100000    	No     

@@ -1,0 +1,15 @@
+Term                                               	Code           	Retired
+Atrial fibrillation                                	49436004       	No     
+Atrial fibrillation and flutter                    	195080001      	No     
+Atrial fibrillation with rapid ventricular response	120041000119109	No     
+Chronic atrial fibrillation                        	426749004      	No     
+Controlled atrial fibrillation                     	300996004      	No     
+Familial atrial fibrillation                       	715395008      	No     
+H/O: atrial fibrillation                           	312442005      	No     
+Lone atrial fibrillation                           	233910005      	No     
+Longstanding persistent atrial fibrillation        	706923002      	No     
+Non-rheumatic atrial fibrillation                  	233911009      	No     
+Paroxysmal atrial fibrillation                     	282825002      	No     
+Permanent atrial fibrillation                      	440028005      	No     
+Persistent atrial fibrillation                     	440059007      	No     
+Rapid atrial fibrillation                          	314208002      	No     

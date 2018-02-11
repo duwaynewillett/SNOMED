@@ -1,0 +1,39 @@
+Term                                              	Code             	Retired
+11p partial monosomy syndrome                     	4135001          	No     
+Carcinoma in situ of kidney                       	92624000         	No     
+Carcinoma in situ of renal pelvis                 	92697000         	No     
+Carcinoma of renal pelvis                         	448215006        	No     
+Chromophobe renal cell carcinoma                  	733471003        	No     
+Clear cell carcinoma of kidney                    	254915003        	No     
+Clear cell carcinoma of left kidney               	1081571000119102 	No     
+Clear cell carcinoma of right kidney              	1081581000119104 	No     
+Clear cell papillary renal cell carcinoma         	734015000        	No     
+Collecting duct carcinoma of kidney               	733470002        	No     
+Cystadenocarcinoma of kidney                      	254916002        	No     
+Familial renal cell carcinoma                     	717736007        	No     
+Hypernephroma                                     	188251003        	No     
+Local recurrence of malignant tumor of kidney     	314967004        	No     
+Malignant carcinoid tumor of kidney               	713574000        	No     
+Malignant tumor of kidney                         	363518003        	No     
+Malignant tumor of kidney parenchyma              	188250002        	No     
+Malignant tumor of pelviureteric junction         	188253000        	No     
+Malignant tumor of renal calyx                    	188252005        	No     
+Malignant tumor of renal pelvis                   	363457009        	No     
+Metastatic renal cell carcinoma                   	702392008        	No     
+Nephroblastoma                                    	302849000        	No     
+Papillary cystadenocarcinoma of kidney            	254917006        	No     
+Papillary renal cell carcinoma                    	733608000        	No     
+Potocki-Shaffer syndrome                          	702346005        	No     
+Primary malignant neoplasm of kidney              	93849006         	No     
+Primary malignant neoplasm of left kidney         	354351000119105  	No     
+Primary malignant neoplasm of renal pelvis        	93985007         	No     
+Primary malignant neoplasm of right kidney        	354361000119107  	No     
+Renal cell carcinoma                              	702391001        	No     
+Renal cell carcinoma of bilateral kidneys         	15636991000119103	No     
+Renal cell carcinoma of kidney except renal pelvis	717735006        	No     
+Sarcoma of kidney                                 	254918001        	No     
+Transitional cell carcinoma of kidney             	408642003        	No     
+Transitional cell carcinoma of left renal pelvis  	1082281000119105 	No     
+Transitional cell carcinoma of right renal pelvis 	1082301000119109 	No     
+Tubulocystic renal cell carcinoma                 	733603009        	No     
+WAGR syndrome                                     	715215007        	No     

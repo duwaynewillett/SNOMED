@@ -1,0 +1,12 @@
+Term                                     	Code     	Retired
+Accelerated rejection of liver transplant	432777003	No     
+Acute rejection of liver transplant      	431222008	No     
+Chronic rejection of liver transplant    	432908002	No     
+Complication of transplanted liver       	33167004 	No     
+H/O: liver recipient                     	161671001	No     
+Hyperacute rejection of liver transplant 	432772009	No     
+Liver transplant disorder                	235910007	No     
+Liver transplant failure                 	235912004	No     
+Liver transplant failure and rejection   	213153001	No     
+Liver transplant recipient               	702777009	No     
+Liver transplant rejection               	235911006	No     

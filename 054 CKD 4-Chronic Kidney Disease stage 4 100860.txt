@@ -1,0 +1,11 @@
+Term                                                                          	Code           	Retired
+Benign hypertensive heart disease and chronic renal disease stage 4           	285101000119109	No     
+Chronic kidney disease stage 4                                                	431857002      	No     
+Chronic kidney disease stage 4 due to benign hypertension                     	285001000119105	No     
+Chronic kidney disease stage 4 due to hypertension                            	129151000119102	No     
+Chronic kidney disease stage 4 due to type 1 diabetes mellitus                	90751000119109 	No     
+Chronic kidney disease stage 4 due to type 2 diabetes mellitus                	721000119107   	No     
+Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus	140111000119107	No     
+Hypertensive heart AND chronic kidney disease stage 4                         	96721000119103 	No     
+Malignant hypertensive chronic kidney disease stage 4                         	285881000119109	No     
+Malignant hypertensive heart disease and chronic renal disease stage 4        	285921000119102	No     

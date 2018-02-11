@@ -1,0 +1,129 @@
+Term                                                                        	Code             	Retired
+Cancer en cuirasse                                                          	254841008        	No     
+Carcinoma breast - lower, outer quadrant                                    	286896005        	No     
+Carcinoma in situ of areola of female breast                                	92540005         	No     
+Carcinoma in situ of areola of male breast                                  	92541009         	No     
+Carcinoma in situ of axillary tail of female breast                         	92543007         	No     
+Carcinoma in situ of breast                                                 	189336000        	No     
+Carcinoma in situ of central portion of female breast                       	92562005         	No     
+Carcinoma in situ of ectopic female breast tissue                           	92578007         	No     
+Carcinoma in situ of ectopic male breast tissue                             	92579004         	No     
+Carcinoma in situ of female breast                                          	92593006         	No     
+Carcinoma in situ of lower inner quadrant of female breast                  	92646008         	No     
+Carcinoma in situ of lower outer quadrant of female breast                  	92647004         	No     
+Carcinoma in situ of male breast                                            	92652009         	No     
+Carcinoma in situ of nipple of female breast                                	92665000         	No     
+Carcinoma in situ of nipple of male breast                                  	92666004         	No     
+Carcinoma in situ of other site of breast                                   	109890003        	No     
+Carcinoma in situ of skin of breast                                         	92714001         	No     
+Carcinoma in situ of upper inner quadrant of female breast                  	92777004         	No     
+Carcinoma in situ of upper outer quadrant of female breast                  	92778009         	No     
+Carcinoma of breast                                                         	254838004        	No     
+Carcinoma of breast - axillary tail                                         	286897001        	No     
+Carcinoma of breast - lower, inner quadrant                                 	286894008        	No     
+Carcinoma of breast - upper, inner quadrant                                 	286893002        	No     
+Carcinoma of breast - upper, outer quadrant                                 	286895009        	No     
+Carcinoma of central portion of breast                                      	708921005        	No     
+Carcinoma of female breast                                                  	447782002        	No     
+Carcinoma of male breast                                                    	372096000        	No     
+Carcinoma of salivary gland type of breast                                  	716593008        	No     
+Familial cancer of breast                                                   	254843006        	No     
+HER2-positive carcinoma of breast                                           	427685000        	No     
+Hereditary breast and ovarian cancer syndrome                               	718220008        	No     
+Hormone receptor positive malignant neoplasm of breast                      	417181009        	No     
+Human epidermal growth factor 2 negative carcinoma of breast                	431396003        	No     
+Infiltrating duct carcinoma of bilateral female breasts                     	15635761000119103	No     
+Infiltrating duct carcinoma of breast                                       	408643008        	No     
+Infiltrating duct carcinoma of female breast                                	448952004        	No     
+Infiltrating duct carcinoma of left female breast                           	1080101000119105 	No     
+Infiltrating duct carcinoma of right female breast                          	1080181000119102 	No     
+Infiltrating ductal carcinoma of central portion of left female breast      	1080111000119108 	No     
+Infiltrating ductal carcinoma of central portion of right female breast     	1080191000119104 	No     
+Infiltrating ductal carcinoma of upper inner quadrant of left female breast 	1080151000119109 	No     
+Infiltrating ductal carcinoma of upper inner quadrant of right female breast	1080231000119108 	No     
+Infiltrating ductal carcinoma of upper outer quadrant of left female breast 	1080161000119106 	No     
+Infiltrating ductal carcinoma of upper outer quadrant of right female breast	1080241000119104 	No     
+Infiltrating lobular carcinoma of breast                                    	278054005        	No     
+Infiltrating lobular carcinoma of left female breast                        	1080261000119100 	No     
+Infiltrating lobular carcinoma of right female breast                       	1080341000119105 	No     
+Inflammatory carcinoma of breast                                            	254840009        	No     
+Intraductal carcinoma in situ of bilateral breasts                          	15636951000119108	No     
+Intraductal carcinoma in situ of breast                                     	109889007        	No     
+Intraductal carcinoma in situ of left breast                                	1079811000119104 	No     
+Intraductal carcinoma in situ of right breast                               	1079821000119106 	No     
+Intraductal carcinoma of breast                                             	278053004        	No     
+Invasive carcinoma of breast                                                	713609000        	No     
+Lobular carcinoma in situ of breast                                         	109888004        	No     
+Local recurrence of malignant tumor of breast                               	314955001        	No     
+Localized skin involvement by breast carcinoma                              	403458008        	No     
+Malignant neoplasm of axillary tail of breast                               	372094002        	No     
+Malignant neoplasm of axillary tail of female breast                        	188156001        	No     
+Malignant neoplasm of breast lower inner quadrant                           	373080008        	No     
+Malignant neoplasm of breast lower outer quadrant                           	373081007        	No     
+Malignant neoplasm of breast upper inner quadrant                           	373082000        	No     
+Malignant neoplasm of breast upper outer quadrant                           	373083005        	No     
+Malignant neoplasm of central part of female breast                         	188151006        	No     
+Malignant neoplasm of ectopic site of female breast                         	188159008        	No     
+Malignant neoplasm of ectopic site of male breast                           	188168005        	No     
+Malignant neoplasm of female breast                                         	372064008        	No     
+Malignant neoplasm of lower-inner quadrant of female breast                 	188153009        	No     
+Malignant neoplasm of lower-outer quadrant of female breast                 	188155002        	No     
+Malignant neoplasm of male breast                                           	372095001        	No     
+Malignant neoplasm of nipple and areola of female breast                    	188147009        	No     
+Malignant neoplasm of nipple and areola of male breast                      	188163001        	No     
+Malignant neoplasm of upper-inner quadrant of female breast                 	188152004        	No     
+Malignant neoplasm of upper-outer quadrant of female breast                 	188154003        	No     
+Malignant neoplasm, overlapping lesion of breast                            	188157005        	No     
+Malignant phyllodes tumor of breast                                         	254844000        	No     
+Malignant tumor of breast                                                   	254837009        	No     
+Metastasis from malignant tumor of breast                                   	315004001        	No     
+Mixed ductal and lobular carcinoma in situ of breast                        	722523004        	No     
+Mixed ductal and lobular carcinoma of breast                                	444604002        	No     
+Mucinous carcinoma of breast                                                	444712000        	No     
+Overlapping malignant neoplasm of female breast                             	109886000        	No     
+Overlapping malignant neoplasm of male breast                               	109887009        	No     
+Paget's disease of nipple                                                   	403946000        	No     
+Papillary carcinoma in situ of breast                                       	721594000        	No     
+Primary angiosarcoma of breast                                              	721576006        	No     
+Primary intracystic papillary carcinoma of breast                           	721595004        	No     
+Primary invasive malignant neoplasm of female breast                        	45221000119105   	No     
+Primary invasive pleomorphic lobular carcinoma of breast                    	722524005        	No     
+Primary malignant inflammatory neoplasm of female breast                    	96291000119105   	No     
+Primary malignant neoplasm of areola of female breast                       	93680004         	No     
+Primary malignant neoplasm of areola of male breast                         	93681000         	No     
+Primary malignant neoplasm of axillary tail of breast                       	372092003        	No     
+Primary malignant neoplasm of bilateral female breasts                      	15635801000119106	No     
+Primary malignant neoplasm of breast                                        	372137005        	No     
+Primary malignant neoplasm of breast lower inner quadrant                   	373090000        	No     
+Primary malignant neoplasm of breast lower outer quadrant                   	373091001        	No     
+Primary malignant neoplasm of breast upper inner quadrant                   	373089009        	No     
+Primary malignant neoplasm of breast upper outer quadrant                   	373088001        	No     
+Primary malignant neoplasm of central portion of female breast              	93745008         	No     
+Primary malignant neoplasm of ectopic female breast tissue                  	93776002         	No     
+Primary malignant neoplasm of ectopic male breast tissue                    	93777006         	No     
+Primary malignant neoplasm of female breast                                 	93796005         	No     
+Primary malignant neoplasm of female right breast                           	353511000119101  	No     
+Primary malignant neoplasm of lower inner quadrant of female breast         	93874009         	No     
+Primary malignant neoplasm of lower outer quadrant of female breast         	93876006         	No     
+Primary malignant neoplasm of male breast                                   	93884005         	No     
+Primary malignant neoplasm of nipple of female breast                       	93924008         	No     
+Primary malignant neoplasm of nipple of male breast                         	93925009         	No     
+Primary malignant neoplasm of skin of breast                                	94012007         	No     
+Primary malignant neoplasm of upper inner quadrant of female breast         	94115006         	No     
+Primary malignant neoplasm of upper outer quadrant of female breast         	94117003         	No     
+Primary solid papillary carcinoma with invasion of breast                   	722832009        	No     
+Recurrent primary malignant neoplasm of left female breast                  	1081551000119106 	No     
+Recurrent primary malignant neoplasm of right female breast                 	1081561000119108 	No     
+Sarcoma lower inner quadrant of female breast                               	448435005        	No     
+Sarcoma of axillary tail of female breast                                   	447784001        	No     
+Sarcoma of breast                                                           	278050001        	No     
+Sarcoma of central portion of female breast                                 	448436006        	No     
+Sarcoma of female breast                                                    	448449001        	No     
+Sarcoma of lower outer quadrant of female breast                            	448388003        	No     
+Sarcoma of male breast                                                      	448257000        	No     
+Sarcoma of upper inner quadrant of female breast                            	448408001        	No     
+Sarcoma upper outer quadrant of female breast                               	448451002        	No     
+Scirrhous carcinoma of breast                                               	254839007        	No     
+Secondary malignant neoplasm of skin of breast                              	94544002         	No     
+Solid papillary carcinoma in situ of breast                                 	721596003        	No     
+Triple-negative breast cancer                                               	706970001        	No     

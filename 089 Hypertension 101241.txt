@@ -1,0 +1,234 @@
+Term                                                                                                                       	Code             	Retired
+Arteriolar nephritis                                                                                                       	16147005         	No     
+Autosomal dominant progressive nephropathy with hypertension                                                               	703310005        	No     
+Benign arteriolar nephrosclerosis                                                                                          	62240004         	No     
+Benign essential hypertension                                                                                              	1201005          	No     
+Benign essential hypertension complicating AND/OR reason for care during childbirth                                        	71874008         	No     
+Benign essential hypertension complicating AND/OR reason for care during pregnancy                                         	23717007         	No     
+Benign essential hypertension complicating AND/OR reason for care during puerperium                                        	35303009         	No     
+Benign essential hypertension complicating pregnancy, childbirth and the puerperium                                        	198942000        	No     
+Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered                            	198944004        	No     
+Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	198945003        	No     
+Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered                        	198946002        	No     
+Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication            	198947006        	No     
+Benign essential hypertension in obstetric context                                                                         	63287004         	No     
+Benign hypertension                                                                                                        	10725009         	No     
+Benign hypertensive heart AND renal disease                                                                                	66052004         	No     
+Benign hypertensive heart disease                                                                                          	36221001         	No     
+Benign hypertensive heart disease and chronic renal disease                                                                	449631000124102  	No     
+Benign hypertensive heart disease and chronic renal disease stage 1                                                        	285041000119107  	No     
+Benign hypertensive heart disease and chronic renal disease stage 2                                                        	285061000119106  	No     
+Benign hypertensive heart disease and chronic renal disease stage 3                                                        	285081000119102  	No     
+Benign hypertensive heart disease and chronic renal disease stage 4                                                        	285101000119109  	No     
+Benign hypertensive heart disease and chronic renal disease stage 5                                                        	120261000119101  	No     
+Benign hypertensive heart disease with congestive cardiac failure                                                          	194767001        	No     
+Benign hypertensive heart disease without congestive heart failure                                                         	77970009         	No     
+Benign hypertensive renal disease                                                                                          	193003           	No     
+Benign hypertensive renal disease with renal failure                                                                       	698591006        	No     
+Benign secondary hypertension                                                                                              	194785008        	No     
+Benign secondary renovascular hypertension                                                                                 	73410007         	No     
+Brachydactyly and arterial hypertension syndrome                                                                           	720568003        	No     
+Cardiomegaly - hypertensive                                                                                                	275516004        	No     
+Cardiomyopathy due to hypertension                                                                                         	108701000119102  	No     
+Cardiovascular renal disease                                                                                               	31881008         	No     
+Chronic hypertension complicating AND/OR reason for care during childbirth                                                 	8218002          	No     
+Chronic hypertension complicating AND/OR reason for care during pregnancy                                                  	37618003         	No     
+Chronic hypertension complicating AND/OR reason for care during puerperium                                                 	24042004         	No     
+Chronic hypertension in obstetric context                                                                                  	8762007          	No     
+Chronic hypertensive uremia                                                                                                	78544004         	No     
+Chronic kidney disease due to benign hypertension                                                                          	284961000119106  	No     
+Chronic kidney disease due to hypertension                                                                                 	104931000119100  	No     
+Chronic kidney disease stage 1 due to benign hypertension                                                                  	284971000119100  	No     
+Chronic kidney disease stage 1 due to hypertension                                                                         	117681000119102  	No     
+Chronic kidney disease stage 2 due to benign hypertension                                                                  	284981000119102  	No     
+Chronic kidney disease stage 2 due to hypertension                                                                         	129181000119109  	No     
+Chronic kidney disease stage 3 due to benign hypertension                                                                  	284991000119104  	No     
+Chronic kidney disease stage 3 due to hypertension                                                                         	129171000119106  	No     
+Chronic kidney disease stage 4 due to benign hypertension                                                                  	285001000119105  	No     
+Chronic kidney disease stage 4 due to hypertension                                                                         	129151000119102  	No     
+Chronic kidney disease stage 5 due to benign hypertension                                                                  	285011000119108  	No     
+Chronic kidney disease stage 5 due to hypertension                                                                         	129161000119100  	No     
+Diastolic hypertension                                                                                                     	48146000         	No     
+Eclampsia added to pre-existing hypertension                                                                               	69909000         	No     
+Eclampsia with pre-existing hypertension in childbirth                                                                     	10752641000119102	No     
+End stage renal disease due to benign hypertension                                                                         	712487000        	No     
+End stage renal disease due to hypertension                                                                                	111411000119103  	No     
+End stage renal disease on dialysis due to hypertension                                                                    	153891000119101  	No     
+Endocrine hypertension                                                                                                     	59997006         	No     
+Essential hypertension                                                                                                     	59621000         	No     
+Essential hypertension complicating AND/OR reason for care during childbirth                                               	18416000         	No     
+Essential hypertension complicating AND/OR reason for care during pregnancy                                                	78808002         	No     
+Essential hypertension complicating AND/OR reason for care during puerperium                                               	9901000          	No     
+Essential hypertension in obstetric context                                                                                	72022006         	No     
+Exertional hypertension                                                                                                    	429198000        	No     
+Goldblatt hypertension                                                                                                     	123800009        	No     
+H/O: hypertension                                                                                                          	161501007        	No     
+H/O: severe pre-eclampsia                                                                                                  	161807003        	No     
+HELLP syndrome                                                                                                             	95605009         	No     
+High-renin essential hypertension                                                                                          	19769006         	No     
+History of gestational hypertension                                                                                        	709881001        	No     
+History of hemolysis-elevated liver enzymes-low platelet count syndrome                                                    	726513006        	No     
+History of pre-eclampsia                                                                                                   	105651000119100  	No     
+Hypertension associated with transplantation                                                                               	427889009        	No     
+Hypertension complicating pregnancy, childbirth and the puerperium                                                         	198941007        	No     
+Hypertension complicating pregnancy, childbirth and the puerperium, antepartum                                             	541000119105     	No     
+Hypertension concurrent and due to end stage renal disease on dialysis                                                     	704667004        	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus                     	128001000119105  	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus                     	127991000119101  	No     
+Hypertension in chronic kidney disease due to type 1 diabetes mellitus                                                     	71701000119105   	No     
+Hypertension in chronic kidney disease due to type 2 diabetes mellitus                                                     	71421000119105   	No     
+Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus                                             	140131000119102  	No     
+Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus                                             	140121000119100  	No     
+Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus                                             	140111000119107  	No     
+Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus                                             	140101000119109  	No     
+Hypertension in the obstetric context                                                                                      	367390009        	No     
+Hypertension in the puerperium with pulmonary edema                                                                        	698640000        	No     
+Hypertension induced by oral contraceptive pill                                                                            	169465000        	No     
+Hypertension secondary to drug                                                                                             	194791005        	No     
+Hypertension secondary to endocrine disorder                                                                               	194788005        	No     
+Hypertension secondary to kidney transplant                                                                                	428575007        	No     
+Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth                              	26078007         	No     
+Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy                               	48552006         	No     
+Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium                              	39727004         	No     
+Hypertension secondary to renal disease in obstetric context                                                               	111438007        	No     
+Hypertension with albuminuria                                                                                              	397748008        	No     
+Hypertensive choroidopathy                                                                                                 	422001004        	No     
+Hypertensive complication                                                                                                  	449759005        	No     
+Hypertensive crisis                                                                                                        	706882009        	No     
+Hypertensive disorder                                                                                                      	38341003         	No     
+Hypertensive emergency                                                                                                     	132721000119104  	No     
+Hypertensive encephalopathy                                                                                                	50490005         	No     
+Hypertensive end stage renal disease                                                                                       	434431000124103  	No     
+Hypertensive episode                                                                                                       	62275004         	No     
+Hypertensive heart and chronic kidney disease                                                                              	8501000119104    	No     
+Hypertensive heart AND chronic kidney disease on dialysis                                                                  	96701000119107   	No     
+Hypertensive heart AND chronic kidney disease stage 1                                                                      	96751000119106   	No     
+Hypertensive heart AND chronic kidney disease stage 2                                                                      	96741000119109   	No     
+Hypertensive heart AND chronic kidney disease stage 3                                                                      	96731000119100   	No     
+Hypertensive heart AND chronic kidney disease stage 4                                                                      	96721000119103   	No     
+Hypertensive heart AND chronic kidney disease stage 5                                                                      	96711000119105   	No     
+Hypertensive heart AND chronic kidney disease with congestive heart failure                                                	15781000119107   	No     
+Hypertensive heart AND renal disease                                                                                       	86234004         	No     
+Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth                                 	1474004          	No     
+Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy                                  	22966008         	No     
+Hypertensive heart AND renal disease complicating AND/OR reason for care during puerperium                                 	11511004         	No     
+Hypertensive heart AND renal disease in obstetric context                                                                  	49102001         	No     
+Hypertensive heart and renal disease with (congestive) heart failure                                                       	194779001        	No     
+Hypertensive heart and renal disease with both (congestive) heart failure and renal failure                                	194781004        	No     
+Hypertensive heart and renal disease with renal failure                                                                    	194780003        	No     
+Hypertensive heart disease                                                                                                 	64715009         	No     
+Hypertensive heart disease complicating AND/OR reason for care during childbirth                                           	59733002         	No     
+Hypertensive heart disease complicating AND/OR reason for care during pregnancy                                            	20753005         	No     
+Hypertensive heart disease complicating AND/OR reason for care during puerperium                                           	34273003         	No     
+Hypertensive heart disease in obstetric context                                                                            	79355007         	No     
+Hypertensive heart disease with congestive heart failure                                                                   	5148006          	No     
+Hypertensive heart disease without congestive heart failure                                                                	60899001         	No     
+Hypertensive heart failure                                                                                                 	46113002         	No     
+Hypertensive ischemic ulcer                                                                                                	95343001         	No     
+Hypertensive left ventricular hypertrophy                                                                                  	428163005        	No     
+Hypertensive leg ulcer                                                                                                     	238795008        	No     
+Hypertensive nephrosclerosis                                                                                               	473392002        	No     
+Hypertensive optic neuropathy                                                                                              	421731000        	No     
+Hypertensive renal disease                                                                                                 	38481006         	No     
+Hypertensive renal disease complicating AND/OR reason for care during childbirth                                           	49171007         	No     
+Hypertensive renal disease complicating AND/OR reason for care during pregnancy                                            	66709007         	No     
+Hypertensive renal disease complicating AND/OR reason for care during puerperium                                           	57873008         	No     
+Hypertensive renal disease in obstetric context                                                                            	73030000         	No     
+Hypertensive renal disease with end stage renal failure                                                                    	698810000        	No     
+Hypertensive renal disease with renal failure                                                                              	194774006        	No     
+Hypertensive renal failure                                                                                                 	49220004         	No     
+Hypertensive retinopathy                                                                                                   	6962006          	No     
+Hypertensive urgency                                                                                                       	443482000        	No     
+Impending eclampsia                                                                                                        	237282002        	No     
+Intermittent hypertension                                                                                                  	697929007        	No     
+Labile diastolic hypertension                                                                                              	65518004         	No     
+Labile essential hypertension                                                                                              	371125006        	No     
+Labile hypertension due to being in a clinical environment                                                                 	697930002        	No     
+Labile systemic arterial hypertension                                                                                      	16229371000119106	No     
+Low-renin essential hypertension                                                                                           	46481004         	No     
+Malignant arteriolar nephrosclerosis                                                                                       	81363003         	No     
+Malignant essential hypertension                                                                                           	78975002         	No     
+Malignant hypertension                                                                                                     	70272006         	No     
+Malignant hypertension complicating AND/OR reason for care during childbirth                                               	10562009         	No     
+Malignant hypertension complicating AND/OR reason for care during pregnancy                                                	29259002         	No     
+Malignant hypertension complicating AND/OR reason for care during puerperium                                               	23786008         	No     
+Malignant hypertension in obstetric context                                                                                	81626002         	No     
+Malignant hypertensive chronic kidney disease                                                                              	285831000119108  	No     
+Malignant hypertensive chronic kidney disease stage 1                                                                      	285851000119102  	No     
+Malignant hypertensive chronic kidney disease stage 2                                                                      	285861000119100  	No     
+Malignant hypertensive chronic kidney disease stage 3                                                                      	285871000119106  	No     
+Malignant hypertensive chronic kidney disease stage 4                                                                      	285881000119109  	No     
+Malignant hypertensive chronic kidney disease stage 5                                                                      	153851000119106  	No     
+Malignant hypertensive end stage renal disease                                                                             	285841000119104  	No     
+Malignant hypertensive end stage renal disease on dialysis                                                                 	286371000119107  	No     
+Malignant hypertensive heart AND renal disease                                                                             	66610008         	No     
+Malignant hypertensive heart disease                                                                                       	54225002         	No     
+Malignant hypertensive heart disease and chronic renal disease stage 3                                                     	285911000119109  	No     
+Malignant hypertensive heart disease and chronic renal disease stage 4                                                     	285921000119102  	No     
+Malignant hypertensive heart disease with congestive heart failure                                                         	83105008         	No     
+Malignant hypertensive heart disease without congestive heart failure                                                      	36315003         	No     
+Malignant hypertensive renal disease                                                                                       	65443008         	No     
+Malignant secondary hypertension                                                                                           	89242004         	No     
+Malignant secondary renovascular hypertension                                                                              	194783001        	No     
+Maternal hypertension                                                                                                      	288250001        	No     
+Mild pre-eclampsia                                                                                                         	41114007         	No     
+Moderate proteinuric hypertension of pregnancy                                                                             	237281009        	No     
+Neonatal hypertension                                                                                                      	206596003        	No     
+Non-proteinuric hypertension of pregnancy                                                                                  	307632004        	No     
+Page kidney                                                                                                                	367821000119106  	No     
+Parenchymal renal hypertension                                                                                             	57684003         	No     
+Paroxysmal hypertension                                                                                                    	23130000         	No     
+Perioperative hypertension                                                                                                 	434711000124103  	No     
+Postoperative hypertension                                                                                                 	5501000119106    	No     
+Postpartum pre-existing essential hypertension                                                                             	40511000119107   	No     
+Postpartum pregnancy-induced hypertension                                                                                  	40521000119100   	No     
+Pre-eclampsia                                                                                                              	398254007        	No     
+Pre-eclampsia added to pre-existing hypertension                                                                           	67359005         	No     
+Pre-eclampsia or eclampsia with pre-existing hypertension                                                                  	198997005        	No     
+Pre-eclampsia or eclampsia with pre-existing hypertension - delivered                                                      	198999008        	No     
+Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication                          	199000005        	No     
+Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered                                                  	199002002        	No     
+Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication                                      	199003007        	No     
+Pre-existing hypertension complicating AND/OR reason for care during childbirth                                            	34694006         	No     
+Pre-existing hypertension complicating AND/OR reason for care during pregnancy                                             	65402008         	No     
+Pre-existing hypertension complicating AND/OR reason for care during puerperium                                            	31407004         	No     
+Pre-existing hypertension complicating pregnancy, childbirth and puerperium                                                	199005000        	No     
+Pre-existing hypertension in obstetric context                                                                             	86041002         	No     
+Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy                                          	118781000119108  	No     
+Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth                               	10757401000119104	No     
+Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy                                	10757481000119107	No     
+Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium                    	199007008        	No     
+Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium                              	199006004        	No     
+Pre-existing hypertensive heart disease in mother complicating childbirth                                                  	10757441000119102	No     
+Pre-existing hypertensive heart disease in mother complicating pregnancy                                                   	10759031000119106	No     
+Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium                                      	199008003        	No     
+Pregnancy induced hypertension with pulmonary edema                                                                        	698638005        	No     
+Pregnancy-induced hypertension                                                                                             	48194001         	No     
+Rebound hypertension                                                                                                       	84094009         	No     
+Renal arterial hypertension                                                                                                	39018007         	No     
+Renal hypertension                                                                                                         	28119000         	No     
+Renal hypertension complicating pregnancy, childbirth and the puerperium                                                   	198949009        	No     
+Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered                                       	198951008        	No     
+Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication           	198952001        	No     
+Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered                                   	198953006        	No     
+Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication                       	198954000        	No     
+Renal sclerosis with hypertension                                                                                          	14973001         	No     
+Renovascular hypertension                                                                                                  	123799005        	No     
+Secondary diastolic hypertension                                                                                           	74451002         	No     
+Secondary hypertension                                                                                                     	31992008         	No     
+Severe pre-eclampsia                                                                                                       	46764007         	No     
+Severe pre-eclampsia - delivered                                                                                           	198983002        	No     
+Severe pre-eclampsia - delivered with postnatal complication                                                               	198984008        	No     
+Severe pre-eclampsia - not delivered                                                                                       	198985009        	No     
+Severe pre-eclampsia with postnatal complication                                                                           	198986005        	No     
+Supine hypertension                                                                                                        	712832005        	No     
+Sustained diastolic hypertension                                                                                           	59720008         	No     
+Systolic essential hypertension                                                                                            	429457004        	No     
+Systolic hypertension                                                                                                      	56218007         	No     
+Toxemia of pregnancy                                                                                                       	15394000         	No     
+Transient hypertension                                                                                                     	52698002         	No     
+Transient hypertension of pregnancy                                                                                        	237279007        	No     
+Transient hypertension of pregnancy - delivered                                                                            	198965005        	No     
+Transient hypertension of pregnancy - delivered with postnatal complication                                                	198966006        	No     
+Transient hypertension of pregnancy - not delivered                                                                        	198967002        	No     
+Transient hypertension of pregnancy with postnatal complication                                                            	198968007        	No     

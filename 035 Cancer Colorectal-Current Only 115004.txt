@@ -1,0 +1,104 @@
+Term                                                                    	Code           	Retired
+Adenocarcinoma of anus                                                  	423607006      	No     
+Adenocarcinoma of cecum                                                 	413446001      	No     
+Adenocarcinoma of large intestine                                       	408645001      	No     
+Adenocarcinoma of rectosigmoid junction                                 	425178004      	No     
+Adenocarcinoma of rectum                                                	254582000      	No     
+Adenocarcinoma of sigmoid colon                                         	301756000      	No     
+Anorectal adenocarcinoma                                                	447886005      	No     
+Carcinoma of anal canal                                                 	285310000      	No     
+Carcinoma of anus                                                       	448315008      	No     
+Carcinoma of ascending colon                                            	312111009      	No     
+Carcinoma of cecum                                                      	255081007      	No     
+Carcinoma of colon                                                      	269533000      	No     
+Carcinoma of descending colon                                           	312113007      	No     
+Carcinoma of hepatic flexure                                            	312114001      	No     
+Carcinoma of sigmoid colon                                              	285312008      	No     
+Carcinoma of skin of anus                                               	449416001      	No     
+Carcinoma of splenic flexure                                            	312115000      	No     
+Carcinoma of the rectosigmoid junction                                  	269544008      	No     
+Carcinoma of transverse colon                                           	312112002      	No     
+Carcinoma of upper rectum                                               	448994001      	No     
+HNPCC - hereditary nonpolyposis colon cancer                            	315058005      	No     
+Local recurrence of malignant tumor of colon                            	314965007      	No     
+Local recurrence of malignant tumor of rectum                           	314966008      	No     
+Lymphoma of colon                                                       	133751000119102	No     
+Lymphoma of sigmoid colon                                               	449218003      	No     
+Malignant carcinoid tumor of ascending colon                            	123721000119108	No     
+Malignant carcinoid tumor of cecum                                      	123731000119106	No     
+Malignant carcinoid tumor of colon                                      	726654006      	No     
+Malignant carcinoid tumor of descending colon                           	123701000119104	No     
+Malignant carcinoid tumor of large intestine                            	123741000119102	No     
+Malignant carcinoid tumor of rectum                                     	713573006      	No     
+Malignant melanoma of anus                                              	276821000      	No     
+Malignant melanoma of rectum                                            	276822007      	No     
+Malignant melanoma of skin of anus                                      	447712006      	No     
+Malignant neoplasm of anorectum                                         	443488001      	No     
+Malignant neoplasm of rectosigmoid junction metastatic to brain         	96981000119102 	No     
+Malignant neoplasm of rectum, rectosigmoid junction and anus            	187760008      	No     
+Malignant neoplasm, overlapping lesion of colon                         	187757001      	No     
+Malignant tumor involving rectum by direct extension from endometrium   	369448007      	No     
+Malignant tumor involving rectum by direct extension from fallopian tube	369449004      	No     
+Malignant tumor involving rectum by direct extension from ovary         	369450004      	No     
+Malignant tumor involving rectum by direct extension from prostate      	369451000      	No     
+Malignant tumor involving rectum by direct extension from uterine cervix	369452007      	No     
+Malignant tumor involving rectum by direct extension from uterus        	369453002      	No     
+Malignant tumor involving rectum by direct extension from vagina        	369454008      	No     
+Malignant tumor of anal canal                                           	363352004      	No     
+Malignant tumor of anorectal junction                                   	254586002      	No     
+Malignant tumor of anus                                                 	363490009      	No     
+Malignant tumor of anus and anal canal                                  	255083005      	No     
+Malignant tumor of ascending colon                                      	363412000      	No     
+Malignant tumor of cecum                                                	363350007      	No     
+Malignant tumor of cloacogenic zone                                     	363491008      	No     
+Malignant tumor of colon                                                	363406005      	No     
+Malignant tumor of descending colon                                     	363409003      	No     
+Malignant tumor of hepatic flexure                                      	363407001      	No     
+Malignant tumor of large intestine                                      	363510005      	No     
+Malignant tumor of rectosigmoid junction                                	363414004      	No     
+Malignant tumor of rectum                                               	363351006      	No     
+Malignant tumor of sigmoid colon                                        	363410008      	No     
+Malignant tumor of splenic flexure                                      	363413005      	No     
+Malignant tumor of transverse colon                                     	363408006      	No     
+Non-polyposis Turcot syndrome                                           	716654007      	No     
+Overlapping malignant neoplasm of colon                                 	109838007      	No     
+Overlapping malignant neoplasm of colon and rectum                      	96281000119107 	No     
+Overlapping malignant neoplasm of rectum, anus and anal canal           	109839004      	No     
+Paget disease of anal canal                                             	236811000119101	No     
+Primary adenocarcinoma of anus                                          	184741000119107	No     
+Primary adenocarcinoma of ascending colon                               	681601000119101	No     
+Primary adenocarcinoma of ascending colon and right flexure             	721695008      	No     
+Primary adenocarcinoma of colon                                         	1701000119104  	No     
+Primary adenocarcinoma of descending colon and splenic flexure          	721699002      	No     
+Primary adenocarcinoma of rectosigmoid junction                         	184881000119106	No     
+Primary adenocarcinoma of transverse colon                              	721696009      	No     
+Primary cloacogenic carcinoma of anal canal                             	721709000      	No     
+Primary malignant melanoma of anal canal                                	722543005      	No     
+Primary malignant melanoma of anus                                      	723281005      	No     
+Primary malignant neoplasm of anal canal                                	93669004       	No     
+Primary malignant neoplasm of anus                                      	93676009       	No     
+Primary malignant neoplasm of ascending colon                           	93683002       	No     
+Primary malignant neoplasm of cecum                                     	371977004      	No     
+Primary malignant neoplasm of cloacogenic zone                          	109840002      	No     
+Primary malignant neoplasm of colon                                     	93761005       	No     
+Primary malignant neoplasm of descending colon                          	93771007       	No     
+Primary malignant neoplasm of hepatic flexure of colon                  	93826009       	No     
+Primary malignant neoplasm of ileocecal valve                           	98981000119103 	No     
+Primary malignant neoplasm of large intestine                           	93854002       	No     
+Primary malignant neoplasm of rectosigmoid junction                     	93980002       	No     
+Primary malignant neoplasm of rectum                                    	93984006       	No     
+Primary malignant neoplasm of sigmoid colon                             	94006002       	No     
+Primary malignant neoplasm of splenic flexure of colon                  	94072004       	No     
+Primary malignant neoplasm of transverse colon                          	94105000       	No     
+Primary malignant neuroendocrine neoplasm of anal canal                 	733163007      	No     
+Primary malignant neuroendocrine neoplasm of anus                       	733162002      	No     
+Primary malignant neuroendocrine neoplasm of ascending colon            	130381000119103	No     
+Primary malignant neuroendocrine neoplasm of cecum                      	130371000119101	No     
+Primary malignant neuroendocrine neoplasm of colon                      	721698005      	No     
+Primary malignant neuroendocrine neoplasm of large intestine            	130351000119105	No     
+Primary malignant neuroendocrine neoplasm of rectum                     	721700001      	No     
+Primary neuroendocrine carcinoma of colon                               	721697000      	No     
+Primary neuroendocrine carcinoma of rectum                              	721701002      	No     
+Primary squamous cell carcinoma of anal canal                           	722542000      	No     
+Primary squamous cell carcinoma of anus                                 	723265000      	No     
+Squamous cell carcinoma of anal margin                                  	255084004      	No     

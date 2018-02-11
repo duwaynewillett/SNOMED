@@ -1,0 +1,98 @@
+Term                                                                                                  	Code             	Retired
+Acute-on-chronic renal failure                                                                        	236433006        	No     
+Anemia co-occurrent and due to chronic kidney disease stage 3                                         	691421000119108  	No     
+Anemia in end stage renal disease                                                                     	707324008        	No     
+Anemia of chronic renal failure                                                                       	49708008         	No     
+Anemia, pre-end stage renal disease on erythropoietin protocol                                        	1801000119106    	No     
+Benign hypertensive heart disease and chronic renal disease                                           	449631000124102  	No     
+Benign hypertensive heart disease and chronic renal disease stage 1                                   	285041000119107  	No     
+Benign hypertensive heart disease and chronic renal disease stage 2                                   	285061000119106  	No     
+Benign hypertensive heart disease and chronic renal disease stage 3                                   	285081000119102  	No     
+Benign hypertensive heart disease and chronic renal disease stage 4                                   	285101000119109  	No     
+Benign hypertensive heart disease and chronic renal disease stage 5                                   	120261000119101  	No     
+Chronic hypertensive uremia                                                                           	78544004         	No     
+Chronic kidney disease                                                                                	709044004        	No     
+Chronic kidney disease due to benign hypertension                                                     	284961000119106  	No     
+Chronic kidney disease due to hypertension                                                            	104931000119100  	No     
+Chronic kidney disease due to systemic infection                                                      	722150000        	No     
+Chronic kidney disease due to traumatic loss of kidney                                                	722467000        	No     
+Chronic kidney disease due to type 1 diabetes mellitus                                                	96441000119101   	No     
+Chronic kidney disease due to type 2 diabetes mellitus                                                	771000119108     	No     
+Chronic kidney disease following donor nephrectomy                                                    	722098007        	No     
+Chronic kidney disease following excision of renal neoplasm                                           	722149000        	No     
+Chronic kidney disease mineral and bone disorder                                                      	713313000        	No     
+Chronic kidney disease stage 1                                                                        	431855005        	No     
+Chronic kidney disease stage 1 due to benign hypertension                                             	284971000119100  	No     
+Chronic kidney disease stage 1 due to hypertension                                                    	117681000119102  	No     
+Chronic kidney disease stage 1 due to type 1 diabetes mellitus                                        	90721000119101   	No     
+Chronic kidney disease stage 1 due to type 2 diabetes mellitus                                        	751000119104     	No     
+Chronic kidney disease stage 2                                                                        	431856006        	No     
+Chronic kidney disease stage 2 due to benign hypertension                                             	284981000119102  	No     
+Chronic kidney disease stage 2 due to hypertension                                                    	129181000119109  	No     
+Chronic kidney disease stage 2 due to type 1 diabetes mellitus                                        	90731000119103   	No     
+Chronic kidney disease stage 2 due to type 2 diabetes mellitus                                        	741000119101     	No     
+Chronic kidney disease stage 3                                                                        	433144002        	No     
+Chronic kidney disease stage 3 due to benign hypertension                                             	284991000119104  	No     
+Chronic kidney disease stage 3 due to hypertension                                                    	129171000119106  	No     
+Chronic kidney disease stage 3 due to type 1 diabetes mellitus                                        	90741000119107   	No     
+Chronic kidney disease stage 3 due to type 2 diabetes mellitus                                        	731000119105     	No     
+Chronic kidney disease stage 3A                                                                       	700378005        	No     
+Chronic kidney disease stage 3B                                                                       	700379002        	No     
+Chronic kidney disease stage 4                                                                        	431857002        	No     
+Chronic kidney disease stage 4 due to benign hypertension                                             	285001000119105  	No     
+Chronic kidney disease stage 4 due to hypertension                                                    	129151000119102  	No     
+Chronic kidney disease stage 4 due to type 1 diabetes mellitus                                        	90751000119109   	No     
+Chronic kidney disease stage 4 due to type 2 diabetes mellitus                                        	721000119107     	No     
+Chronic kidney disease stage 5                                                                        	433146000        	No     
+Chronic kidney disease stage 5 due to benign hypertension                                             	285011000119108  	No     
+Chronic kidney disease stage 5 due to hypertension                                                    	129161000119100  	No     
+Chronic kidney disease stage 5 due to type 1 diabetes mellitus                                        	90761000119106   	No     
+Chronic kidney disease stage 5 due to type 2 diabetes mellitus                                        	711000119100     	No     
+Chronic kidney disease stage 5 on dialysis                                                            	714152005        	No     
+Chronic kidney disease stage 5 with transplant                                                        	714153000        	No     
+Chronic milk alkali syndrome                                                                          	57557005         	No     
+Chronic progressive renal failure                                                                     	425369003        	No     
+Chronic renal failure                                                                                 	90688005         	No     
+Chronic renal insufficiency                                                                           	723190009        	No     
+End stage renal disease                                                                               	46177005         	No     
+End stage renal disease due to benign hypertension                                                    	712487000        	No     
+End stage renal disease due to hypertension                                                           	111411000119103  	No     
+End stage renal disease on dialysis due to type 1 diabetes mellitus                                   	90771000119100   	No     
+End stage renal disease on dialysis due to type 2 diabetes mellitus                                   	90791000119104   	No     
+End stage renal failure on dialysis                                                                   	236435004        	No     
+End stage renal failure untreated by renal replacement therapy                                        	236434000        	No     
+End stage renal failure with renal transplant                                                         	236436003        	No     
+History of acute renal failure                                                                        	137971000119104  	No     
+History of chronic renal impairment                                                                   	472953006        	No     
+History of renal failure                                                                              	414417004        	No     
+Hypertension concurrent and due to end stage renal disease on dialysis                                	704667004        	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus	128001000119105  	No     
+Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus	127991000119101  	No     
+Hypertension in chronic kidney disease due to type 1 diabetes mellitus                                	71701000119105   	No     
+Hypertension in chronic kidney disease due to type 2 diabetes mellitus                                	71421000119105   	No     
+Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus                        	140131000119102  	No     
+Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus                        	140121000119100  	No     
+Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus                        	140111000119107  	No     
+Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus                        	140101000119109  	No     
+Hypertensive end stage renal disease                                                                  	434431000124103  	No     
+Hypertensive heart and chronic kidney disease                                                         	8501000119104    	No     
+Hypertensive heart AND chronic kidney disease on dialysis                                             	96701000119107   	No     
+Hypertensive heart AND chronic kidney disease stage 1                                                 	96751000119106   	No     
+Hypertensive heart AND chronic kidney disease stage 2                                                 	96741000119109   	No     
+Hypertensive heart AND chronic kidney disease stage 3                                                 	96731000119100   	No     
+Hypertensive heart AND chronic kidney disease stage 4                                                 	96721000119103   	No     
+Hypertensive heart AND chronic kidney disease stage 5                                                 	96711000119105   	No     
+Hypertensive renal disease with end stage renal failure                                               	698810000        	No     
+Malignant hypertensive chronic kidney disease                                                         	285831000119108  	No     
+Malignant hypertensive chronic kidney disease stage 1                                                 	285851000119102  	No     
+Malignant hypertensive chronic kidney disease stage 2                                                 	285861000119100  	No     
+Malignant hypertensive chronic kidney disease stage 3                                                 	285871000119106  	No     
+Malignant hypertensive chronic kidney disease stage 4                                                 	285881000119109  	No     
+Malignant hypertensive chronic kidney disease stage 5                                                 	153851000119106  	No     
+Malignant hypertensive end stage renal disease                                                        	285841000119104  	No     
+Malignant hypertensive end stage renal disease on dialysis                                            	286371000119107  	No     
+Malignant hypertensive heart disease and chronic renal disease stage 3                                	285911000119109  	No     
+Malignant hypertensive heart disease and chronic renal disease stage 4                                	285921000119102  	No     
+Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy                     	118781000119108  	No     
+Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth          	10757401000119104	No     
+Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy           	10757481000119107	No     

@@ -1,0 +1,20 @@
+Term                                       	Code     	Retired
+Amenorrhea                                 	14302001 	No     
+Amenorrhea associated with obesity         	413487000	No     
+Anovulatory amenorrhea                     	444769001	No     
+Cryptomenorrhea                            	58851004 	No     
+Dietary amenorrhea                         	57260004 	No     
+Dysponderal amenorrhea                     	21669001 	No     
+Exercise-related amenorrhea                	237119008	No     
+H/O: amenorrhea                            	161780009	No     
+Hypergonadotropic amenorrhea               	426780009	No     
+Hypothalamic amenorrhea                    	237120002	No     
+Lactational amenorrhea                     	237122005	No     
+Normogonadotropic amenorrhea               	702466002	No     
+Pathologic amenorrhea                      	56561006 	No     
+Physiologic amenorrhea                     	44811000 	No     
+Postpartum amenorrhea-galactorrhea syndrome	85039006 	No     
+Postpill amenorrhea                        	39931000 	No     
+Premenopausal amenorrhea                   	32590007 	No     
+Primary physiologic amenorrhea             	8913004  	No     
+Secondary physiologic amenorrhea           	86030004 	No     

@@ -1,0 +1,19 @@
+Term                                 	Code           	Retired
+Asymptomatic multiple myeloma        	440422002      	No     
+IgA myeloma                          	285420006      	No     
+IgD myeloma                          	285422003      	No     
+IgG myeloma                          	285421005      	No     
+Indolent multiple myeloma            	441313008      	No     
+Kappa light chain myeloma            	414553000      	No     
+Lambda light chain myeloma           	313427003      	No     
+Light chain myeloma                  	277579002      	No     
+Multiple myeloma                     	109989006      	No     
+Multiple myeloma in remission        	94704006       	No     
+Non-secretory myeloma                	277580004      	No     
+Osteoporosis in multiple myelomatosis	203436008      	No     
+Osteosclerotic myeloma               	425657001      	No     
+Plasma cell leukemia                 	95210003       	No     
+Plasma cell leukemia in relapse      	122981000119101	No     
+Plasma cell leukemia in remission    	95209008       	No     
+Relapse multiple myeloma             	452291000124109	No     
+Smoldering myeloma                   	413587002      	No     

@@ -1,0 +1,252 @@
+Term                                                                                                       	Code             	Retired
+Absence deformity of leg and congenital cataract syndrome                                                  	716099003        	No     
+Acquired anterior capsular pigmentation                                                                    	95720007         	No     
+Adherent cataract                                                                                          	111000003        	No     
+After-cataract                                                                                             	47337003         	No     
+After-cataract not obscuring vision                                                                        	51044000         	No     
+After-cataract of bilateral eyes                                                                           	15737281000119100	No     
+After-cataract with vision obscured                                                                        	193615000        	No     
+Age-related cataract                                                                                       	39450006         	No     
+Age-related cataract of left eye                                                                           	10999321000119108	No     
+Age-related cataract of right eye                                                                          	10999281000119103	No     
+Age-related nuclear cataract of left eye                                                                   	678611000119102  	No     
+Age-related nuclear cataract of right eye                                                                  	678621000119109  	No     
+Anterior capsular lens opacities                                                                           	247055000        	No     
+Anterior capsule opacification                                                                             	410568009        	No     
+Anterior lens opacities                                                                                    	247054001        	No     
+Anterior subcapsular cataract                                                                              	315352000        	No     
+Anterior subcapsular cataract of bilateral eyes                                                            	15737801000119107	No     
+Anterior subcapsular cataract of left eye                                                                  	15737841000119109	No     
+Anterior subcapsular cataract of right eye                                                                 	15737761000119104	No     
+Anterior subcapsular lens opacities                                                                        	247056004        	No     
+Anterior subcapsular polar cataract                                                                        	1412008          	No     
+Anterior subcapsular polar cataract of left eye                                                            	15737641000119108	No     
+Anterior subcapsular polar cataract of right eye                                                           	15737721000119109	No     
+Anterior subcapsular polar senile cataract                                                                 	111515007        	No     
+Aspiration of cataract                                                                                     	112963003        	No     
+Aspiration of cataract by phacoemulsification                                                              	84149000         	No     
+Atopic cataract                                                                                            	2951009          	No     
+Autosomal dominant optic atrophy and cataract                                                              	719517009        	No     
+Axial cataract                                                                                             	110998005        	No     
+Bilateral after-cataract not obscuring vision                                                              	15737161000119103	No     
+Bilateral age-related cataract                                                                             	10999361000119103	No     
+Bilateral age-related nuclear cataracts                                                                    	678601000119100  	No     
+Bilateral cataracts                                                                                        	95722004         	No     
+Bilateral extraction of cataracts                                                                          	28070001000004105	No     
+Bilateral incipient cataracts                                                                              	678671000119105  	No     
+Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation                	419767009        	No     
+Bimanual phacoemulsification                                                                               	420260004        	No     
+Bimanual phacoemulsification of cataract with intraocular lens implantation                                	418430006        	No     
+Calcified cataract                                                                                         	10970008         	No     
+Capsular and/or subcapsular cataract                                                                       	204124004        	No     
+Capsular cataract                                                                                          	204125003        	No     
+Cardiomyopathy with cataract and hip spine disease syndrome                                                	720609003        	No     
+Cataract                                                                                                   	193570009        	No     
+Cataract and microcornea syndrome                                                                          	722382006        	No     
+Cataract associated with infrared radiation                                                                	416071001        	No     
+Cataract associated with radiation                                                                         	71044004         	No     
+Cataract due to idiopathic hypoparathyroidism                                                              	717893006        	No     
+Cataract due to pseudohypoparathyroidism                                                                   	717894000        	No     
+Cataract extraction and insertion of intraocular lens                                                      	385468004        	No     
+Cataract extraction, insertion of intraocular lens and trabeculectomy                                      	231744001        	No     
+Cataract finding                                                                                           	247052002        	No     
+Cataract following rupture of capsule                                                                      	231968003        	No     
+Cataract form - finding                                                                                    	366035000        	No     
+Cataract glaucoma syndrome                                                                                 	718851007        	No     
+Cataract in degenerative disorder                                                                          	21818003         	No     
+Cataract in eye inflammatory disorder                                                                      	193602009        	No     
+Cataract in hypoparathyroidism                                                                             	231971006        	No     
+Cataract in inflammatory disorder                                                                          	23273003         	No     
+Cataract in systemic disorders                                                                             	231970007        	No     
+Cataract maturity - finding                                                                                	366036004        	No     
+Cataract of bilateral eyes due to inflammatory disorder                                                    	15738321000119106	No     
+Cataract of left eye                                                                                       	12239221000119100	No     
+Cataract of left eye due ocular disease                                                                    	15738201000119109	No     
+Cataract of left eye due to inflammatory disorder                                                          	15738241000119106	No     
+Cataract of lens capsule of bilateral eyes                                                                 	15736881000119101	No     
+Cataract of lens capsule of left eye                                                                       	15736801000119109	No     
+Cataract of lens capsule of right eye                                                                      	15736841000119106	No     
+Cataract of posterior subcapsule of bilateral eyes                                                         	15639481000119102	No     
+Cataract of posterior subcapsule of left eye                                                               	15639441000119107	No     
+Cataract of posterior subcapsule of right eye                                                              	15639401000119105	No     
+Cataract of right eye                                                                                      	12239261000119105	No     
+Cataract of right eye due ocular disease                                                                   	15738161000119104	No     
+Cataract of right eye due to inflammatory disorder                                                         	15738281000119101	No     
+Cataract secondary to ocular disease                                                                       	193600001        	No     
+Cataract surgery                                                                                           	110473004        	No     
+Cataract with neovascularization                                                                           	76309006         	No     
+Cataract, congenital heart disease, neural tube defect syndrome                                            	726704006        	No     
+Cataracta brunescens                                                                                       	77873007         	No     
+Coaxial phacoemulsfication                                                                                 	420526005        	No     
+Cochleosaccular degeneration and cataract syndrome                                                         	715528001        	No     
+Combined form of nonsenile cataract                                                                        	39944005         	No     
+Combined form of senile cataract                                                                           	11422002         	No     
+Combined nonsenile cataract                                                                                	193579005        	No     
+Complicated cataract surgery                                                                               	397544007        	No     
+Concussion cataract                                                                                        	231967008        	No     
+Congenital anterior polar cataract                                                                         	253224008        	No     
+Congenital anterior subcapsular polar cataract                                                             	342911000119104  	No     
+Congenital blue dot cataract                                                                               	204138006        	No     
+Congenital capsular and/or subcapsular cataract                                                            	11711000119104   	No     
+Congenital capsular cataract                                                                               	28550007         	No     
+Congenital cataract                                                                                        	79410001         	No     
+Congenital cataract and lens anomalies                                                                     	268159001        	No     
+Congenital cataract ichthyosis syndrome                                                                    	732952003        	No     
+Congenital cataract with ataxia and deafness syndrome                                                      	719102004        	No     
+Congenital cataract with deafness and hypogonadism syndrome                                                	722378009        	No     
+Congenital cataract with hypertrichosis and intellectual disability syndrome                               	722379001        	No     
+Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome                          	717812000        	No     
+Congenital combined form cataract                                                                          	342831000119100  	No     
+Congenital cortical cataract                                                                               	66499004         	No     
+Congenital lamellar cataract                                                                               	204128001        	No     
+Congenital membranous cataract                                                                             	204139003        	No     
+Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome                            	715429006        	No     
+Congenital polar cataract                                                                                  	253223002        	No     
+Congenital posterior polar cataract                                                                        	253225009        	No     
+Congenital posterior subcapsular polar cataract                                                            	342821000119103  	No     
+Congenital subcapsular cataract                                                                            	76562003         	No     
+Congenital subtotal cataract                                                                               	63912009         	No     
+Congenital sutural cataract                                                                                	253226005        	No     
+Congenital total cataract                                                                                  	29590001         	No     
+Congenital zonular cataract                                                                                	21590003         	No     
+Coronary age-related cataract                                                                              	726404007        	No     
+Coronary cataract                                                                                          	12195004         	No     
+Cortical and zonular cataract                                                                              	204127006        	No     
+Cortical cataract                                                                                          	193576003        	No     
+Cortical lens opacities                                                                                    	247057008        	No     
+Cortical nonsenile cataract                                                                                	699521008        	No     
+Cortical senile cataract                                                                                   	78875003         	No     
+Corticosteroid induced cataract                                                                            	404647000        	No     
+Crome syndrome                                                                                             	722381004        	No     
+Cryoextraction of cataract by inferior temporal route                                                      	46426006         	No     
+Cryoextraction of cataract by intracapsular approach                                                       	85622008         	No     
+Cupuliform cataract                                                                                        	247062009        	No     
+Diabetic cataract                                                                                          	43959009         	No     
+Diabetic cataract associated with type 1 diabetes mellitus                                                 	421920002        	No     
+Diabetic cataract associated with type 2 diabetes mellitus                                                 	420756003        	No     
+Discission of congenital cataract                                                                          	35717002         	No     
+Discission of membranous cataract, primary                                                                 	50538003         	No     
+Discission of membranous cataract, secondary                                                               	9137006          	No     
+Drug-induced cataract                                                                                      	193609000        	No     
+Elschnig's pearls                                                                                          	231974003        	No     
+Embryonal nuclear cataract                                                                                 	5361003          	No     
+Erysiphake extraction of cataract by inferior temporal route                                               	75814005         	No     
+Extracapsular cataract extraction and insertion of intraocular lens                                        	308694002        	No     
+Extracapsular extraction of cataract by curette evacuation                                                 	79611007         	No     
+Extracapsular extraction of cataract by emulsification with aspiration                                     	82155009         	No     
+Extracapsular extraction of cataract by inferior temporal route                                            	10178000         	No     
+Extracapsular extraction of cataract by mechanical fragmentation with aspiration                           	88282000         	No     
+Extracapsular extraction of cataract by mechanical fragmentation with aspiration by posterior route        	69360005         	No     
+Extracapsular extraction of cataract by rotoextraction with aspiration                                     	67760003         	No     
+Extracapsular extraction of cataract by rotoextraction with aspiration by posterior route                  	89153001         	No     
+Extraction of cataract                                                                                     	54885007         	No     
+Extraction of cataract and trabeculectomy                                                                  	446548003        	No     
+Extraction of cataract by rotoextraction with aspiration                                                   	112964009        	No     
+Extraction of cataract by rotoextraction with aspiration by posterior route                                	31705006         	No     
+Extraction of cataract by ultrasonic phacofragmentation                                                    	361191005        	No     
+Extraction of primary membranous cataract by discission                                                    	5130002          	No     
+Extraction of primary membranous cataract by excision                                                      	46309001         	No     
+Extraction of primary membranous cataract by mechanical fragmentation                                      	336651000        	No     
+Extraction of primary membranous cataract by needling                                                      	51839008         	No     
+Extraction of primary membranous cataract by phacofragmentation                                            	335636001        	No     
+Hydrocephalus with endocardial fibroelastosis and cataract syndrome                                        	721015008        	No     
+Hyperferritinemia cataract syndrome                                                                        	702398007        	No     
+Hypergonadotropic hypogonadism with cataract syndrome                                                      	721233005        	No     
+Hypermature cataract                                                                                       	267626000        	No     
+Hypermature senile cataract                                                                                	217791000119107  	No     
+Immature cataract                                                                                          	446474007        	No     
+Immature cortical cataract                                                                                 	311789006        	No     
+Incipient cataract                                                                                         	52421005         	No     
+Incipient cataract of left eye                                                                             	678681000119108  	No     
+Incipient cataract of right eye                                                                            	678691000119106  	No     
+Incipient senile cataract                                                                                  	445213003        	No     
+Incisional discission of secondary membranous cataract and anterior hyaloid                                	46562009         	No     
+Infantile and/or juvenile cataract                                                                         	342291000119102  	No     
+Infantile cataract                                                                                         	399120006        	No     
+Infantile, juvenile and presenile cataracts                                                                	193571008        	No     
+Intellectual disability with cataract and kyphosis syndrome                                                	722003007        	No     
+Intellectual disability, cataract, calcified pinna, myopathy syndrome                                      	726709001        	No     
+Intracapsular cataract extraction                                                                          	404628003        	No     
+Intracapsular cataract extraction and insertion of intraocular lens                                        	308695001        	No     
+Intumescent cataract                                                                                       	95724003         	No     
+Juvenile cataract                                                                                          	399336001        	No     
+Juvenile cataract, microcornea, renal glucosuria syndrome                                                  	722457005        	No     
+Karandikar Maria Kamble syndrome                                                                           	715989002        	No     
+Lamellar zonular cataract                                                                                  	193577007        	No     
+Left after-cataract not obscuring vision                                                                   	15737241000119105	No     
+Lens nuclear hyper-refringence                                                                             	247059006        	No     
+Localized traumatic opacity                                                                                	43972005         	No     
+Malnutrition-dehydration cataract                                                                          	231972004        	No     
+Martsolf syndrome                                                                                          	722380003        	No     
+Mature cataract                                                                                            	849000           	No     
+Mechanical fragmentation of cataract with extraction by posterior route                                    	39243005         	No     
+Mechanical fragmentation of primary membranous cataract                                                    	74490003         	No     
+Mixed type cataract                                                                                        	314766004        	No     
+Morgagnian cataract                                                                                        	264443002        	No     
+Myotonic cataract                                                                                          	64741003         	No     
+Nance-Horan syndrome                                                                                       	445257004        	No     
+Nathalie syndrome                                                                                          	716170005        	No     
+Needling of secondary cataract                                                                             	12163000         	No     
+Non age-related cataract of bilateral eyes                                                                 	15738401000119105	No     
+Non age-related cataract of left eye                                                                       	15738361000119101	No     
+Non age-related cataract of right eye                                                                      	15738441000119107	No     
+Nonsenile cataract                                                                                         	399305009        	No     
+Nuclear cataract                                                                                           	53889007         	No     
+Nuclear lens opacities                                                                                     	247058003        	No     
+Nuclear sclerotic cataract                                                                                 	359766000        	No     
+Nuclear senile cataract                                                                                    	193589009        	No     
+O/E lens - early opacity                                                                                   	162820002        	No     
+On examination - cataract                                                                                  	420123008        	No     
+On examination - cataract of left eye                                                                      	418319009        	No     
+On examination - cataract of right eye                                                                     	418567000        	No     
+Osteogenesis imperfecta, recessive perinatal lethal, with microcephaly AND cataracts                       	15552004         	No     
+Partial cataract                                                                                           	123614006        	No     
+Partial resolved traumatic cataract                                                                        	193598007        	No     
+Phacoemulsification of cataract with intraocular lens implantation                                         	415089008        	No     
+Polychromatic posterior subcapsular lens opacities                                                         	247061002        	No     
+Posterior subcapsular cataract                                                                             	315353005        	No     
+Posterior subcapsular lens opacities                                                                       	247060001        	No     
+Posterior subcapsular polar cataract                                                                       	34533008         	No     
+Posterior subcapsular polar cataract of bilateral eyes                                                     	15737881000119104	No     
+Posterior subcapsular polar cataract of left eye                                                           	15737921000119106	No     
+Posterior subcapsular polar cataract of right eye                                                          	15737961000119101	No     
+Posterior subcapsular polar senile cataract                                                                	5318001          	No     
+Postoperative cataract syndrome                                                                            	70388009         	No     
+Presenile cataract                                                                                         	441622000        	No     
+Presenile cataract of bilateral eyes                                                                       	678491000119108  	No     
+Punctate age-related cataract                                                                              	726405008        	No     
+Punctate cataract                                                                                          	40714009         	No     
+Removal of secondary membranous cataract with iridectomy                                                   	65812008         	No     
+Right after-cataract not obscuring vision                                                                  	15737201000119108	No     
+Rubella cataract                                                                                           	253227001        	No     
+Secondary cataract of bilateral eyes with vision obscured                                                  	15737041000119101	No     
+Secondary cataract of left eye                                                                             	15737321000119105	No     
+Secondary cataract of left eye with vision obscured                                                        	15737121000119108	No     
+Secondary cataract of right eye                                                                            	15737361000119100	No     
+Secondary cataract of right eye with vision obscured                                                       	15737081000119106	No     
+Shrunken cataract                                                                                          	247064005        	No     
+Siegler Brewer Carey syndrome                                                                              	721076000        	No     
+Small incision manual extracapsular cataract extraction                                                    	417493007        	No     
+Small incision phacoemulsification of cataract and insertion of intraocular lens                           	313999004        	No     
+Soemmerring's ring                                                                                         	65720003         	No     
+Spinal muscular atrophy, Dandy-Walker malformation, cataract syndrome                                      	723612001        	No     
+Spondyloepiphyseal dysplasia, craniosynostosis, cleft palate, cataract and intellectual disability syndrome	718766002        	No     
+Spontaneous reabsorption of cataract                                                                       	247066007        	No     
+Stationary cataract                                                                                        	110999002        	No     
+Subcapsular cataract                                                                                       	95723009         	No     
+Subcapsular glaucomatous flecks                                                                            	67733005         	No     
+Suture tip cataract                                                                                        	370891001        	No     
+Tetanic cataract                                                                                           	68216000         	No     
+Torsional phacoemulsification                                                                              	424945000        	No     
+Total and subtotal congenital cataract                                                                     	204130004        	No     
+Total cataract of lens of bilateral eyes                                                                   	15738561000119107	No     
+Total cataract of lens of left eye                                                                         	15738521000119102	No     
+Total cataract of lens of right eye                                                                        	15738481000119102	No     
+Total traumatic cataract                                                                                   	8656007          	No     
+Total, mature senile cataract                                                                              	193590000        	No     
+Toxic cataract                                                                                             	38583007         	No     
+Toxic cataract not due to drugs                                                                            	193610005        	No     
+Traumatic cataract                                                                                         	34361001         	No     
+Vossius' ring                                                                                              	72180004         	No     
+Wellesley Carman French syndrome                                                                           	715988005        	No     
+Zonular nonsenile cataract                                                                                 	699520009        	No     

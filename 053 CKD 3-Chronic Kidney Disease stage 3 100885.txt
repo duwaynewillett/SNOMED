@@ -1,0 +1,14 @@
+Term                                                                          	Code           	Retired
+Anemia co-occurrent and due to chronic kidney disease stage 3                 	691421000119108	No     
+Benign hypertensive heart disease and chronic renal disease stage 3           	285081000119102	No     
+Chronic kidney disease stage 3                                                	433144002      	No     
+Chronic kidney disease stage 3 due to benign hypertension                     	284991000119104	No     
+Chronic kidney disease stage 3 due to hypertension                            	129171000119106	No     
+Chronic kidney disease stage 3 due to type 1 diabetes mellitus                	90741000119107 	No     
+Chronic kidney disease stage 3 due to type 2 diabetes mellitus                	731000119105   	No     
+Chronic kidney disease stage 3A                                               	700378005      	No     
+Chronic kidney disease stage 3B                                               	700379002      	No     
+Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	140121000119100	No     
+Hypertensive heart AND chronic kidney disease stage 3                         	96731000119100 	No     
+Malignant hypertensive chronic kidney disease stage 3                         	285871000119106	No     
+Malignant hypertensive heart disease and chronic renal disease stage 3        	285911000119109	No     

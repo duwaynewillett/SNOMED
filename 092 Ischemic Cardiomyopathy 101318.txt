@@ -1,0 +1,5 @@
+Term                                                          	Code     	Retired
+Generalized ischemic myocardial dysfunction                   	194849004	No     
+Ischemic congestive cardiomyopathy                            	426856002	No     
+Ischemic dilated cardiomyopathy due to coronary artery disease	472100003	No     
+Ischemic myocardial dysfunction                               	281091000	No     

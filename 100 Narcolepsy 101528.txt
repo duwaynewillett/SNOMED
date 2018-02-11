@@ -1,0 +1,8 @@
+Term                                                                  	Code           	Retired
+Autosomal dominant cerebellar ataxia, deafness and narcolepsy syndrome	722293005      	No     
+Cataplexy and narcolepsy                                              	193042000      	No     
+Narcolepsy                                                            	60380001       	No     
+Narcolepsy without cataplexy                                          	91521000119104 	No     
+Secondary narcolepsy                                                  	434241000124107	No     
+Secondary narcolepsy with cataplexy                                   	434261000124106	No     
+Secondary narcolepsy without cataplexy                                	434251000124109	No     

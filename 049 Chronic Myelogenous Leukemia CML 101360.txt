@@ -1,0 +1,20 @@
+Term                                                         	Code           	Retired
+Accelerated phase chronic myeloid leukemia                   	413389003      	No     
+Atypical chronic myeloid leukemia                            	277589003      	No     
+Blastic phase chronic myeloid leukemia                       	413656006      	No     
+Chronic eosinophilic leukemia                                	188733003      	No     
+Chronic monocytic leukemia                                   	188745007      	No     
+Chronic monocytic leukemia in relapse                        	122881000119107	No     
+Chronic myeloid leukemia                                     	92818009       	No     
+Chronic myeloid leukemia in lymphoid blast crisis            	413842007      	No     
+Chronic myeloid leukemia in myeloid blast crisis             	413843002      	No     
+Chronic myeloid leukemia in remission                        	92817004       	No     
+Chronic myelomonocytic leukemia                              	127225006      	No     
+Chronic neutrophilic leukemia                                	188734009      	No     
+Chronic phase chronic myeloid leukemia                       	413847001      	No     
+Juvenile chronic myeloid leukemia                            	277587001      	No     
+Juvenile myelomonocytic leukemia                             	445227008      	No     
+Leukemic infiltration of skin in chronic myeloid leukemia    	404153001      	No     
+Philadelphia chromosome negative chronic myelogenous leukemia	449386007      	No     
+Philadelphia chromosome positive chronic myelogenous leukemia	449108003      	No     
+Relapsing chronic myeloid leukemia                           	415287001      	No     

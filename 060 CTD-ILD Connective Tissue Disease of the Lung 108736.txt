@@ -1,0 +1,13 @@
+Term                                                      	Code           	Retired
+Diffuse interstitial rheumatoid disease of lung           	10713006       	No     
+Interstitial lung disease due to collagen vascular disease	427123006      	No     
+Interstitial lung disease due to connective tissue disease	711379004      	No     
+Lung disease with polymyositis                            	196136009      	No     
+Lung disease with Sjögren's disease                       	196137000      	No     
+Lung disease with systemic lupus erythematosus            	196138005      	No     
+Lung disease with systemic sclerosis                      	196133001      	No     
+Lupus disease of the lung                                 	77753005       	No     
+Pseudolymphoma of lung in Sjögren's disease               	44833003       	No     
+Rheumatoid lung disease                                   	398726004      	No     
+Rheumatoid lung disease with rheumatoid arthritis         	319841000119107	No     
+Rheumatoid pneumoconiosis                                 	398640008      	No     

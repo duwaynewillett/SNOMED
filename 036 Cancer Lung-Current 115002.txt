@@ -1,0 +1,123 @@
+Term                                                                           	Code             	Retired
+Adenocarcinoma of lung                                                         	254626006        	No     
+Adenocarcinoma of right lung                                                   	15956381000119100	No     
+Bronchioloalveolar carcinoma - disorder                                        	373627005        	No     
+Carcinoma in situ of lung parenchyma                                           	254639005        	No     
+Carcinoma of lower lobe, bronchus or lung                                      	372111007        	No     
+Carcinoma of lung                                                              	448993007        	No     
+Carcinoma of lung parenchyma                                                   	254628007        	No     
+Carcinoma of middle lobe, bronchus or lung                                     	372113005        	No     
+Carcinoma of upper lobe, bronchus or lung                                      	372136001        	No     
+Diffuse non-Hodgkin's lymphoma of lung                                         	448867004        	No     
+Epidermal growth factor receptor negative non-small cell lung cancer           	427038005        	No     
+Epidermal growth factor receptor positive non-small cell lung cancer           	426964009        	No     
+Epithelioid hemangioendothelioma of lung                                       	254635004        	No     
+Extensive stage primary small cell carcinoma of lung                           	683991000119103  	No     
+Follicular non-Hodgkin's lymphoma of lung                                      	448672006        	No     
+Giant cell carcinoma of lung                                                   	254631008        	No     
+Large cell carcinoma of lung                                                   	254629004        	No     
+Large cell carcinoma of lung, TNM stage 1                                      	424938000        	No     
+Large cell carcinoma of lung, TNM stage 2                                      	423050000        	No     
+Large cell carcinoma of lung, TNM stage 3                                      	424970000        	No     
+Large cell carcinoma of lung, TNM stage 4                                      	423600008        	No     
+Local recurrence of malignant tumor of lung                                    	314954002        	No     
+Malignant carcinoid tumor of lung                                              	123661000119106  	No     
+Malignant neoplasm of lower lobe of left lung                                  	724059003        	No     
+Malignant neoplasm of lower lobe of lung                                       	187870002        	No     
+Malignant neoplasm of lower lobe of right lung                                 	724056005        	No     
+Malignant neoplasm of lower lobe, bronchus or lung                             	187868006        	No     
+Malignant neoplasm of middle lobe bronchus                                     	187865009        	No     
+Malignant neoplasm of middle lobe of lung                                      	187866005        	No     
+Malignant neoplasm of middle lobe, bronchus or lung                            	187864008        	No     
+Malignant neoplasm of right upper lobe of lung                                 	724060008        	No     
+Malignant neoplasm of upper lobe of left lung                                  	724058006        	No     
+Malignant neoplasm of upper lobe of lung                                       	187862007        	No     
+Malignant neoplasm of upper lobe, bronchus or lung                             	269464000        	No     
+Malignant tumor of lung                                                        	363358000        	No     
+Malignant tumor of lung parenchyma                                             	254625005        	No     
+Non-Hodgkin's lymphoma of lung                                                 	448372003        	No     
+Non-small cell carcinoma of lung, TNM stage 1                                  	424132000        	No     
+Non-small cell carcinoma of lung, TNM stage 2                                  	425048006        	No     
+Non-small cell carcinoma of lung, TNM stage 3                                  	422968005        	No     
+Non-small cell carcinoma of lung, TNM stage 4                                  	423121009        	No     
+Non-small cell lung cancer                                                     	254637007        	No     
+Non-small cell lung cancer with mutation in epidermal growth factor receptor   	703228009        	No     
+Non-small cell lung cancer without mutation in epidermal growth factor receptor	703230006        	No     
+Nonsquamous nonsmall cell neoplasm of lung                                     	440173001        	No     
+Oat cell carcinoma of lung                                                     	254633006        	No     
+Overlapping malignant neoplasm of bronchus and lung                            	109371002        	No     
+Pancoast tumor                                                                 	254638002        	No     
+Pleuropulmonary blastoma                                                       	707670009        	No     
+Pleuropulmonary blastoma type I                                                	707671008        	No     
+Pleuropulmonary blastoma type II                                               	707672001        	No     
+Pleuropulmonary blastoma type III                                              	707673006        	No     
+Primary acinar cell carcinoma of lung                                          	707409003        	No     
+Primary adenocarcinoma of lower lobe of left lung                              	1078881000119102 	No     
+Primary adenocarcinoma of lower lobe of right lung                             	1078931000119107 	No     
+Primary adenocarcinoma of lung                                                 	707451005        	No     
+Primary adenocarcinoma of upper lobe of left lung                              	1078901000119100 	No     
+Primary adenocarcinoma of upper lobe of right lung                             	1078961000119104 	No     
+Primary adenoid cystic carcinoma of lung                                       	707466008        	No     
+Primary adenosquamous carcinoma of lung                                        	707405009        	No     
+Primary basaloid squamous cell carcinoma of lung                               	707454002        	No     
+Primary carcinosarcoma of lung                                                 	707596000        	No     
+Primary clear cell adenocarcinoma of lung                                      	711414003        	No     
+Primary clear cell squamous cell carcinoma of lung                             	707453008        	No     
+Primary fetal adenocarcinoma of lung                                           	707403002        	No     
+Primary malignant neoplasm of bronchus of left lower lobe                      	93729006         	No     
+Primary malignant neoplasm of bronchus of left upper lobe                      	93730001         	No     
+Primary malignant neoplasm of bronchus of right lower lobe                     	93731002         	No     
+Primary malignant neoplasm of bronchus of right middle lobe                    	93732009         	No     
+Primary malignant neoplasm of bronchus of right upper lobe                     	93733004         	No     
+Primary malignant neoplasm of hilus of lung                                    	93827000         	No     
+Primary malignant neoplasm of left lung                                        	354701000119107  	No     
+Primary malignant neoplasm of left upper lobe of lung                          	93865007         	No     
+Primary malignant neoplasm of lower lobe of left lung                          	93864006         	No     
+Primary malignant neoplasm of lower lobe, bronchus or lung                     	372110008        	No     
+Primary malignant neoplasm of lung                                             	93880001         	No     
+Primary malignant neoplasm of middle lobe, bronchus or lung                    	372112000        	No     
+Primary malignant neoplasm of right lower lobe of lung                         	93991009         	No     
+Primary malignant neoplasm of right lung                                       	354741000119109  	No     
+Primary malignant neoplasm of right middle lobe of lung                        	93992002         	No     
+Primary malignant neoplasm of upper lobe of right lung                         	93993007         	No     
+Primary malignant neoplasm of upper lobe, bronchus or lung                     	372135002        	No     
+Primary malignant neuroendocrine neoplasm of lung                              	722528008        	No     
+Primary mixed mucinous and non-mucinous bronchiolo-alveolar carcinoma of lung  	707468009        	No     
+Primary mixed subtype adenocarcinoma of lung                                   	707404008        	No     
+Primary mucinous adenocarcinoma of lung                                        	707452003        	No     
+Primary mucinous bronchiolo-alveolar carcinoma of lung                         	707470000        	No     
+Primary mucinous cystadenocarcinoma of lung                                    	707595001        	No     
+Primary mucoepidermoid carcinoma of lung                                       	707465007        	No     
+Primary myoepithelial carcinoma of lung                                        	707464006        	No     
+Primary non-mucinous bronchiolo-alveolar carcinoma of lung                     	707469001        	No     
+Primary papillary adenocarcinoma of lung                                       	707411007        	No     
+Primary papillary squamous cell carcinoma of lung                              	707455001        	No     
+Primary pleomorphic carcinoma of lung                                          	707458004        	No     
+Primary pseudosarcomatous carcinoma of lung                                    	707460002        	No     
+Primary pulmonary lymphoma                                                     	718200007        	No     
+Primary salivary gland type carcinoma of lung                                  	707467004        	No     
+Primary signet ring cell carcinoma of lung                                     	707407001        	No     
+Primary small cell malignant neoplasm of lung, TNM stage 1                     	67811000119102   	No     
+Primary small cell malignant neoplasm of lung, TNM stage 2                     	67821000119109   	No     
+Primary small cell malignant neoplasm of lung, TNM stage 3                     	67831000119107   	No     
+Primary small cell malignant neoplasm of lung, TNM stage 4                     	67841000119103   	No     
+Primary small cell non-keratinizing squamous cell carcinoma of lung            	707408006        	No     
+Primary solid carcinoma of lung                                                	707410008        	No     
+Primary spindle cell carcinoma of lung                                         	707457009        	No     
+Primary undifferentiated carcinoma of lung                                     	707456000        	No     
+Pulmonary blastoma                                                             	189815007        	No     
+Reactive oxygen species 1 positive non-small cell lung cancer                  	722425009        	No     
+Small cell carcinoma of lung                                                   	254632001        	No     
+Squamous cell carcinoma of bronchus in left lower lobe                         	313353007        	No     
+Squamous cell carcinoma of bronchus in left upper lobe                         	313354001        	No     
+Squamous cell carcinoma of bronchus in right lower lobe                        	313355000        	No     
+Squamous cell carcinoma of bronchus in right middle lobe                       	313356004        	No     
+Squamous cell carcinoma of bronchus in right upper lobe                        	313357008        	No     
+Squamous cell carcinoma of left lung                                           	12240951000119107	No     
+Squamous cell carcinoma of lung                                                	254634000        	No     
+Squamous cell carcinoma of lung, TNM stage 1                                   	423295000        	No     
+Squamous cell carcinoma of lung, TNM stage 2                                   	423468007        	No     
+Squamous cell carcinoma of lung, TNM stage 3                                   	425230006        	No     
+Squamous cell carcinoma of lung, TNM stage 4                                   	425376008        	No     
+Squamous cell carcinoma of right lung                                          	12240991000119102	No     
+Squamous non-small cell lung cancer                                            	723301009        	No     

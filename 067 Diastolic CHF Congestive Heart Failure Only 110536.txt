@@ -1,0 +1,12 @@
+Term                                                                     	Code           	Retired
+Acute diastolic heart failure                                            	443343001      	No     
+Acute heart failure co-occurrent with normal ejection fraction           	7421000175106  	No     
+Acute on chronic diastolic heart failure                                 	443344007      	No     
+Acute on chronic heart failure co-occurrent with normal ejection fraction	7401000175100  	No     
+Chronic diastolic heart failure                                          	441530006      	No     
+Chronic heart failure co-occurrent with normal ejection fraction         	7411000175102  	No     
+Diastolic heart failure                                                  	418304008      	No     
+Diastolic heart failure stage B                                          	120901000119108	No     
+Diastolic heart failure stage C                                          	120891000119109	No     
+Diastolic heart failure stage D                                          	120881000119106	No     
+Heart failure with normal ejection fraction                              	446221000      	No     

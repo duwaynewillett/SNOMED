@@ -1,0 +1,61 @@
+Term                                                                                                                                   	Code           	Retired
+Chemically induced hyperlipidemia                                                                                                      	426161002      	No     
+Chylomicronemia syndrome                                                                                                               	402786009      	No     
+Complex dyslipidemia                                                                                                                   	109041000119107	No     
+Diabetic dyslipidemia associated with type 2 diabetes mellitus                                                                         	761000119102   	No     
+Dyslipidemia                                                                                                                           	370992007      	No     
+Dyslipidemia due to type 1 diabetes mellitus                                                                                           	368551000119104	No     
+Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus	111231000119109	No     
+Endogenous hyperlipidemia                                                                                                              	129589009      	No     
+Exogenous hyperlipidemia                                                                                                               	129590000      	No     
+Familial apolipoprotein C-II deficiency                                                                                                	33513003       	No     
+Familial combined hyperlipidemia                                                                                                       	238040008      	No     
+Familial defective apolipoprotein B-100                                                                                                	238081000      	No     
+Familial hyperalphalipoproteinemia                                                                                                     	15771000119109 	No     
+Familial hypercholesterolemia                                                                                                          	398036000      	No     
+Familial hypercholesterolemia - heterozygous                                                                                           	238079002      	No     
+Familial hypercholesterolemia - homozygous                                                                                             	238078005      	No     
+Familial hypercholesterolemia due to genetic defect of apolipoprotein B                                                                	403831006      	No     
+Familial hypercholesterolemia due to heterozygous LDL receptor mutation                                                                	403829002      	No     
+Familial hypercholesterolemia due to homozygous LDL receptor mutation                                                                  	403830007      	No     
+Familial hyperchylomicronemia                                                                                                          	267435002      	No     
+Familial hypertriglyceridemia                                                                                                          	34528009       	No     
+Familial lipoprotein lipase deficiency                                                                                                 	238086005      	No     
+Familial lipoprotein lipase deficiency with type I phenotype                                                                           	403827000      	No     
+Familial lipoprotein lipase deficiency with type V phenotype                                                                           	403828005      	No     
+Familial multiple lipoprotein-type hyperlipidemia                                                                                      	299465007      	No     
+Familial type 5 hyperlipoproteinemia                                                                                                   	34349009       	No     
+Fredrickson type IIa hyperlipoproteinemia                                                                                              	397915002      	No     
+Fredrickson type IV hyperlipoproteinemia                                                                                               	238085009      	No     
+Hepatic lipase deficiency                                                                                                              	720940008      	No     
+Hyperalphalipoproteinemia                                                                                                              	238080004      	No     
+Hypercholesterolemia                                                                                                                   	13644009       	No     
+Hyperlipidemia                                                                                                                         	55822004       	No     
+Hyperlipidemia caused by steroid                                                                                                       	114831000119107	No     
+Hyperlipidemia due to type 1 diabetes mellitus                                                                                         	137941000119106	No     
+Hyperlipidemia due to type 2 diabetes mellitus                                                                                         	137931000119102	No     
+Hyperlipidemia with lipid deposition in skin                                                                                           	402725005      	No     
+Hyperlipidemia, group A                                                                                                                	190774002      	No     
+Hypertriglyceridemia                                                                                                                   	302870006      	No     
+Mixed hypercholesterolemia and hypertriglyceridemia                                                                                    	129591001      	No     
+Mixed hyperlipidemia                                                                                                                   	267434003      	No     
+Mixed hyperlipidemia due to type 1 diabetes mellitus                                                                                   	1571000119104  	No     
+Mixed hyperlipidemia due to type 2 diabetes mellitus                                                                                   	701000119103   	No     
+Polygenic hypercholesterolemia                                                                                                         	238077000      	No     
+Posttransplant hyperlipidemia                                                                                                          	445261005      	No     
+Primary "polygenic" combined hyperlipidemia                                                                                            	402474007      	No     
+Primary acquired chylomicronemia                                                                                                       	402475008      	No     
+Primary chylomicronemia                                                                                                                	402726006      	No     
+Primary combined hyperlipidemia                                                                                                        	238088006      	No     
+Primary genetic hyperlipidemia                                                                                                         	402785008      	No     
+Primary genetic mixed hyperlipidemia                                                                                                   	402787000      	No     
+Primary hypercholesterolemia                                                                                                           	238076009      	No     
+Primary hypertriglyceridemia                                                                                                           	238083002      	No     
+Pure hypercholesterolemia                                                                                                              	267432004      	No     
+Pure hyperglyceridemia                                                                                                                 	267433009      	No     
+Secondary combined hyperlipidemia                                                                                                      	238089003      	No     
+Secondary hypercholesterolemia                                                                                                         	238082007      	No     
+Secondary hyperlipidemia                                                                                                               	402727002      	No     
+Secondary hypertriglyceridemia                                                                                                         	238087001      	No     
+Sporadic primary hypertriglyceridemia                                                                                                  	402473001      	No     
+Very low density lipoprotinemia                                                                                                        	238084008      	No     

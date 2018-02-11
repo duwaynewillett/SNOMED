@@ -1,0 +1,156 @@
+Term                                                                         	Code             	Retired
+Absolute glaucoma                                                            	19144002         	No     
+Absolute glaucoma left eye                                                   	342241000119105  	No     
+Absolute glaucoma right eye                                                  	336631000119104  	No     
+Acute angle-closure glaucoma                                                 	30041005         	No     
+Acute angle-closure glaucoma of left eye                                     	342221000119104  	No     
+Acute angle-closure glaucoma of right eye                                    	336611000119109  	No     
+Acute-on-chronic glaucoma                                                    	314017009        	No     
+Advanced open-angle glaucoma                                                 	111513000        	No     
+Anatomical narrow angle glaucoma with borderline intraocular pressure        	444863008        	No     
+Angle recession glaucoma                                                     	392352004        	No     
+Angle-closure glaucoma                                                       	392291006        	No     
+Angle-closure glaucoma - borderline                                          	193534006        	No     
+Aniridia, renal agenesis, psychomotor retardation syndrome                   	733116005        	No     
+Aphakic glaucoma                                                             	15374009         	No     
+Bilateral absolute glaucoma                                                  	347401000119106  	No     
+Bilateral acute angle-closure glaucoma                                       	347381000119106  	No     
+Bilateral angle-closure glaucoma                                             	15736721000119106	No     
+Bilateral glaucoma                                                           	12239421000119101	No     
+Bilateral open-angle glaucoma                                                	12239301000119102	No     
+Bilateral primary open angle glaucoma                                        	15633281000119103	No     
+Borderline angle-closure glaucoma of left eye                                	15738801000119108	No     
+Borderline angle-closure glaucoma of right eye                               	15738721000119105	No     
+Borderline glaucoma                                                          	193531003        	No     
+Cataract glaucoma syndrome                                                   	718851007        	No     
+Chronic angle-closure glaucoma                                               	33647009         	No     
+Ciliary block glaucoma                                                       	367360002        	No     
+Congenital glaucoma                                                          	204113001        	No     
+Congenital glaucoma of bilateral eyes                                        	15673001000119103	No     
+Congenital glaucoma of left eye                                              	15673081000119106	No     
+Corticosteroid-induced glaucoma                                              	1654001          	No     
+Corticosteroid-induced glaucoma of bilateral eyes                            	721898008        	No     
+Corticosteroid-induced glaucoma of left eye                                  	722321001        	No     
+Corticosteroid-induced glaucoma of right eye                                 	722329004        	No     
+Drug-induced glaucoma                                                        	93435005         	No     
+Dyssegmental dysplasia with glaucoma syndrome                                	715992003        	No     
+GEMSS syndrome                                                               	722450007        	No     
+Ghost cell glaucoma                                                          	232088004        	No     
+Glaucoma                                                                     	23986001         	No     
+Glaucoma and corneal anomaly                                                 	232083008        	No     
+Glaucoma and sleep apnea syndrome                                            	719976001        	No     
+Glaucoma associated with anterior segment anomaly                            	45623002         	No     
+Glaucoma associated with iridocorneal endothelial syndrome                   	404634005        	No     
+Glaucoma associated with ocular disorder                                     	66747002         	No     
+Glaucoma associated with ocular inflammation                                 	37155002         	No     
+Glaucoma associated with ocular trauma                                       	68241007         	No     
+Glaucoma associated with systemic syndromes                                  	53667005         	No     
+Glaucoma associated with tumors AND/OR cysts                                 	27735002         	No     
+Glaucoma associated with vascular disorder                                   	19309007         	No     
+Glaucoma caused by silicone oil                                              	715144004        	No     
+Glaucoma due to another disorder                                             	193551004        	No     
+Glaucoma due to chamber angle anomaly                                        	193552006        	No     
+Glaucoma due to combination of mechanisms                                    	92829008         	No     
+Glaucoma due to diabetes mellitus type 1                                     	60981000119103   	No     
+Glaucoma due to iris anomaly                                                 	193553001        	No     
+Glaucoma due to ocular cyst                                                  	275477002        	No     
+Glaucoma due to ocular tumor or cyst                                         	267625001        	No     
+Glaucoma due to ocular vascular disorder                                     	193562004        	No     
+Glaucoma due to perforating injury                                           	66725002         	No     
+Glaucoma due to systemic syndrome                                            	193555008        	No     
+Glaucoma due to type 2 diabetes mellitus                                     	41911000119107   	No     
+Glaucoma following surgery                                                   	232090003        	No     
+Glaucoma in endocrine, nutritional and metabolic diseases                    	193556009        	No     
+Glaucoma of bilateral eyes due to anterior segment anomaly                   	15739081000119101	No     
+Glaucoma of bilateral eyes due to chamber angle anomaly                      	15739361000119107	No     
+Glaucoma of bilateral eyes due to combination of mechanisms                  	15738841000119105	No     
+Glaucoma of bilateral eyes due to iris anomaly                               	15739041000119106	No     
+Glaucoma of bilateral eyes due to ocular vascular disorder                   	15739281000119107	No     
+Glaucoma of bilateral eyes due to systemic disorder                          	15739761000119108	No     
+Glaucoma of childhood                                                        	71111008         	No     
+Glaucoma of left eye                                                         	12239461000119106	No     
+Glaucoma of left eye due to anterior segment anomaly                         	15739161000119109	No     
+Glaucoma of left eye due to chamber angle anomaly                            	15739401000119103	No     
+Glaucoma of left eye due to combination of mechanisms                        	15738881000119100	No     
+Glaucoma of left eye due to lens disorder                                    	15739641000119104	No     
+Glaucoma of left eye due to ocular vascular disorder                         	15739201000119104	No     
+Glaucoma of left eye due to systemic disorder                                	15739721000119103	No     
+Glaucoma of left eye due to trauma                                           	15739481000119106	No     
+Glaucoma of right eye                                                        	12239501000119106	No     
+Glaucoma of right eye due to anterior segment anomaly                        	15739121000119104	No     
+Glaucoma of right eye due to chamber angle anomaly                           	15739321000119102	No     
+Glaucoma of right eye due to combination of mechanisms                       	15738921000119107	No     
+Glaucoma of right eye due to lens disorder                                   	15739561000119101	No     
+Glaucoma of right eye due to ocular vascular disorder                        	15739241000119102	No     
+Glaucoma of right eye due to systemic disorder                               	15739681000119109	No     
+Glaucoma of right eye due to trauma                                          	15739441000119101	No     
+Glaucoma with increased episcleral venous pressure                           	34623005         	No     
+Glaucoma with intraocular hemorrhage                                         	232087009        	No     
+Glaucomatocyclitic crisis                                                    	29538005         	No     
+Glaucomatous atrophy of optic disc                                           	1207009          	No     
+Hemolytic glaucoma                                                           	392030001        	No     
+Hypersecretion glaucoma                                                      	29369005         	No     
+Iatrogenic angle-closure glaucoma                                            	232082003        	No     
+Iatrogenic glaucoma                                                          	232081005        	No     
+Intermittent angle-closure glaucoma                                          	65460003         	No     
+Lens particle glaucoma                                                       	404648005        	No     
+Low tension glaucoma                                                         	50485007         	No     
+Lowry MacLean syndrome                                                       	721974000        	No     
+Malignant glaucoma                                                           	10100008         	No     
+Microcornea with glaucoma and absent frontal sinus syndrome                  	716166002        	No     
+Narrow angle glaucoma of left eye                                            	15736761000119101	No     
+Narrow-angle glaucoma of right eye                                           	15736681000119100	No     
+Neovascular glaucoma                                                         	232086000        	No     
+Neovascular glaucoma due to diabetes mellitus                                	713457002        	No     
+Neovascular glaucoma due to hyphema                                          	698840003        	No     
+Neovascular glaucoma of bilateral eyes                                       	15736561000119108	No     
+Neovascular glaucoma of left eye                                             	15736641000119105	No     
+Neovascular glaucoma of right eye                                            	15736601000119108	No     
+Open angle with borderline intraocular pressure                              	35472004         	No     
+Open angle with cupping of optic discs                                       	48705003         	No     
+Open-angle glaucoma                                                          	84494001         	No     
+Open-angle glaucoma - borderline                                             	193533000        	No     
+Open-angle glaucoma of bilateral eyes caused by steroid                      	15993751000119108	No     
+Open-angle glaucoma of bilateral eyes co-occurrent with cupping of optic disc	15739841000119103	No     
+Open-angle glaucoma of left eye                                              	12239341000119100	No     
+Open-angle glaucoma of left eye caused by steroid                            	15993711000119107	No     
+Open-angle glaucoma of right eye                                             	12239381000119105	No     
+Open-angle glaucoma of right eye caused by steroid                           	15993671000119108	No     
+Phacogenic glaucoma                                                          	84333006         	No     
+Phacolytic glaucoma                                                          	32893002         	No     
+Phacomorphic glaucoma                                                        	392300000        	No     
+Pigmentary glaucoma                                                          	46168003         	No     
+Plateau iris                                                                 	232080006        	No     
+Postoperative angle-closure glaucoma                                         	89215000         	No     
+Primary angle-closure glaucoma                                               	392288006        	No     
+Primary angle-closure glaucoma of bilateral eyes                             	15736441000119108	No     
+Primary angle-closure glaucoma of left eye                                   	15736521000119103	No     
+Primary angle-closure glaucoma of right eye                                  	15736481000119103	No     
+Primary angle-closure glaucoma residual stage                                	193546005        	No     
+Primary congenital glaucoma                                                  	415176004        	No     
+Primary glaucoma due to combination of mechanisms                            	95213001         	No     
+Primary open angle glaucoma                                                  	77075001         	No     
+Primary open angle glaucoma of left eye                                      	15633321000119108	No     
+Primary open angle glaucoma of right eye                                     	15640441000119104	No     
+Pseudoexfoliation glaucoma                                                   	111514006        	No     
+Pseudoprogeria syndrome                                                      	733086003        	No     
+Residual stage angle-closure glaucoma                                        	55129006         	No     
+Residual stage of open angle glaucoma                                        	66990007         	No     
+Retinal degeneration, nanophthalmos, glaucoma syndrome                       	723503006        	No     
+Schwartz ocular syndrome                                                     	415501002        	No     
+Secondary angle-closure glaucoma                                             	21571006         	No     
+Secondary angle-closure glaucoma - synechial                                 	314784002        	No     
+Secondary angle-closure glaucoma with pupillary block                        	193561006        	No     
+Secondary glaucoma                                                           	95717004         	No     
+Secondary glaucoma due to combination mechanisms                             	95250000         	No     
+Secondary open-angle glaucoma                                                	21928008         	No     
+Spastic paraplegia, glaucoma, intellectual disability syndrome               	733455003        	No     
+Steroid-induced glaucoma - borderline                                        	302895007        	No     
+Steroid-induced glaucoma glaucomatous stage                                  	193548006        	No     
+Steroid-induced glaucoma residual stage                                      	193549003        	No     
+Steroid-induced open angle glaucoma                                          	24151000119106   	No     
+Traumatic glaucoma due to birth trauma                                       	206248004        	No     
+Uveitic glaucoma                                                             	314033007        	No     
+Uveitis-glaucoma-hyphema syndrome                                            	392029006        	No     
+Uveitis-hyphema-glaucoma syndrome of left eye                                	15679761000119102	No     
+Uveitis-hyphema-glaucoma syndrome of right eye                               	15679721000119107	No     

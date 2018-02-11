@@ -1,0 +1,41 @@
+Term                                                                           	Code          	Retired
+Adjustment disorder                                                            	17226007      	No     
+Adjustment disorder in remission                                               	698701000     	No     
+Adjustment disorder with academic inhibition                                   	15977008      	No     
+Adjustment disorder with anxious mood                                          	47372000      	No     
+Adjustment disorder with anxious mood in remission                             	698693004     	No     
+Adjustment disorder with depressed mood                                        	57194009      	No     
+Adjustment disorder with depressed mood in remission                           	698696007     	No     
+Adjustment disorder with disturbance of conduct                                	84984002      	No     
+Adjustment disorder with mixed disturbance of emotions AND conduct             	66381006      	No     
+Adjustment disorder with mixed disturbance of emotions and conduct in remission	698697003     	No     
+Adjustment disorder with mixed emotional features                              	55668003      	No     
+Adjustment disorder with physical complaints                                   	18478005      	No     
+Adjustment disorder with withdrawal                                            	9674006       	No     
+Adjustment disorder with work inhibition                                       	32880007      	No     
+Adjustment reaction in infancy                                                 	386821008     	No     
+Adjustment reaction of adolescence                                             	386822001     	No     
+Adjustment reaction of adult life                                              	386823006     	No     
+Adjustment reaction of childhood                                               	386824000     	No     
+Adjustment reaction of late life                                               	386825004     	No     
+Adjustment reaction to medical therapy                                         	425914008     	No     
+Adjustment reaction with aggression                                            	192056005     	No     
+Adjustment reaction with antisocial behavior                                   	192057001     	No     
+Adjustment reaction with destructiveness                                       	192058006     	No     
+Adjustment reaction with physical symptoms                                     	192063005     	No     
+Adolescent emancipation disorder                                               	192051000     	No     
+Aggressor identification syndrome                                              	7397008       	No     
+Brief depressive adjustment reaction                                           	192046006     	No     
+Carer stress syndrome                                                          	300979000     	No     
+Concentration camp syndrome                                                    	192061007     	No     
+Culture shock                                                                  	192054008     	No     
+Early adult emancipation disorder                                              	192052007     	No     
+Elective mutism due to an adjustment reaction                                  	192064004     	No     
+Hospitalism                                                                    	192065003     	No     
+Prolonged depressive adjustment reaction                                       	192049004     	No     
+Psychogenic fugue co-occurrent and due to stress reaction                      	7031000119100 	No     
+Specific academic or work inhibition                                           	268658008     	No     
+Specific work inhibition                                                       	275473003     	No     
+Stress and adjustment reaction                                                 	271952001     	No     
+Stress reaction with psychomotor agitation                                     	92501000119101	No     
+Stress-related problem                                                         	162218007     	No     

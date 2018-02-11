@@ -1,0 +1,41 @@
+Term                                                                	Code          	Retired
+Acute eosinophilic leukemia                                         	277604002     	No     
+Acute megakaryoblastic leukemia                                     	277602003     	No     
+Acute monoblastic leukemia                                          	277601005     	No     
+Acute monoblastic leukemia in remission                             	698646006     	No     
+Acute monocytic leukemia                                            	413441006     	No     
+Acute monocytic leukemia in remission                               	91858008      	No     
+Acute monocytic/monoblastic leukemia                                	413442004     	No     
+Acute myeloid leukemia due to recurrent genetic abnormality         	721305008     	No     
+Acute myeloid leukemia in remission                                 	91860005      	No     
+Acute myeloid leukemia with maturation, FAB M2                      	359648001     	No     
+Acute myeloid leukemia with maturation, FAB M2, in remission        	426124006     	No     
+Acute myeloid leukemia with myelodysplasia-related changes          	445448008     	No     
+Acute myeloid leukemia with t(6;9)(p23;q34) translocation           	733598001     	No     
+Acute myeloid leukemia with t(8;16)(p11;p13) translocation          	725390002     	No     
+Acute myeloid leukemia with t(9:11)(p22;q23); MLLT3-MLL             	444911000     	No     
+Acute myeloid leukemia without maturation, FAB M1                   	359640008     	No     
+Acute myeloid leukemia without maturation, FAB M1 in remission      	61321000119106	No     
+Acute myeloid leukemia, disease                                     	91861009      	No     
+Acute myeloid leukemia, minimal differentiation, FAB M0             	359631009     	No     
+Acute myeloid leukemia, minimal differentiation, FAB M0 in remission	61311000119104	No     
+Acute myelomonocytic leukemia - eosinophilic variant                	285839005     	No     
+Acute myelomonocytic leukemia, FAB M4                               	110005000     	No     
+Acute myelomonocytic leukemia, FAB M4, in remission                 	427658007     	No     
+Acute panmyelosis with myelofibrosis                                	109991003     	No     
+Acute promyelocytic leukemia - hypogranular variant                 	285769009     	No     
+Acute promyelocytic leukemia, FAB M3                                	110004001     	No     
+Acute promyelocytic leukemia, FAB M3, in remission                  	425869007     	No     
+Basophilic leukemia                                                 	307592006     	No     
+Core binding factor acute myeloid leukemia                          	702446006     	No     
+Cytogenetically normal acute myeloid leukemia                       	703387000     	No     
+Erythroleukemia in remission                                        	93450001      	No     
+Erythroleukemia, FAB M6                                             	93451002      	No     
+Erythroleukemia, FAB M6 in remission                                	426642002     	No     
+History of acute myeloid leukemia                                   	79081000119100	No     
+Hypergranular promyelocytic leukemia                                	278189009     	No     
+Leukemic infiltration of skin in acute myeloid leukemia             	404152006     	No     
+Megakaryocytic leukemia in remission                                	94148006      	No     
+Myeloid sarcoma                                                     	94719007      	No     
+Myeloid sarcoma in remission                                        	94718004      	No     
+Therapy related acute myeloid leukemia and myelodysplastic syndrome 	721306009     	No     

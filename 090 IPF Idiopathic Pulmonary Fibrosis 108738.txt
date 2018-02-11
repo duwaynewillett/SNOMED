@@ -1,0 +1,6 @@
+Term                                  	Code     	Retired
+Acute idiopathic pulmonary fibrosis   	708537005	No     
+Chronic idiopathic pulmonary fibrosis 	700251005	No     
+Familial idiopathic pulmonary fibrosis	426437004	No     
+Idiopathic pulmonary fibrosis         	700250006	No     
+Subacute idiopathic pulmonary fibrosis	700252003	No     

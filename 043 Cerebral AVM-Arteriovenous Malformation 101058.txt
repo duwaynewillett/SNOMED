@@ -1,0 +1,15 @@
+Term                                                                                                            	Code     	Retired
+Cerebral arteriovenous malformation                                                                             	234142008	No     
+Cerebrofacial arteriovenous metameric syndrome                                                                  	703266007	No     
+Cerebrofacial arteriovenous metameric syndrome type 1                                                           	703267003	No     
+Cerebrofacial arteriovenous metameric syndrome type 2                                                           	6729006  	No     
+Cerebrofacial arteriovenous metameric syndrome type 3                                                           	703268008	No     
+Embolization of intracranial arteriovenous malformation                                                         	230910009	No     
+Endovascular obliteration of intracranial arteriovenous malformation                                            	230917007	No     
+Excision of intracranial arteriovenous malformation                                                             	230905005	No     
+Fluoroscopic angiography and embolization of intracranial arteriovenous malformation                            	418527001	No     
+Lymphedema and cerebral arteriovenous anomaly syndrome                                                          	721979005	No     
+Percutaneous arterial and venous embolization of cerebral arteriovenous malformation using fluoroscopic guidance	438822008	No     
+Percutaneous venous embolization of cerebral arteriovenous malformation using fluoroscopic guidance             	440236009	No     
+Ruptured cerebral arteriovenous malformation                                                                    	277299009	No     
+Stereotactic radiosurgery of intracranial arteriovenous malformation                                            	230912001	No     

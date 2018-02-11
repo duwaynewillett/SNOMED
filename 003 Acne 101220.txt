@@ -1,0 +1,62 @@
+Term                                                      	Code     	Retired
+Acne                                                      	11381005 	No     
+Acne agminata                                             	238752009	No     
+Acne atrophica                                            	72936003 	No     
+Acne conglobata                                           	42228007 	No     
+Acne cosmetica                                            	17332000 	No     
+Acne detergicans                                          	77816008 	No     
+Acne estivalis                                            	83218005 	No     
+Acne fulminans                                            	4659007  	No     
+Acne fulminans with erythema nodosum                      	403350000	No     
+Acne indurata                                             	87144001 	No     
+Acne keloid                                               	238746008	No     
+Acne mechanica                                            	13101006 	No     
+Acne nodule                                               	403359004	No     
+Acne of external chemical origin                          	22920003 	No     
+Acne of external origin                                   	402641003	No     
+Acne rosacea, papular type                                	75867005 	No     
+Acne urticata                                             	201224007	No     
+Acne varioliformis                                        	23894009 	No     
+Acne venenata                                             	42200001 	No     
+Acne vulgaris                                             	88616000 	No     
+Acne with gram negative folliculitis                      	402642005	No     
+Adult premenstrual acne                                   	59663001 	No     
+Bromide acne                                              	53354003 	No     
+Bromine acne                                              	201215003	No     
+Chlorine acne                                             	83684005 	No     
+Closed comedone                                           	247468003	No     
+Colloid acne                                              	201218001	No     
+Comedonal acne                                            	238744006	No     
+Comedone                                                  	247467008	No     
+Cystic acne                                               	13277001 	No     
+Demodex acne                                              	371062005	No     
+Excoriated acne                                           	10065003 	No     
+Familial dyskeratotic comedones                           	254219004	No     
+Giant comedo                                              	403357002	No     
+Halogen acne                                              	2176006  	No     
+Hydration acne                                            	403354009	No     
+Inflammatory acne                                         	428101005	No     
+Iodide acne                                               	32226008 	No     
+Iodine acne                                               	201217006	No     
+Juvenile acne                                             	238743000	No     
+Light - exacerbated acne                                  	238530002	No     
+Macrocomedone (acne)                                      	403358007	No     
+Multiple "sandpaper" type comedones                       	403356006	No     
+Neonatal acne                                             	49706007 	No     
+Nodular elastosis with cysts and comedones                	111200005	No     
+Nodulocystic acne                                         	238745007	No     
+O/E - blackheads                                          	164375004	No     
+Occupational acne                                         	201220003	No     
+Oil acne                                                  	403351001	No     
+Open comedone                                             	271763005	No     
+Pitch acne                                                	403352008	No     
+Polyporous comedone                                       	403355005	No     
+Pustular acne                                             	59172008 	No     
+Pyoderma faciale                                          	29909004 	No     
+Pyogenic arthritis, pyoderma gangrenosum, acne syndrome   	724015007	No     
+SAPHO syndrome                                            	60684003 	No     
+Steroid acne                                              	201222006	No     
+Superficial acne vulgaris                                 	403347003	No     
+Superficial inflammatory acne vulgaris                    	403348008	No     
+Superficial mixed comedonal and inflammatory acne vulgaris	403349000	No     
+Tropical acne                                             	10954006 	No     

@@ -1,0 +1,147 @@
+Term                                                                       	Code             	Retired
+Acarophobia                                                                	403592009        	No     
+Acrophobia                                                                 	58963008         	No     
+Aerophobia                                                                 	440575001        	No     
+Algophobia                                                                 	75007009         	No     
+Androphobia                                                                	102929005        	No     
+Anticipatory anxiety                                                       	35429005         	No     
+Anticipatory anxiety, mild                                                 	11458009         	No     
+Anticipatory anxiety, moderate                                             	36646009         	No     
+Anticipatory anxiety, severe                                               	5874002          	No     
+Anxiety                                                                    	48694002         	No     
+Anxiety about altered body image                                           	225644006        	No     
+Anxiety about appearing ridiculous                                         	277838008        	No     
+Anxiety about becoming fat                                                 	277831002        	No     
+Anxiety about behavior or performance                                      	247825008        	No     
+Anxiety about blushing                                                     	89225005         	No     
+Anxiety about body function or health                                      	247808006        	No     
+Anxiety about breathlessness                                               	702535006        	No     
+Anxiety about choking                                                      	277822002        	No     
+Anxiety about collapsing                                                   	277824001        	No     
+Anxiety about dying                                                        	277827008        	No     
+Anxiety about fainting                                                     	277833004        	No     
+Anxiety about forced dependence                                            	225636006        	No     
+Anxiety about going crazy                                                  	277828003        	No     
+Anxiety about having a fit                                                 	277821009        	No     
+Anxiety about having a heart attack                                        	277834005        	No     
+Anxiety about losing control of bowels                                     	277818007        	No     
+Anxiety about losing emotional control                                     	277829006        	No     
+Anxiety about loss of control                                              	225637002        	No     
+Anxiety about loss of memory                                               	431432003        	No     
+Anxiety about making mistakes                                              	225643000        	No     
+Anxiety about not coping with parenthood                                   	225642005        	No     
+Anxiety about resuming sexual relations                                    	225638007        	No     
+Anxiety about saying the wrong thing                                       	277839000        	No     
+Anxiety about shaking                                                      	277825000        	No     
+Anxiety about swallowing                                                   	277823007        	No     
+Anxiety about sweating                                                     	277826004        	No     
+Anxiety about treatment                                                    	225635005        	No     
+Anxiety about vomiting in public                                           	277820005        	No     
+Anxiety about wetting self                                                 	277819004        	No     
+Anxiety attack                                                             	300895004        	No     
+Anxiety hysteria                                                           	231506008        	No     
+Anxiety neurosis                                                           	207363009        	No     
+Anxiety state                                                              	198288003        	No     
+Arachnophobia                                                              	102916005        	No     
+Astrapophobia                                                              	102925004        	No     
+Bromhidrosiphobia                                                          	24109003         	No     
+C/O - panic attack                                                         	395017009        	No     
+Chronic anxiety                                                            	191708009        	No     
+Claustrophobia                                                             	19887002         	No     
+Death anxiety                                                              	129869000        	No     
+Dental phobia                                                              	38617005         	No     
+Erotophobia                                                                	54746005         	No     
+Examination fear                                                           	231508009        	No     
+Examination phobia                                                         	280947008        	No     
+Fear of blood                                                              	102917001        	No     
+Fear of breast cancer                                                      	724451007        	No     
+Fear of breast disease                                                     	724449008        	No     
+Fear of bridges                                                            	288241000119105  	No     
+Fear of cancer of endocrine system                                         	723115003        	No     
+Fear of cancer of respiratory system                                       	723093008        	No     
+Fear of cardiovascular disease                                             	723087000        	No     
+Fear of complications of pregnancy                                         	717696001        	No     
+Fear of contracting disease                                                	247866008        	No     
+Fear of contracting HIV infection                                          	102920009        	No     
+Fear of contracting radiation sickness                                     	247869001        	No     
+Fear of contracting venereal disease                                       	247868009        	No     
+Fear of dentist                                                            	225630000        	No     
+Fear of ear disease                                                        	723119009        	No     
+Fear of enclosed spaces                                                    	247850006        	No     
+Fear of endocrine disease                                                  	723112000        	No     
+Fear of eye disease                                                        	726403001        	No     
+Fear of flying                                                             	247853008        	No     
+Fear of genital cancer                                                     	724450008        	No     
+Fear of genital disease                                                    	724448000        	No     
+Fear of getting cancer                                                     	34563004         	No     
+Fear of having a heart attack                                              	247818001        	No     
+Fear of having cancer of digestive system                                  	722843001        	No     
+Fear of having digestive disease                                           	722842006        	No     
+Fear of heart attack                                                       	102931001        	No     
+Fear of heart disease                                                      	723086009        	No     
+Fear of heights                                                            	276241001        	No     
+Fear of hematological cancer                                               	723121004        	No     
+Fear of hematological disease                                              	723120003        	No     
+Fear of hypertension                                                       	102932008        	No     
+Fear of infection                                                          	102919003        	No     
+Fear of injury                                                             	288251000119107  	No     
+Fear of insects                                                            	19512009         	No     
+Fear of metabolic disease                                                  	723113005        	No     
+Fear of musculoskeletal cancer                                             	723118001        	No     
+Fear of musculoskeletal disease                                            	723117006        	No     
+Fear of neurological disease                                               	724824002        	No     
+Fear of nutritional disease                                                	723114004        	No     
+Fear of phone boxes                                                        	247852003        	No     
+Fear of pregnancy                                                          	191733007        	No     
+Fear of respiratory disease                                                	723092003        	No     
+Fear of school                                                             	31492004         	No     
+Fear of sexual dysfunction                                                 	724452000        	No     
+Fear of skin disease                                                       	724879005        	No     
+Fear of the dark                                                           	247847008        	No     
+Fear of transport                                                          	397775001        	No     
+Fear of traveling in vehicles                                              	398304003        	No     
+Fear of tunnels                                                            	247851005        	No     
+Flying phobia                                                              	247854002        	No     
+Free-floating anxiety                                                      	81350009         	No     
+Gynephobia                                                                 	102930000        	No     
+Heightened global phobia                                                   	110358001        	No     
+Maternal concern                                                           	270472006        	No     
+Microphobia                                                                	102918006        	No     
+Mild anxiety                                                               	70997004         	No     
+Mild major depressive disorder co-occurrent with anxiety single episode    	16265951000119109	No     
+Moderate anxiety                                                           	61387006         	No     
+Moderate major depressive disorder co-occurrent with anxiety single episode	16266831000119100	No     
+Needle phobia                                                              	231501003        	No     
+Noise phobia                                                               	370567003        	No     
+Non-situational panic attack                                               	231503000        	No     
+Nosophobia                                                                 	102915009        	No     
+Nyctophobia                                                                	102927007        	No     
+O/E - anxious                                                              	162723006        	No     
+O/E - panic attack                                                         	417676004        	No     
+Panic                                                                      	79823003         	No     
+Panic attack                                                               	225624000        	No     
+Parasitophobia                                                             	198280005        	No     
+Parental anxiety                                                           	300894000        	No     
+Patient concerned about eyesight                                           	401010000        	No     
+Performance anxiety                                                        	279622009        	No     
+Phobia                                                                     	386808001        	No     
+Phonophobia                                                                	313387002        	No     
+Pyrophobia                                                                 	102924000        	No     
+Recurrent anxiety                                                          	191709001        	No     
+Ritual hand washing                                                        	403591002        	No     
+School phobia                                                              	271947006        	No     
+Severe anxiety (panic)                                                     	80583007         	No     
+Severe major depressive disorder co-occurrent with anxiety single episode  	16266991000119108	No     
+Situational panic attack                                                   	231502005        	No     
+Stage fright                                                               	231507004        	No     
+Taphophobia                                                                	102913002        	No     
+Teratophobia                                                               	102923006        	No     
+Theophobia                                                                 	102928002        	No     
+Tocophobia                                                                 	102922001        	No     
+Toxicophobia                                                               	102921008        	No     
+Unrealistic dental phobia                                                  	110357006        	No     
+Worried about being a bad father                                           	225640002        	No     
+Worried about being a bad mother                                           	225641003        	No     
+Worried about not coping with baby                                         	225639004        	No     
+Xenophobia                                                                 	34652008         	No     
+Zoophobia                                                                  	54307006         	No     

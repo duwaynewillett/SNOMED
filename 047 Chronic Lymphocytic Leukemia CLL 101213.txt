@@ -1,0 +1,3 @@
+Term                                   	Code          	Retired
+Chronic lymphocytic leukemia           	51092000      	No     
+History of chronic lymphocytic leukemia	63581000119104	No     

@@ -1,0 +1,5 @@
+Term                                            	Code           	Retired
+History of aortic valve replacement             	1231000119100  	No     
+History of mechanical aortic valve replacement  	125411000119107	No     
+History of porcine aortic valve replacement     	97021000119102 	No     
+History of tissue graft aortic valve replacement	53391000119100 	No     

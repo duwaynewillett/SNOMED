@@ -1,0 +1,343 @@
+Term                                                                                                            	Code             	Retired
+Accidental coumarin overdose                                                                                    	296931004        	No     
+Accidental heparin overdose                                                                                     	296927005        	No     
+Accidental warfarin overdose                                                                                    	296934007        	No     
+Acquired afibrinogenemia                                                                                        	359730001        	No     
+Acquired coagulation disorder                                                                                   	234466008        	No     
+Acquired coagulation factor deficiency                                                                          	25904003         	No     
+Acquired coagulation factor inhibitor disorder                                                                  	64509006         	No     
+Acquired combined coagulation factor deficiency                                                                 	439156006        	No     
+Acquired factor II deficiency                                                                                   	191298004        	No     
+Acquired factor IX deficiency disease                                                                           	12153008         	No     
+Acquired factor V deficiency disease                                                                            	35913006         	No     
+Acquired factor VII deficiency disease                                                                          	2036003          	No     
+Acquired factor VIII deficiency disease                                                                         	14230004         	No     
+Acquired factor X deficiency disease                                                                            	33820001         	No     
+Acquired factor XI deficiency disease                                                                           	35554008         	No     
+Acquired factor XII deficiency disease                                                                          	15132005         	No     
+Acquired factor XIII deficiency disease                                                                         	6364000          	No     
+Acquired fibrinogen abnormality                                                                                 	234462005        	No     
+Acquired hypofibrinogenemia                                                                                     	359723007        	No     
+Acquired hypoplasminogenemia                                                                                    	95843009         	No     
+Acquired hypoprothrombinemia                                                                                    	4152002          	No     
+Acquired inhibitor of coagulation                                                                               	282707003        	No     
+Acquired pancytopenia                                                                                           	5876000          	No     
+Acquired purpura fulminans                                                                                      	725157006        	No     
+Acquired thrombocytopenia                                                                                       	74576004         	No     
+Acquired thrombotic thrombocytopenic purpura                                                                    	439007008        	No     
+Acquired von Willebrand's disease                                                                               	234451005        	No     
+Acute idiopathic thrombocytopenic purpura                                                                       	28505005         	No     
+Afibrinogenemia                                                                                                 	278504009        	No     
+Afibrinogenemia - postpartum                                                                                    	237337003        	No     
+Afibrinogenemia following molar AND/OR ectopic pregnancy                                                        	85796009         	No     
+Alloimmune platelet transfusion refractoriness                                                                  	128094006        	No     
+Alloimmune thrombocytopenia                                                                                     	128093000        	No     
+Alpha chain defect dysfibrinogenemia                                                                            	234459007        	No     
+Alpha-2-antiplasmin deficiency                                                                                  	234465007        	No     
+Amegakaryocytic thrombocytopenia                                                                                	234482009        	No     
+Amegakaryocytic thrombocytopenia with congenital malformation                                                   	359531004        	No     
+Anticoagulant excess without bleeding                                                                           	278366008        	No     
+Anticoagulant overdosage                                                                                        	43302000         	No     
+Anticoagulant-induced bleeding                                                                                  	278365007        	No     
+Anti-factor II disorder                                                                                         	180481005        	No     
+Antiprothrombin disorder                                                                                        	181456001        	No     
+Antithrombin III deficiency                                                                                     	36351005         	No     
+Autoimmune factor VIII deficiency                                                                               	307515009        	No     
+Autoimmune neonatal thrombocytopenia                                                                            	276575001        	No     
+Autoimmune pancytopenia                                                                                         	183005           	No     
+Autoimmune thrombocytopenia                                                                                     	128091003        	No     
+Autoimmune thrombotic thrombocytopenic purpura                                                                  	438476003        	No     
+Autosomal dominant deficiency of plasminogen                                                                    	95842004         	No     
+Autosomal dominant macrothrombocytopenia                                                                        	720521008        	No     
+Benign gestational thrombocytopenia                                                                             	128090002        	No     
+Bernard Soulier syndrome                                                                                        	54569005         	No     
+Beta chain defect dysfibrinogenemia                                                                             	234460002        	No     
+Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency                         	725105006        	No     
+Blood coagulation disorder                                                                                      	64779008         	No     
+Blood coagulation disorder complicating childbirth                                                              	10749581000119100	No     
+Blood coagulation disorder complicating pregnancy                                                               	10749641000119106	No     
+Blood coagulation disorder due to liver disease                                                                 	69500007         	No     
+Blood coagulation disorder with impaired clot retraction time                                                   	123790009        	No     
+Blood coagulation disorder with prolonged bleeding time                                                         	123789000        	No     
+Blood coagulation disorder with prolonged coagulation time                                                      	123787003        	No     
+Blood coagulation disorder with shortened bleeding time                                                         	123788008        	No     
+Blood coagulation disorder with shortened coagulation time                                                      	123786007        	No     
+Blood coagulation disorder, categorized by value of screening test                                              	128088003        	No     
+Chronic idiopathic thrombocytopenic purpura                                                                     	13172003         	No     
+Classic onset hemorrhagic disease of the newborn due to vitamin K deficiency classic onset                      	717936002        	No     
+Coagulation factor deficiency syndrome                                                                          	86075001         	No     
+Combined coagulation factor deficiency                                                                          	234463000        	No     
+Combined deficiency of factor V and factor VIII                                                                 	715559004        	No     
+Congenital afibrinogenemia                                                                                      	154818001        	No     
+Congenital alpha-2-antiplasmin deficiency                                                                       	716746003        	No     
+Congenital amegakaryocytic thrombocytopenia                                                                     	716336002        	No     
+Congenital dysmegakaryopoietic thrombocytopenia, Paris Trousseau type                                           	441134009        	No     
+Congenital factor IX deficiency variant                                                                         	234444001        	No     
+Congenital factor IX deficiency with inhibitor                                                                  	234445000        	No     
+Congenital factor IX deficiency without inhibitor                                                               	426199009        	No     
+Congenital fibrinogen abnormality                                                                               	234456000        	No     
+Congenital hypofibrinogenemia                                                                                   	439145006        	No     
+Congenital plasminogen activator inhibitor deficiency type 1                                                    	717407006        	No     
+Congenital thrombocytopenic purpura                                                                             	267535004        	No     
+Congenital von Willebrand's disease                                                                             	234446004        	No     
+Congenital von Willebrand's disease type I                                                                      	234447008        	No     
+Congenital von Willebrand's disease type II                                                                     	234448003        	No     
+Congenital von Willebrand's disease type III                                                                    	234450006        	No     
+Contact factor deficiency                                                                                       	234452003        	No     
+Coumarin overdose                                                                                               	296930003        	No     
+Coumarin overdose of undetermined intent                                                                        	296933001        	No     
+Cryofibrinogenemia                                                                                              	10934005         	No     
+Cyclic thrombocytopenia                                                                                         	48788004         	No     
+Defect of purinergic receptor p2y G protein-coupled 12                                                          	725291001        	No     
+Defibrination syndrome following molar AND/OR ectopic pregnancy                                                 	62698000         	No     
+Deficiency of coagulation factor due to liver disease                                                           	191296000        	No     
+Deficiency of coagulation factor due to vitamin K deficiency                                                    	191297009        	No     
+Deficiency of naturally occurring coagulation factor inhibitor                                                  	105604006        	No     
+Dilutional thrombocytopenia                                                                                     	51624005         	No     
+Disorder involving the fibrinolytic system                                                                      	95839005         	No     
+Disseminated intravascular coagulation                                                                          	67406007         	No     
+Disseminated intravascular coagulation due to placental abruption                                               	39191000119103   	No     
+Disseminated intravascular coagulation in newborn                                                               	34417008         	No     
+DK phocomelia syndrome                                                                                          	719021005        	No     
+Doan-Wright syndrome                                                                                            	38970002         	No     
+Drug induced thrombotic thrombocytopenic purpura                                                                	441322009        	No     
+Drug-induced coagulation inhibitor disorder                                                                     	16773005         	No     
+Drug-induced immune thrombocytopenia                                                                            	19307009         	No     
+Dysfibrinogenemia                                                                                               	111589005        	No     
+Dysplasminogenemia                                                                                              	95844003         	No     
+Early onset diffuse bleeding diathesis secondary to vitamin K deficient hemorrhagic disease of fetus and newborn	717935003        	No     
+Epstein syndrome                                                                                                	234485006        	No     
+Estren-Dameshek anemia                                                                                          	46760003         	No     
+Evans syndrome                                                                                                  	75331009         	No     
+Factor I deficiency disease                                                                                     	439458000        	No     
+Factor I inhibitor disorder                                                                                     	58327003         	No     
+Factor II deficiency                                                                                            	73975000         	No     
+Factor IX inhibitor disorder                                                                                    	89729000         	No     
+Factor V deficiency                                                                                             	4320005          	No     
+Factor V inhibitor disorder                                                                                     	41690001         	No     
+Factor VII deficiency                                                                                           	37193007         	No     
+Factor VIII deficiency                                                                                          	234440005        	No     
+Factor VIII inhibitor disorder                                                                                  	47307007         	No     
+Factor X deficiency                                                                                             	76642003         	No     
+Factor X inhibitor disorder                                                                                     	9489006          	No     
+Factor XI deficiency, type I                                                                                    	88540000         	No     
+Factor XI deficiency, type II                                                                                   	33169001         	No     
+Factor XI deficiency, type III                                                                                  	45963004         	No     
+Factor XI inhibitor disorder                                                                                    	38879000         	No     
+Factor XII deficiency disease                                                                                   	46981006         	No     
+Factor XIII deficiency disease                                                                                  	18604004         	No     
+Factor XIII inhibitor disorder                                                                                  	13993001         	No     
+Failed attempted termination of pregnancy with afibrinogenemia                                                  	27068000         	No     
+Failed attempted termination of pregnancy with defibrination syndrome                                           	34478009         	No     
+Familial hemorrhagic diathesis                                                                                  	6935003          	No     
+Familial multiple factor deficiency syndrome                                                                    	81783000         	No     
+Familial multiple factor deficiency syndrome, type I                                                            	84048006         	No     
+Familial multiple factor deficiency syndrome, type II                                                           	65768009         	No     
+Familial multiple factor deficiency syndrome, type III                                                          	64315007         	No     
+Familial multiple factor deficiency syndrome, type IV                                                           	66909001         	No     
+Familial multiple factor deficiency syndrome, type V                                                            	3760002          	No     
+Familial multiple factor deficiency syndrome, type VI                                                           	61551003         	No     
+Fanconi's anemia                                                                                                	30575002         	No     
+Fibrinogen abnormality                                                                                          	234455001        	No     
+Fibrinogen deficiency                                                                                           	359727008        	No     
+Fibrinolysis - postpartum                                                                                       	237336007        	No     
+Fibrinolytic bleeding syndrome                                                                                  	234464006        	No     
+Gamma chain defect dysfibrinogenemia                                                                            	234461003        	No     
+HELLP syndrome                                                                                                  	95605009         	No     
+Hemophilia                                                                                                      	90935002         	No     
+Hemorrhagic disease of the newborn due to factor II deficiency                                                  	24149006         	No     
+Hemorrhagic disease of the newborn due to vitamin K deficiency                                                  	12546009         	No     
+Heparin overdose                                                                                                	296926001        	No     
+Heparin overdose of undetermined intent                                                                         	296929008        	No     
+Heparin-induced thrombocytopenia                                                                                	73397007         	No     
+Heparin-induced thrombocytopenia with thrombosis                                                                	111588002        	No     
+Hereditary antithrombin III deficiency                                                                          	439699000        	No     
+Hereditary coagulation factor deficiency                                                                        	16922007         	No     
+Hereditary combined coagulation factor deficiency                                                               	439157002        	No     
+Hereditary combined deficiency of vitamin K-dependent clotting factors                                          	724356003        	No     
+Hereditary dysfibrinogenemia                                                                                    	45366001         	No     
+Hereditary dysplasminogenemia                                                                                   	95845002         	No     
+Hereditary factor I deficiency disease                                                                          	31925001         	No     
+Hereditary factor II deficiency disease                                                                         	33297000         	No     
+Hereditary factor IX deficiency disease                                                                         	41788008         	No     
+Hereditary factor IX deficiency disease with inhibitor                                                          	438372000        	No     
+Hereditary factor IX deficiency disease without inhibitor                                                       	438792009        	No     
+Hereditary factor V deficiency disease                                                                          	88776002         	No     
+Hereditary factor VII deficiency disease                                                                        	40855001         	No     
+Hereditary factor VIII deficiency disease                                                                       	28293008         	No     
+Hereditary factor VIII deficiency disease with inhibitor                                                        	234442002        	No     
+Hereditary factor VIII deficiency disease without inhibitor                                                     	438360006        	No     
+Hereditary factor X deficiency disease                                                                          	37350004         	No     
+Hereditary factor XI deficiency disease                                                                         	49762007         	No     
+Hereditary factor XII deficiency disease                                                                        	43217004         	No     
+Hereditary factor XIII A subunit and B subunit deficiency                                                       	439460003        	No     
+Hereditary factor XIII A subunit deficiency                                                                     	439455002        	No     
+Hereditary factor XIII B subunit deficiency                                                                     	439459008        	No     
+Hereditary factor XIII deficiency disease                                                                       	50189006         	No     
+Hereditary hyperfibrinogenemia                                                                                  	440924009        	No     
+Hereditary hypoplasminogenemia                                                                                  	95841006         	No     
+Hereditary protein C deficiency                                                                                 	439274008        	No     
+Hereditary protein S deficiency                                                                                 	439702007        	No     
+Hereditary thrombocytopenic disorder                                                                            	438492008        	No     
+Hereditary thrombophilic dysfibrinogenemia                                                                      	438827002        	No     
+Hereditary von Willebrand disease type 2A                                                                       	359711001        	No     
+Hereditary von Willebrand disease type 2B                                                                       	359717002        	No     
+Hereditary von Willebrand disease type 2M                                                                       	359725000        	No     
+Hereditary von Willebrand disease type IA                                                                       	359700009        	No     
+Heterozygous protein C deficiency                                                                               	441101007        	No     
+Heterozygous protein S deficiency                                                                               	440988005        	No     
+High molecular weight kininogen deficiency                                                                      	27312002         	No     
+Homozygous protein C deficiency                                                                                 	441188004        	No     
+Homozygous protein S deficiency                                                                                 	441189007        	No     
+Hyperfibrinogenemia                                                                                             	439000005        	No     
+Hyperheparinemia                                                                                                	79674009         	No     
+Hypodysfibrinogenemia                                                                                           	234458004        	No     
+Hypofibrinogenemia                                                                                              	234457009        	No     
+Hypoplasminogenemia                                                                                             	95840007         	No     
+Idiopathic factor VIII deficiency                                                                               	307514008        	No     
+Idiopathic maternal thrombocytopenia                                                                            	371106008        	No     
+Idiopathic thrombocytopenic purpura                                                                             	32273002         	No     
+Illegal termination of pregnancy with afibrinogenemia                                                           	3230006          	No     
+Illegal termination of pregnancy with defibrination syndrome                                                    	61810006         	No     
+Immune thrombocytopenia                                                                                         	2897005          	No     
+Induced termination of pregnancy complicated by afibrinogenemia                                                 	609456005        	No     
+Induced termination of pregnancy complicated by defibrination syndrome                                          	609462000        	No     
+Intentional coumarin overdose                                                                                   	296932006        	No     
+Intentional heparin overdose                                                                                    	296928000        	No     
+Intentional warfarin sodium overdose                                                                            	296935008        	No     
+Isolated thrombocytopenia                                                                                       	724637001        	No     
+Kasabach-Merritt syndrome                                                                                       	86635005         	No     
+Late onset diffuse bleeding diathesis secondary to vitamin K deficient hemorrhagic disease of fetus and newborn 	717937006        	No     
+Legal termination of pregnancy with afibrinogenemia                                                             	30479005         	No     
+Legal termination of pregnancy with defibrination syndrome                                                      	6647006          	No     
+Lupus anticoagulant disorder                                                                                    	19267009         	No     
+Malignancy-related factor VIII deficiency                                                                       	307518006        	No     
+May-Hegglin anomaly                                                                                             	234484005        	No     
+Mediterranean macrothrombocytopenia                                                                             	60628003         	No     
+Mediterranean thrombocytopenia                                                                                  	234487003        	No     
+Megakaryocytic aplasia                                                                                          	359536009        	No     
+Megakaryocytic thrombocytopenia                                                                                 	234483004        	No     
+Mild hereditary factor IX deficiency disease with inhibitor                                                     	440868005        	No     
+Mild hereditary factor IX deficiency disease without inhibitor                                                  	441192006        	No     
+Mild hereditary factor VIII deficiency disease                                                                  	26029002         	No     
+Mild hereditary factor VIII deficiency disease with inhibitor                                                   	425949001        	No     
+Mild hereditary factor VIII deficiency disease without inhibitor                                                	440820004        	No     
+Miscarriage with afibrinogenemia                                                                                	21360006         	No     
+Miscarriage with defibrination syndrome                                                                         	50770000         	No     
+Mixed cryofibrinogenemia                                                                                        	80988005         	No     
+Moderate hereditary factor IX deficiency disease with inhibitor                                                 	440867000        	No     
+Moderate hereditary factor IX deficiency disease without inhibitor                                              	441191004        	No     
+Moderate hereditary factor VIII deficiency disease                                                              	33344008         	No     
+Moderate hereditary factor VIII deficiency disease with inhibitor                                               	438599002        	No     
+Moderate hereditary factor VIII deficiency disease without inhibitor                                            	441006000        	No     
+Montreal platelet syndrome                                                                                      	234486007        	No     
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome                                                 	733028000        	No     
+MYH9 macrothrombocytopenia syndrome                                                                             	717769007        	No     
+MYH9 related disease                                                                                            	712922002        	No     
+Neonatal alloimmune thrombocytopenia                                                                            	240305000        	No     
+Neonatal coagulation disorder                                                                                   	95623001         	No     
+Neonatal purpura fulminans (homozygous protein C deficiency)                                                    	402851000        	No     
+Neonatal thrombocytopenia                                                                                       	82835005         	No     
+Neonatal thrombocytopenia associated with maternal idiopathic thrombocytopenic purpura                          	7933002          	No     
+Neonatal thrombocytopenia due to exchange transfusion                                                           	89962000         	No     
+Neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia                                           	61744005         	No     
+Other specified disorders of clotting or bleeding                                                               	191332004        	Yes    
+Pancytopenia                                                                                                    	127034005        	No     
+Pancytopenia due to antineoplastic chemotherapy                                                                 	328301000119102  	No     
+Pancytopenia with pancreatitis                                                                                  	234367000        	No     
+Pancytopenia-dysmelia                                                                                           	275523003        	No     
+Passovoy factor deficiency                                                                                      	234453008        	No     
+Perinatal thrombocytopenia                                                                                      	273986001        	No     
+Post infectious thrombocytopenic purpura                                                                        	33183004         	No     
+Postpartum afibrinogenemia with hemorrhage                                                                      	111452009        	No     
+Postpartum coagulation defect with hemorrhage                                                                   	49177006         	No     
+Postpartum coagulation defects                                                                                  	267272006        	No     
+Postpartum coagulation defects - delivered with postnatal problem                                               	200030007        	No     
+Postpartum coagulation defects with postnatal problem                                                           	200031006        	No     
+Postpartum fibrinolysis with hemorrhage                                                                         	62410004         	No     
+Posttransfusion purpura                                                                                         	73162004         	No     
+Pregnancy-related factor VIII deficiency                                                                        	307517001        	No     
+Prekallikrein deficiency                                                                                        	48976006         	No     
+Primary cryofibrinogenemia                                                                                      	61802005         	No     
+Primary thrombocytopenia                                                                                        	267534000        	No     
+Protein C deficiency disease                                                                                    	76407009         	No     
+Protein S deficiency disease                                                                                    	1563006          	No     
+Prothrombin complex deficiency                                                                                  	234454002        	No     
+Pseudo von Willebrand disease                                                                                   	128115005        	No     
+Purpura fulminans                                                                                               	13507004         	No     
+Purpura of skin and or skin-associated mucous membrane co-occurrent and due to coagulation disorder             	724854007        	No     
+Radial aplasia-thrombocytopenia syndrome                                                                        	85589009         	No     
+Radiation thrombocytopenia                                                                                      	371074009        	No     
+Radioulnar synostosis with amegakaryocytic thrombocytopenia syndrome                                            	721882001        	No     
+Refractory thrombocytopenia                                                                                     	721304007        	No     
+Secondary autoimmune thrombocytopenia                                                                           	128092005        	No     
+Secondary cryofibrinogenemia                                                                                    	41816006         	No     
+Secondary thrombocytopenia                                                                                      	154826009        	No     
+Severe fever with thrombocytopenia syndrome virus                                                               	722401001        	No     
+Severe hereditary factor IX deficiency disease with inhibitor                                                   	440866009        	No     
+Severe hereditary factor IX deficiency disease without inhibitor                                                	441190003        	No     
+Severe hereditary factor VIII deficiency disease                                                                	16872008         	No     
+Severe hereditary factor VIII deficiency disease with inhibitor                                                 	438373005        	No     
+Severe hereditary factor VIII deficiency disease without inhibitor                                              	440993008        	No     
+Sex-linked thrombocytopenia                                                                                     	37492005         	No     
+Systemic fibrinogenolysis                                                                                       	10153004         	No     
+T activation syndrome                                                                                           	23578006         	No     
+Thrombocytopathy, asplenia and miosis                                                                           	711407000        	No     
+Thrombocytopenia associated with AIDS                                                                           	421766003        	No     
+Thrombocytopenia co-occurrent and due to alcoholism                                                             	97571000119109   	No     
+Thrombocytopenia due to alcohol                                                                                 	699208000        	No     
+Thrombocytopenia due to blood loss                                                                              	49886003         	No     
+Thrombocytopenia due to defective platelet production                                                           	82190001         	No     
+Thrombocytopenia due to diminished platelet production                                                          	78345002         	No     
+Thrombocytopenia due to drugs                                                                                   	191322006        	No     
+Thrombocytopenia due to extracorporeal circulation                                                              	30182008         	No     
+Thrombocytopenia due to extracorporeal circulation of blood                                                     	191323001        	No     
+Thrombocytopenia due to hypersplenism                                                                           	63444004         	No     
+Thrombocytopenia due to hypothermia                                                                             	34395002         	No     
+Thrombocytopenia due to massive blood transfusion                                                               	307342006        	No     
+Thrombocytopenia due to non-immune destruction                                                                  	87902006         	No     
+Thrombocytopenia due to sequestration                                                                           	323079008        	No     
+Thrombocytopenic disorder                                                                                       	302215000        	No     
+Thrombocytopenic purpura                                                                                        	302873008        	No     
+Thrombocytopenic purpura associated with metabolic disorder                                                     	417626001        	No     
+Thrombocytopenic purpura due to defective platelet production                                                   	402653004        	No     
+Thrombocytopenic purpura due to platelet consumption                                                            	402654005        	No     
+Thrombophilia due to acquired antithrombin III deficiency                                                       	439126002        	No     
+Thrombophilia due to acquired protein C deficiency                                                              	439002002        	No     
+Thrombophilia due to acquired protein S deficiency                                                              	439125003        	No     
+Thrombotic thrombocytopenic purpura                                                                             	78129009         	No     
+Thyrocerebrorenal syndrome                                                                                      	733096007        	No     
+Transient neonatal disorder of coagulation                                                                      	32605001         	No     
+Transient neonatal thrombocytopenia                                                                             	23205009         	No     
+Transient neonatal thrombocytopenia due to exchange transfusion                                                 	206510008        	No     
+Transient neonatal thrombocytopenia due to idiopathic maternal thrombocytopenia                                 	206511007        	No     
+Transient neonatal thrombocytopenia due to isoimmunization                                                      	206512000        	No     
+Upshaw-Schulman syndrome                                                                                        	373420004        	No     
+Uremic thrombocytopenia                                                                                         	416902009        	No     
+Vitamin K deficiency coagulation disorder                                                                       	1286003          	No     
+von Willebrand disease type 1                                                                                   	128106003        	No     
+von Willebrand disease type 2                                                                                   	128107007        	No     
+von Willebrand disease type 2A                                                                                  	359714009        	No     
+von Willebrand disease type 2B                                                                                  	359721009        	No     
+von Willebrand disease type 2M                                                                                  	359729006        	No     
+von Willebrand disease type 2N                                                                                  	359732009        	No     
+von Willebrand disease type 3                                                                                   	128108002        	No     
+von Willebrand disease type IA                                                                                  	359709005        	No     
+von Willebrand disease type IB                                                                                  	128113003        	No     
+von Willebrand disease type IC                                                                                  	128114009        	No     
+von Willebrand disease, type 1^a^                                                                               	359704000        	No     
+von Willebrand disease, type IIA                                                                                	87397002         	No     
+von Willebrand disease, type IIB                                                                                	19520006         	No     
+von Willebrand disease, type IIC                                                                                	1908008          	No     
+von Willebrand disease, type IID                                                                                	35066007         	No     
+von Willebrand disease, type IIE                                                                                	52137009         	No     
+von Willebrand disease, type IIF                                                                                	12501008         	No     
+von Willebrand disease, type IIG                                                                                	71723006         	No     
+von Willebrand disease, type IIH                                                                                	24663001         	No     
+von Willebrand disorder                                                                                         	128105004        	No     
+von Willebrand factor inhibitor disorder                                                                        	41106001         	No     
+Warfarin overdosage                                                                                             	47546008         	No     
+Warfarin overdose of undetermined intent                                                                        	296936009        	No     
+Wiskott-Aldrich autosomal dominant variant syndrome                                                             	403837005        	No     
+Wiskott-Aldrich syndrome                                                                                        	36070007         	No     
+X-linked congenital dyserythropoietic anemia with thrombocytopenia                                              	722475006        	No     

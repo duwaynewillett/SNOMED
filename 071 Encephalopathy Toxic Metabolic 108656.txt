@@ -1,0 +1,60 @@
+Term                                                              	Code            	Retired
+Acquired metabolic and toxic encephalopathies                     	230351001       	No     
+Acute hepatitis B with delta agent (coinfection) with hepatic coma	186624004       	No     
+Alcoholic encephalopathy                                          	192811002       	No     
+Cerebral degeneration due to beriberi                             	192812009       	No     
+Cerebral degeneration due to vitamin B12 deficiency               	192817003       	No     
+Chronic viral hepatitis C with hepatic coma                       	435101000124104 	No     
+Dialysis dementia                                                 	9345005         	No     
+Dialysis disequilibrium syndrome                                  	87235005        	No     
+Drug-induced encephalopathy                                       	230354009       	No     
+Encephalopathy caused by heavy metal                              	230355005       	No     
+Encephalopathy due to radiation damage                            	230360009       	No     
+Encephalopathy due to vitamin deficiency                          	230352008       	No     
+Glucose transporter protein type 1 deficiency syndrome            	445252005       	No     
+Hepatic coma                                                      	72836002        	No     
+Hepatic coma due to acute hepatic failure                         	1082511000119102	No     
+Hepatic coma due to acute hepatitis B                             	424099008       	No     
+Hepatic coma due to acute hepatitis C                             	125921000119106 	No     
+Hepatic coma due to alcoholic liver failure                       	1082621000119108	No     
+Hepatic coma due to chronic hepatic failure                       	1085091000119108	No     
+Hepatic coma due to chronic hepatitis B                           	424340000       	No     
+Hepatic coma due to chronic hepatitis B with delta agent          	153091000119109 	No     
+Hepatic coma due to chronic hepatitis C                           	146371000119104 	No     
+Hepatic coma due to hepatitis                                     	103931000119102 	No     
+Hepatic coma due to subacute liver failure                        	1092691000119109	No     
+Hepatic coma due to viral hepatitis                               	40946000        	No     
+Hepatic coma due to viral hepatitis A                             	16060001        	No     
+Hepatic coma due to viral hepatitis B                             	26206000        	No     
+Hepatic encephalopathy                                            	13920009        	No     
+Hepatic encephalopathy in fulminant hepatic failure               	449901005       	No     
+Hepatitis with hepatic coma                                       	435091000124105 	No     
+Hyperammonemic encephalopathy                                     	425522009       	No     
+Hypertensive encephalopathy                                       	50490005        	No     
+Hypoglycemic encephalopathy                                       	64624009        	No     
+Hyponatremic encephalopathy                                       	230358007       	No     
+Korsakoff's psychosis                                             	69482004        	No     
+Korsakov's alcoholic psychosis with peripheral neuritis           	191471000       	No     
+Metabolic encephalopathy                                          	50122000        	No     
+Morel laminar sclerosis                                           	230353003       	No     
+Myxedema coma                                                     	21263006        	No     
+Myxedema encephalopathy                                           	192816007       	No     
+Parkinson-dementia complex of Guam                                	62239001        	No     
+Portal systemic encephalopathy                                    	449902003       	No     
+Reye's syndrome                                                   	74351001        	No     
+Secondary amyloid encephalopathy                                  	230359004       	No     
+Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia  	59651006        	No     
+Sepsis-associated encephalopathy                                  	230361008       	No     
+Toxic encephalitis                                                	192730008       	No     
+Toxic encephalitis due to thallium                                	75143000        	No     
+Toxic encephalomyelitis                                           	443153007       	No     
+Toxic encephalopathy                                              	28394000        	No     
+Toxic encephalopathy due to carbon tetrachloride                  	74267005        	No     
+Toxic encephalopathy due to hydroxyquinoline                      	73935008        	No     
+Toxic encephalopathy due to lead                                  	51399001        	No     
+Toxic encephalopathy due to mercury                               	55623006        	No     
+Toxic metabolic encephalopathy                                    	472916000       	No     
+Urate encephalopathy                                              	230357002       	No     
+Uremic coma                                                       	95569006        	No     
+Uremic encephalopathy                                             	35145002        	No     
+Viral hepatitis C with coma                                       	186628001       	No     

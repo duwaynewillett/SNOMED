@@ -1,0 +1,12 @@
+Term                                                                                       	Code           	Retired
+Diabetic macular edema                                                                     	312912001      	No     
+Diabetic macular edema not clinically significant                                          	399864000      	No     
+Macular edema and retinopathy due to type 2 diabetes mellitus                              	97331000119101 	No     
+Non-high-risk proliferative diabetic retinopathy with clinically significant macular edema 	399875001      	No     
+O/E - right eye clinically significant macular edema                                       	414908005      	No     
+Proliferative diabetic retinopathy - high risk with clinically significant macular edema   	399874002      	No     
+Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus               	97341000119105 	No     
+Retinal edema due to type 1 diabetes mellitus                                              	109171000119104	No     
+Retinal edema due to type 2 diabetes mellitus                                              	28331000119107 	No     
+Severe nonproliferative diabetic retinopathy with clinically significant macular edema     	399872003      	No     
+Very severe nonproliferative diabetic retinopathy with clinically significant macular edema	399877009      	No     

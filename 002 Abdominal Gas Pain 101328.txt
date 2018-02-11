@@ -1,0 +1,3 @@
+Term                               	Code     	Retired
+Abdominal wind pain                	45979003 	No     
+Flatulence, eructation and gas pain	271832001	No     

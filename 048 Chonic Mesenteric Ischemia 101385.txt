@@ -1,0 +1,4 @@
+Term                                       	Code     	Retired
+Abdominal angina                           	241154007	No     
+Chronic vascular insufficiency of intestine	111354009	No     
+Insufficiency of mesenteric artery         	734041006	No     
